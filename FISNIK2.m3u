@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-0,RTSH SPORT
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+#EXTINF:-0,ARENA 1
+http://46.40.5.99:8000/arena_1_high
+#EXTINF:-0,ARENA 2
+http://46.40.5.99:8000/arena_2_high
+#EXTINF:-0,ARENA 3
+http://46.40.5.99:8000/arena_3_high
+#EXTINF:-0,ARENA 4
+http://46.40.5.99:8000/arena_4_high
+#EXTINF:0,A1 Sport
+http://178.132.6.97:8080/A1Sport1/index.m3u8
+#EXTINF:-0,ALL SPORT BASCET
+http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-0,ESPORT 3
+https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:0,ABU DHABI SPORT1
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:0,ABU DHABI SPORT2
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:0,SETANTA SPORT
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:0,RTK 1
+http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:0,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:0,RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:0,KLAN KS
+http://chinatimeshift.dyndns.ws:80/KlanKosova/timeshift_rel-21600.m3u8
+#EXTINF:0,OPOJA
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:0,DASMA
+http://91.187.117.230:8080
+#EXTINF:0,ALBUK HD
+rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
+#EXTINF:0,TETOVA
+rtmp://ip.tvtetova.net:5119/live/tvtetova
+#EXTINF:0,ESTRADA TV
+http://topestrada.shqiptv.org/live/topestrada/index.m3u8
+#EXTINF:0,ZJARR TV
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:0,BOIN TV
+http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8
+#EXTINF:0,GOSTIVARI
+http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
+#EXTINF:0,SHARRI TV
+http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
+#EXTINF:0,EURO AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:0,USKANA TV
+http://188.44.8.20:60000/TvUskana
+#EXTINF:0,Jug TV
+http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
+#EXTINF:0,RTSH KORQA
+http://edge01eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:0,RROKUM
+http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#EXTINF:-0,RTSH 2
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
+#EXTINF:-0,RTSH 24
+http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
+#EXTINF:-0,RTSH KIDS
+http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
+#EXTINF:-0,RTSH FILM
+http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-0,RTSH MUZIKE
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:0,RTSH KORQA
+http://edge01eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:0,ORANEWS
+http://145.239.2.153:8081/oranews/live/playlist.m3u8
+#EXTINF:0,NEWS24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:0,REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:0,SKYNEWS HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:0,BLOMBERG
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+#EXTINF:0,DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
+#EXTINF:0,RUPLY TV
+https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
+#EXTINF:0,CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+#EXTINF:-0,TRT HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-0,ENGLISH LEARNING
+http://ott-cdn.ucom.am/s37/index.m3u8
+#EXTINF:-0,Nature Vision
+https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+#EXTINF:-0,Prva TV
+http://46.40.5.99:8000/prva_tv_high
+#EXTINF:-0,B92
+http://46.40.5.99:8000/b92_high
+#EXTINF:-0,RTV 1
+http://46.40.5.99:8000/rtv_1_high
+#EXTINF:-0,RTV 2
+http://46.40.5.99:8000/rtv_2_high
+#EXTINF:-0,A1 Cinema
+http://178.132.6.97:8080/A1Cinema1/index.m3u8
+#EXTINF:-0,A1 Primera
+http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
+#EXTINF:-0,A1 srb
+http://178.132.6.97:8080/A1Srbija1/tracks-v1a1/index.m3u8
+#EXTINF:-0,A1 Balkan
+http://178.132.6.97:80/A1Balkan1/index.m3u8
+#EXTINF:-0,Viasat Explore SR
+http://46.40.5.99:8000/viasat_explorer_high
+#EXTINF:-0,Viasat History SR
+http://46.40.5.99:8000/viasat_history_high
+#EXTINF:-0,Viasat Nature SR
+http://46.40.5.99:8000/viasat_nature_high
+#EXTINF:-0,VH1
+http://46.40.5.99:8000/vh1_high
+#EXTINF:-0,davinchi
+http://46.40.5.99:8000/davinchi_high
+#EXTINF:-0,Film box Etra
+http://46.40.5.99:8000/filmbox_extra_high
+#EXTINF:-0,Film Plus
+http://46.40.5.99:8000/filmbox_plus_high
+#EXTINF:-0,RT CG 
+http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
+#EXTINF:-0,Webstudio
+http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
+#EXTINF:-0,RTS 2
+http://178.132.6.97:8080/RTS21/playlist.m3u8
+#EXTINF:-0,RTS 3
+http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
+#EXTINF:-0,Pink
+http://46.40.5.99:8000/pink_high
+#EXTINF:-0,Roma tv
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:-0,SKY FOLK
+http://skyfolk.mk/live.m3u8
+#EXTINF:-0,TRAVEL BG
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-0,This is bulgaria
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
