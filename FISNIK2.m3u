@@ -159,7 +159,7 @@ http://stream.bestvideostreaming.is/8706/index.m3u8
 http://stream.bestvideostreaming.is/8713/index.m3u8
 #EXTINF:-0,RTV21 PLUS
 http://stream.bestvideostreaming.is/8750/index.m3u8
-vRTV 21MK
+#EXTINF:-0,RTV 21MK
 http://stream.bestvideostreaming.is/8790/index.m3u8
 #EXTINF:-0,TV DUKAGJINI
 http://stream.bestvideostreaming.is/8788/index.m3u8
