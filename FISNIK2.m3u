@@ -227,6 +227,8 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-0,SPORT PLUS
 http://stream.bestvideostreaming.is/7004/index.m3u8
+#EXTINF:-0,SPORT Z-VOETBOL
+http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-0,SKY SHQIP
 http://stream.bestvideostreaming.is/8721/index.m3u8
 #EXTINF:-0,TRING SHQIP
