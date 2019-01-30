@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group2;Group3",Channel 4
+http://example.com/ch4.mp4
 #EXTINF:-0,RTSH SPORT
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-0,ARENA 1
