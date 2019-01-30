@@ -1,25 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0401.png",[COLOR orange]BBC One[/COLOR]
-http://wownet.ro/str/0401.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0401" group-title="English" tvg-logo="0402.png",[COLOR orangered]BBC One HD[/COLOR]
-http://wownet.ro/str/0402.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0403.png",[COLOR orange]BBC Two[/COLOR]
-http://wownet.ro/str/0403.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0403" group-title="English" tvg-logo="0404.png",[COLOR orangered]BBC Two HD[/COLOR]
-http://wownet.ro/str/0404.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0405.png",[COLOR orange]BBC Three[/COLOR]
-http://wownet.ro/str/0405.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0405" group-title="English" tvg-logo="0406.png",[COLOR orangered]BBC Three HD[/COLOR]
-http://wownet.ro/str/0406.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0407.png",[COLOR orange]BBC Four[/COLOR]
-http://wownet.ro/str/0407.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0407" group-title="English" tvg-logo="0408.png",[COLOR orangered]BBC Four HD[/COLOR]
-http://wownet.ro/str/0408.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1 tvg-id="0409" group-title="English" tvg-logo="0409.png",[COLOR orange]iTV[/COLOR]
-http://wownet.ro/str/0409.m3u8|X-Forwarded-For=81.17.18.50
-#EXTINF:-1,[COLOR green]CNN[/COLOR]
-http://stream.bestvideostreaming.is/8854/index.m3u8
-#EXTINF:-0,RTSH SPORT 1
+#EXTINF:-0,RTSH SPORT
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-0,ARENA 1
 http://46.40.5.99:8000/arena_1_high
