@@ -5,11 +5,11 @@ http://example.com/ch4.mp4
 http://example.com/ch4.mp4
 #EXTINF:-0,RTSH SPORT
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:-0,ARENA 1
+#EXTINF:-0,group-title="Group1;",ARENA 1
 http://46.40.5.99:8000/arena_1_high
-#EXTINF:-0,ARENA 2
+#EXTINF:-0,group-title="Group1;",ARENA 2
 http://46.40.5.99:8000/arena_2_high
-#EXTINF:-0,ARENA 3
+#EXTINF:-0,group-title="Group1;",ARENA 3
 http://46.40.5.99:8000/arena_3_high
 #EXTINF:-0,ARENA 4
 http://46.40.5.99:8000/arena_4_high
@@ -17,9 +17,9 @@ http://46.40.5.99:8000/arena_4_high
 http://178.132.6.97:8080/A1Sport1/index.m3u8
 #EXTINF:-0,ALL SPORT BASCET
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-0,ESPORT 3
+#EXTINF:-0,group-title="Group2;",ESPORT 3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:0,ABU DHABI SPORT1
+#EXTINF:0,group-title="Group1;",ABU DHABI SPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:0,ABU DHABI SPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
