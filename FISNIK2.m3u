@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]--- 30-01-2019 ---[/B][/I][/COLOR]
 #EXTINF:-0,RTSH SPORT 1
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-0,ARENA 1
