@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-0,RTSH SPORT
+#EXTINF:-0,$ExtFilter="TV" group-title="Sport",RTSH SPORT
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:-0,ARENA 1
+#EXTINF:-0,$ExtFilter="TV" group-title="Sport",ARENA 1
 http://46.40.5.99:8000/arena_1_high
-#EXTINF:-0,ARENA 2
+#EXTINF:-0,$ExtFilter="TV" group-title="Sport",ARENA 2
 http://46.40.5.99:8000/arena_2_high
-#EXTINF:-0,ARENA 3
+#EXTINF:-0,$ExtFilter="TV" group-title="Sport",ARENA 3
 http://46.40.5.99:8000/arena_3_high
-#EXTINF:-0,ARENA 4
+#EXTINF:-0,$ExtFilter="TV" group-title="Sport",ARENA 4
 http://46.40.5.99:8000/arena_4_high
-#EXTINF:0,A1 Sport
+#EXTINF:0,$ExtFilter="TV" group-title="Sport",A1 Sport
 http://178.132.6.97:8080/A1Sport1/index.m3u8
-#EXTINF:-0,ALL SPORT BASCET
+#EXTINF:-0,$ExtFilter="TV" group-title="Sport",ALL SPORT BASCET
 http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-0,ESPORT 3
+#EXTINF:-0,$ExtFilter="TV" group-title="Sport",ESPORT 3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:0,ABU DHABI SPORT1
+#EXTINF:0,$ExtFilter="TV" group-title="Sport",ABU DHABI SPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:0,ABU DHABI SPORT2
+#EXTINF:0,$ExtFilter="TV" group-title="Sport",ABU DHABI SPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:0,SETANTA SPORT
+#EXTINF:0,$ExtFilter="TV" group-title="Sport",SETANTA SPORT
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:0,RTK 1
+#EXTINF:0,$ExtFilter="TV" group-title="lajme",RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:0,RTK 3
+#EXTINF:0,$ExtFilter="TV" group-title="lajme",RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:0,RTK 4
+#EXTINF:0,$ExtFilter="TV" group-title="lajme",RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:0,KLAN KS
+#EXTINF:0,$ExtFilter="TV" group-title="lajme",KLAN KS
 http://chinatimeshift.dyndns.ws:80/KlanKosova/timeshift_rel-21600.m3u8
 #EXTINF:0,OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
