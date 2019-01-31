@@ -1,4 +1,4 @@
-#EXTM3U $ExtFilter="SPORT"
+#EXTM3U
 #EXTINF:-0,$ExtFilter="TV" group-title="Sport",RTSH SPORT
 http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-0,$ExtFilter="TV" group-title="Sport",ARENA 1
