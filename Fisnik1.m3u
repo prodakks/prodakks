@@ -21,6 +21,8 @@ http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
 #EXTINF:0,$ExtFilter="TV" group-title="SPORT",SETANTA SPORT
 http://ott-cdn.ucom.am/s81/04.m3u8
+
+
 #EXTINF:0,$ExtFilter="TV" group-title="LAJME",RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:0,$ExtFilter="TV" group-title="LAJME",RTK 3
@@ -29,6 +31,8 @@ http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:0,$ExtFilter="TV" group-title="LAJME",KLAN KS
 http://chinatimeshift.dyndns.ws:80/KlanKosova/timeshift_rel-21600.m3u8
+
+
 #EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",DASMA
