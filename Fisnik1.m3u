@@ -483,3 +483,16 @@ http://stream.bestvideostreaming.is/8612/index.m3u8
 http://stream.bestvideostreaming.is/8827/index.m3u8
 #EXTINF:-0,$ExtFilter="TV" group-title="BOTA",ALJAZEERA ENGLISH
 http://stream.bestvideostreaming.is/8614/index.m3u8
+
+#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SK SPORT 1
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/125.m3u8
+#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SK SPORT 2
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/126.m3u8
+#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SK SPORT 3
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/127.m3u8 
+#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SK SPORT 4
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/486.m3u8
+#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SK SPORT 5
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/487.m3u8
+#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SK SPORT 6
+http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/488.m3u8
