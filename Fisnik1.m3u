@@ -146,7 +146,7 @@ http://stream.bestvideostreaming.is/8705/index.m3u8
 http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-0,$ExtFilter="TV" group-title="LAJME",KLAN KOSOVA
 http://stream.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",vALSAT M
+#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",ALSAT MK
 http://stream.bestvideostreaming.is/8713/index.m3u8
 #EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",RTV21 PLUS
 http://stream.bestvideostreaming.is/8750/index.m3u8
