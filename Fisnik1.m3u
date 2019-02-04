@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]RTK 1[/COLOR]
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+http://stream.bestvideostreaming.is/8702/index.m3u8
 #EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]RTK 3[/COLOR]
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+http://stream.bestvideostreaming.is/8902/index.m3u8
 #EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]RTK 4[/COLOR]
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]KLAN KS[/COLOR]
-http://chinatimeshift.dyndns.ws:80/KlanKosova/timeshift_rel-21600.m3u8
+http://stream.bestvideostreaming.is/8706/index.m3u8
 #EXTINF:-0,$ExtFilter="TV" group-title="SPORT",[COLOR red]SSPORT NEWS[/COLOR]
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SUPER SPORT 2
