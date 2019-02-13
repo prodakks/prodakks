@@ -13,6 +13,22 @@ http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/486.m3u8
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/487.m3u8
 #EXTINF:-0,SK SPORT 6
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/488.m3u8
+#EXTINF:-0,M4 SPORT 
+http://193.239.252.15/live/hls/stream3_q2/index.m3u8
+#EXTINF:-0,LOOK PLUS SPORT HD
+http://193.239.252.15/live/hls/stream2_q2/index.m3u8
+#EXTINF:-0,LOOK SPORT
+http://193.239.252.15/live/hls/stream1_q2/index.m3u8
+#EXTINF:-0,FLOW SPORT
+http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
+#EXTINF:-0,
+http://31.220.0.196:8081/live/ctvb3/playlist.m3u8
+#EXTINF:-0,
+http://31.220.0.196:8081/live/ctvs1/playlist.m3u8
+#EXTINF:-0,PLANET SPORT 1
+http://tvmaksi.iptvposokuca.info:80/live?channelId=230&uid=125&deviceUser=bojanpodnovlje&devicePass=proba
+#EXTINF:-0,PLANET SPORT 2
+http://tvmaksi.iptvposokuca.info:80/live?channelId=231&uid=125&deviceUser=bojanpodnovlje&devicePass=proba
 #EXTINF:-0,ESPORT 3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
 #EXTINF:0,SETANTA SPORT
