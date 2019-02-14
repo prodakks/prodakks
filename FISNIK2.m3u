@@ -111,16 +111,12 @@ http://ott-cdn.ucom.am/s37/index.m3u8
 https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
 #EXTINF:-0,RT CG 
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
-#EXTINF:-0,Webstudio
+#EXTINF:-0,STUDIO B
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-0,RTS 2
-http://178.132.6.97:8080/RTS21/playlist.m3u8
 #EXTINF:-0,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
 #EXTINF:-0,Roma tv
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-0,SKY FOLK
-http://skyfolk.mk/live.m3u8
 #EXTINF:-0,TRAVEL BG
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 #EXTINF:-0,This is bulgaria
