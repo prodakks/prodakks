@@ -25,6 +25,20 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
 #EXTINF:0,SETANTA SPORT
 http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:-0,Most video TV sport
+http://w4.mostvideo.tv/tv/ch1.m3u8
+#EXTINF:-0,Viasat Sport HD
+https://live-hls-viasat.cdnvideo.ru/viasat/Sport_HD.smil/8580a7260d1ada98dba6644a74337816--viasat--Sport_HD_480--chunklist.m3u8
+#EXTINF:-0,Rus sport
+http://37.49.212.64:81/udp/239.54.7.42:1224
+#EXTINF:-0,Match premier
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/531/index.m3u8
+#EXTINF:-0,TELEKANAL FUTBOLL
+http://ott-cdn.ucom.am/s41/04.m3u8
+#EXTINF:-0,Match Arena
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/528/index.m3u8
+#EXTINF:-0,Match Igra
+http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8
 #EXTINF:0,ABU DHABI SPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:0,ABU DHABI SPORT2
@@ -35,6 +49,8 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:0,RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-0,Discovery DK
+http://dani.moppie.info:7444/live/DenDanmarkussa/MV19F0W4UH/10346.m3u8
 #EXTINF:-0,Tring PLanet
 http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8
 #EXTINF:-0,Tring Life
