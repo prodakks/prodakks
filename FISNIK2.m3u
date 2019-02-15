@@ -1,133 +1,133 @@
 #EXTM3U
-#EXTINF:-1,RS: ARENA SPORT 1
+#EXTINF:-0,ARENA SPORT 1
 https://vip7stream.pw/lba/123/g6/arena1rs.m3u8
-#EXTINF:-1,RS: SK SPORT 1
+#EXTINF:-0,SK SPORT 1
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/125.m3u8
-#EXTINF:-1,RS: SK SPORT 2
+#EXTINF:-0,SK SPORT 2
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/126.m3u8
-#EXTINF:-1,RS: SK SPORT 3
+#EXTINF:-0,SK SPORT 3
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/127.m3u8
-#EXTINF:-1,RS: SK SPORT 4
+#EXTINF:-0,SK SPORT 4
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/486.m3u8
-#EXTINF:-1,RS: SK SPORT 5
+#EXTINF:-0,SK SPORT 5
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/487.m3u8
-#EXTINF:-1,RS: SK SPORT 6
+#EXTINF:-0,SK SPORT 6
 http://viptvservices.is-certified.com:8000/live/gamitsos/IWUog5XqPN/488.m3u8
-#EXTINF:-1,POR: M4 SPORT
+#EXTINF:-0,M4 SPORT
 http://193.239.252.15/live/hls/stream3_q2/index.m3u8
-#EXTINF:-1,POR: LOOK PLUS SPORT HD
+#EXTINF:-0,LOOK PLUS SPORT HD
 http://193.239.252.15/live/hls/stream2_q2/index.m3u8
-#EXTINF:-1,POR: LOOK SPORT
+#EXTINF:-0,LOOK SPORT
 http://193.239.252.15/live/hls/stream1_q2/index.m3u8
-#EXTINF:-1,POR: FLOW SPORT
+#EXTINF:-0,FLOW SPORT
 http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
-#EXTINF:-1,DK: ESPORT 3
+#EXTINF:-0,ESPORT 3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:-1,RUS: SETANTA SPORT
+#EXTINF:-0,SETANTA SPORT
 http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-1,DK: Most video TV sport
+#EXTINF:-0,Most video TV sport
 http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1,DK: Viasat Sport HD
+#EXTINF:-0,Viasat Sport HD
 https://live-hls-viasat.cdnvideo.ru/viasat/Sport_HD.smil/8580a7260d1ada98dba6644a74337816--viasat--Sport_HD_480--chunklist.m3u8
-#EXTINF:-1,DK: Match premier
+#EXTINF:-0,Match premier
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/531/index.m3u8
-#EXTINF:-1,DK: TELEKANAL FUTBOLL
+#EXTINF:-0,TELEKANAL FUTBOLL
 http://ott-cdn.ucom.am/s41/04.m3u8
-#EXTINF:-1,DK: Match Arena
+#EXTINF:-0,Match Arena
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/528/index.m3u8
-#EXTINF:-1,DK: Match Igra
+#EXTINF:-0,Match Igra
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8
-#EXTINF:-1,DK: EREN DK
+#EXTINF:-0,EREN DK
 http://dani.moppie.info:7444/live/DenDanmarkussa/MV19F0W4UH/10346.m3u8
-#EXTINF:-1,AR: ABU DHABI SPORT1
+#EXTINF:-0,DHABI SPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
-#EXTINF:-1,AR: ABU DHABI SPORT2
+#EXTINF:-0,ABU DHABI SPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
-#EXTINF:-1,KS: RTK 1
+#EXTINF:-0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-1,KS: RTK 3
+#EXTINF:-0,RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-1,KS: RTK 4
+#EXTINF:-0,RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,DK: Tring PLanet
+#EXTINF:-0,Tring PLanet
 http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8
-#EXTINF:-1,DK: Tring Life
+#EXTINF:-0,Tring Life
 http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8
-#EXTINF:-1,DK: Tring Komedi
+#EXTINF:-0,Tring Komedi
 http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8
-#EXTINF:-1,KS: KLAN KS
+#EXTINF:-0,KLAN KS
 http://chinatimeshift.dyndns.ws:80/KlanKosova/timeshift_rel-21600.m3u8
-#EXTINF:-1,DK: OPOJA
+#EXTINF:-0,OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1,DK: DASMA
+#EXTINF:-0,DASMA
 http://91.187.117.230:8080
-#EXTINF:-1,DK: ALBUK HD
+#EXTINF:-0,ALBUK HD
 rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
-#EXTINF:-1,DK: TETOVA
+#EXTINF:-0,TETOVA
 rtmp://ip.tvtetova.net:5119/live/tvtetova
-#EXTINF:-1,DK: ESTRADA TV
+#EXTINF:-0,ESTRADA TV
 http://topestrada.shqiptv.org/live/topestrada/index.m3u8
-#EXTINF:-1,DK: ZJARR TV
+#EXTINF:-0,ZJARR TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-1,DK: BOIN TV
+#EXTINF:-0,BOIN TV
 http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8
-#EXTINF:-1,DK: GOSTIVARI
+#EXTINF:-0,GOSTIVARI
 http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
-#EXTINF:-1,DK: SHARRI TV
+#EXTINF:-0,SHARRI TV
 http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
-#EXTINF:-1,DK: EURO AL
+#EXTINF:-0,EURO AL
 http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
-#EXTINF:-1,DK: USKANA TV
+#EXTINF:-0,USKANA TV
 http://188.44.8.20:60000/TvUskana
-#EXTINF:-1,DK: Jug TV
+#EXTINF:-0,Jug TV
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:-1,DK: RTSH KORQA
+#EXTINF:-0,RTSH KORQA
 http://edge01eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1,DK: RROKUM
+#EXTINF:-0,RROKUM
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-1,DK: RTSH 2
+#EXTINF:-0,RTSH 2
 http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
 #EXTINF:-1,AL: RTSH 24
 http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:-1,DK: RTSH KIDS
+#EXTINF:-0,RTSH KIDS
 http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
-#EXTINF:-1,DK: RTSH FILM
+#EXTINF:-0,RTSH FILM
 http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-1,DK: RTSH MUZIKE
+#EXTINF:-0,RTSH MUZIKE
 http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-1,AL: RTSH KORQA
+#EXTINF:-0,RTSH KORQA
 http://edge01eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-1,DK: ORANEWS
+#EXTINF:-0,ORANEWS
 http://145.239.2.153:8081/oranews/live/playlist.m3u8
-#EXTINF:-1,AL: NEWS24
+#EXTINF:-0,NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1,AL: REPORT
+#EXTINF:-0,REPORT
 http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:-1,EN: SKYNEWS HD
+#EXTINF:-0,SKYNEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:-1,EN: BLOMBERG
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-1,DE: DW
+#EXTINF:-0,DW
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-1,RUS: RUPLY TV
+#EXTINF:-0,RUPLY TV
 https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
-#EXTINF:-1,EN: CBSN
+#EXTINF:-0,CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1,DK: TRT HABER
+#EXTINF:-0,TRT HABER
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1,DK: ENGLISH LEARNING
+#EXTINF:-0,ENGLISH LEARNING
 http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1,DK: Nature Vision
+#EXTINF:-0,Nature Vision
 https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:-1,CG: RT CG 
+#EXTINF:-0,RT CG 
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
-#EXTINF:-1,RS: STUDIO B
+#EXTINF:-0,STUDIO B
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-1,DK: RTS 3
+#EXTINF:-0,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-1,DK: Roma tv
+#EXTINF:-0,Roma tv
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1,DK: TRAVEL BG
+#EXTINF:-0,TRAVEL BG
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-1,DK: This is bulgaria
+#EXTINF:-0,This is bulgaria
 http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
