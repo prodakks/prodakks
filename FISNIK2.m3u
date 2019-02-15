@@ -21,6 +21,8 @@ http://193.239.252.15/live/hls/stream1_q2/index.m3u8
 http://161.0.157.9/PLTV/88888888/224/3221226899/04.m3u8
 #EXTINF:-0,ESPORT 3
 https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
+#EXTINF:-0,SETANTA SPORT +
+http://ott-cdn.ucom.am/s82/04.m3u8
 #EXTINF:-0,SETANTA SPORT
 http://ott-cdn.ucom.am/s81/04.m3u8
 #EXTINF:-0,Most video TV sport
@@ -35,9 +37,7 @@ http://ott-cdn.ucom.am/s41/04.m3u8
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/528/index.m3u8
 #EXTINF:-0,Match Igra
 http://b31398aa.ottv.info/iptv/FCU2M3ZSVTTVFR/529/index.m3u8
-#EXTINF:-0,EREN DK
-http://dani.moppie.info:7444/live/DenDanmarkussa/MV19F0W4UH/10346.m3u8
-#EXTINF:-0,DHABI SPORT1
+#EXTINF:-0,ABU DHABI SPORT1
 http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
 #EXTINF:-0,ABU DHABI SPORT2
 http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
@@ -113,10 +113,20 @@ https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-0,TRT HABER
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-0,DREAM tv
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-0,STAR tv
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-0,ENGLISH LEARNING
 http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-0,Nature Vision
 https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
+#EXTINF:-1,Viasat Explore
+http://ott-cdn.ucom.am/s72/04.m3u8
+#EXTINF:-1,Viasat History
+http://ott-cdn.ucom.am/s70/04.m3u8
+#EXTINF:-1,Viasat Nature
+http://ott-cdn.ucom.am/s67/04.m3u8
 #EXTINF:-0,RT CG 
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
 #EXTINF:-0,STUDIO B
