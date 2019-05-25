@@ -77,12 +77,6 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 http://ott-cdn.ucom.am/s37/index.m3u8
 #EXTINF:-0,Nature Vision
 https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:-1,Viasat Explore
-http://ott-cdn.ucom.am/s72/04.m3u8
-#EXTINF:-1,Viasat History
-http://ott-cdn.ucom.am/s70/04.m3u8
-#EXTINF:-1,Viasat Nature
-http://ott-cdn.ucom.am/s67/04.m3u8
 #EXTINF:-0,RT CG 
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
 #EXTINF:-0,STUDIO B
