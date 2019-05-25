@@ -11,8 +11,6 @@ http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8
 http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8
 #EXTINF:-0,Tring Komedi
 http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8
-#EXTINF:-0,KLAN KS
-http://chinatimeshift.dyndns.ws:80/KlanKosova/timeshift_rel-21600.m3u8
 #EXTINF:-0,OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-0,DASMA
