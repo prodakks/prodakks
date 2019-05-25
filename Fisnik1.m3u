@@ -1,478 +1,99 @@
 #EXTM3U
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]RTK 1[/COLOR]
+#EXTINF:-0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]RTK 3[/COLOR]
+#EXTINF:-0,RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]RTK 4[/COLOR]
+#EXTINF:-0,RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",[COLOR orange]KLAN KS[/COLOR]
-http://stream.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",[COLOR red]SSPORT NEWS[/COLOR]
-http://stream.bestvideostreaming.is/10030/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SUPER SPORT 2
-http://stream.bestvideostreaming.is/8734/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SUPER SPORT 3
-http://stream.bestvideostreaming.is/8741/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SUPER SPORT 4
-http://stream.bestvideostreaming.is/8743/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SUPER SPORT 5
-http://stream.bestvideostreaming.is/8736/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",K SPORT 1
-http://stream.bestvideostreaming.is/10035/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",K SPORT 2
-http://stream.bestvideostreaming.is/10036/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",TRING SPORT NEWS
-http://stream.bestvideostreaming.is/8785/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",TRING SPORT 1
-http://stream.bestvideostreaming.is/8796/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",TRING SPORT 2
-http://stream.bestvideostreaming.is/8797/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",TRING SPORT 3
-http://stream.bestvideostreaming.is/8798/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",TRING SPORT 4
-http://stream.bestvideostreaming.is/8799/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SPORT KLUB 1
-http://stream.bestvideostreaming.is/7001/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SPORT KLUB 2
-http://stream.bestvideostreaming.is/7002/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SPORT KLUB 3
-http://stream.bestvideostreaming.is/7003/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SPORT KLUB 4
-http://stream.bestvideostreaming.is/7004/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",SPORT Z-VOETBOL
-http://stream.bestvideostreaming.is/7003/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",RTSH SPORT
-http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",ARENA SPORT 1
-http://89.216.39.249:8080/ArenaSport1/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",Arena Sport 2
-http://89.216.39.249:8080/ArenaSport2/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",Arena Sport 3
-http://89.216.39.249:8080/ArenaSport3/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",Arena Sport 4
-http://89.216.39.249:8080/ArenaSport4/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",Arena Sport 5
-http://89.216.39.249:8080/ArenaSport5/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",EUROSPORT 1
-http://stream.bestvideostreaming.is/8814/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",EUROSPORT 2
-http://stream.bestvideostreaming.is/8815/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",EUROSPORT DE
-http://stream.bestvideostreaming.is/8816/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",ALL SPORT BASCET
-http://173.236.10.10:1935/dgrau/dgrau/live.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",ESPORT 3
-https://ccma-tva-int-cellnex-live-hls.secure.footprint.net/cat/ngrp:es3_web/chunklist_b1296000_DVR.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="SPORT",SETANTA SPORT
-http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",ARENA 1
-http://46.40.5.99:8000/arena_1_high
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",ARENA 2
-http://46.40.5.99:8000/arena_2_high
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",ARENA 3
-http://46.40.5.99:8000/arena_3_high
-#EXTINF:-0,$ExtFilter="TV" group-title="SPORT",ARENA 4
-http://46.40.5.99:8000/arena_4_high
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",OPOJA
+#EXTINF:-0,Tring PLanet
+http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8
+#EXTINF:-0,Tring Life
+http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8
+#EXTINF:-0,Tring Komedi
+http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8
+#EXTINF:-0,OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",DASMA
+#EXTINF:-0,DASMA
 http://91.187.117.230:8080
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",ALBUK HD
+#EXTINF:-0,ALBUK HD
 rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",TETOVA
+#EXTINF:-0,TETOVA
 rtmp://ip.tvtetova.net:5119/live/tvtetova
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",ESTRADA TV
+#EXTINF:-0,ESTRADA TV
 http://topestrada.shqiptv.org/live/topestrada/index.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",ZJARR TV
+#EXTINF:-0,ZJARR TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",BOIN TV
+#EXTINF:-0,BOIN TV
 http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",GOSTIVARI
+#EXTINF:-0,GOSTIVARI
 http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",SHARRI TV
+#EXTINF:-0,SHARRI TV
 http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",EURO AL
+#EXTINF:-0,EURO AL
 http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",USKANA TV
+#EXTINF:-0,USKANA TV
 http://188.44.8.20:60000/TvUskana
-#EXTINF:0,$ExtFilter="TV" group-title="MUZIKA",Jug TV
+#EXTINF:-0,Jug TV
 http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",RTSH MUZIKE
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",VH1
-http://46.40.5.99:8000/vh1_high
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",RROKUM
+#EXTINF:-0,RTSH KORQA
+http://edge01eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:-0,RROKUM
 http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",RTSH 2
+#EXTINF:-0,RTSH 2
 http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",RTSH 24
+#EXTINF:-1,AL: RTSH 24
 http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",ORANEWS
+#EXTINF:-0,RTSH KIDS
+http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
+#EXTINF:-0,RTSH FILM
+http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
+#EXTINF:-0,RTSH MUZIKE
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:-0,RTSH KORQA
+http://edge01eu.ekranet.com/tvkorca/index.m3u8
+#EXTINF:-0,ORANEWS
 http://145.239.2.153:8081/oranews/live/playlist.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",NEWS24
+#EXTINF:-0,NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",REPORT
-http://66.55.93.204/hls-live/livepkgr/_definst_/reportstream.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",T-----R------I-----N------G------TVSH
-#EXTINF:0,$ExtFilter="TV" group-title="KANALE NGA BOTA",SKYNEWS
+#EXTINF:-0,REPORT
+http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-0,SKYNEWS HD
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="KANALE NGA BOTA",BLOMBERG
+#EXTINF:-1,EN: BLOMBERG
 https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="KANALE NGA BOTA",DEUTCHE WELLE
+#EXTINF:-0,DW
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RUPLY TV
+#EXTINF:-0,RUPLY TV
 https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="KANALE NGA BOTA",CBSN
+#EXTINF:-0,CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",TRT HABER
+#EXTINF:-0,TRT HABER
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ENGLISH LEARNING
+#EXTINF:-0,DREAM tv
+http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
+#EXTINF:-0,STAR tv
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-0,ENGLISH LEARNING
 http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",Nature Vision
+#EXTINF:-0,Nature Vision
 https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:0,$ExtFilter="TV" group-title="LAJME",RTSH SAT
-http://stream.bestvideostreaming.is/8701/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",RTK
-http://stream.bestvideostreaming.is/8702/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",MKTV2
-http://stream.bestvideostreaming.is/8728/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TOP CHANNEL
-http://stream.bestvideostreaming.is/8708/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",KLAN
-http://stream.bestvideostreaming.is/8704/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",KTV
-http://stream.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",RTV 21
-http://stream.bestvideostreaming.is/8748/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",KLAN KOSOVA
-http://stream.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",ALSAT MK
-http://stream.bestvideostreaming.is/8713/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",RTV21 PLUS
-http://stream.bestvideostreaming.is/8750/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",RTV 21MK
-http://stream.bestvideostreaming.is/8790/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TV DUKAGJINI
-http://stream.bestvideostreaming.is/8788/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",KLAN PLUS
-http://stream.bestvideostreaming.is/8720/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",ALBTV USA
-http://stream.bestvideostreaming.is/8711/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",RROKUM TV
-http://stream.bestvideostreaming.is/8849/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",FIRST TV
-http://stream.bestvideostreaming.is/8717/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TRIBUNA CHANNEL
-http://stream.bestvideostreaming.is/8791/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",RTK 3
-http://stream.bestvideostreaming.is/8902/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",RTK 4
-http://stream.bestvideostreaming.is/8903/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",T7
-http://stream.bestvideostreaming.is/8904/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",MFM MUSIC TV
-http://stream.bestvideostreaming.is/7711/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",ABC NEWS
-http://stream.bestvideostreaming.is/10023/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",NEWS 24
-http://stream.bestvideostreaming.is/8724/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TOP NEWS
-http://stream.bestvideostreaming.is/10025/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",ARTA NEWS
-http://stream.bestvideostreaming.is/8745/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",A1 REPORT
-http://stream.bestvideostreaming.is/8707/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",ORA NEWS
-http://stream.bestvideostreaming.is/8715/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",7 NEWS
-http://stream.bestvideostreaming.is/8761/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",SKY SHQIP
-http://stream.bestvideostreaming.is/8721/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING SHQIP
-http://stream.bestvideostreaming.is/8762/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",T HD
-http://stream.bestvideostreaming.is/8746/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",3 PLUS
-http://stream.bestvideostreaming.is/8773/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM1 SD
-http://stream.bestvideostreaming.is/8730/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM2 SD
-http://stream.bestvideostreaming.is/8731/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM HITS
-http://stream.bestvideostreaming.is/8755/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM AKSION
-http://stream.bestvideostreaming.is/8742/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM THRILLER
-http://stream.bestvideostreaming.is/8757/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",EUROFILM
-http://stream.bestvideostreaming.is/8758/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM DRAME
-http://stream.bestvideostreaming.is/8727/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM AUTOR
-http://stream.bestvideostreaming.is/8753/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FILM KOMEDI
-http://stream.bestvideostreaming.is/8752/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING COMEDY
-http://stream.bestvideostreaming.is/8767/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING FANTASY
-http://stream.bestvideostreaming.is/8766/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING SUPER
-http://stream.bestvideostreaming.is/8770/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING MAX
-http://stream.bestvideostreaming.is/8769/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING LIFE
-http://stream.bestvideostreaming.is/8768/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",JOLLY HD
-http://stream.bestvideostreaming.is/8774/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",STINET
-http://stream.bestvideostreaming.is/8751/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING LIVING
-http://stream.bestvideostreaming.is/8771/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",STAR TV HD
-http://stream.bestvideostreaming.is/8781/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",SKY 7
-http://stream.bestvideostreaming.is/8889/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",SKY AKSION
-http://stream.bestvideostreaming.is/8880/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",SKY KOMEDI
-http://stream.bestvideostreaming.is/8881/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",SKY MAX
-http://stream.bestvideostreaming.is/8882/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",SKY DRAME
-http://stream.bestvideostreaming.is/8883/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",SKY NOVELA
-http://stream.bestvideostreaming.is/8884/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",FAMILY HD
-http://stream.bestvideostreaming.is/8754/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",NATIONAL GEOGRAPHIC
-http://stream.bestvideostreaming.is/8725/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",EXP NATYRA
-http://stream.bestvideostreaming.is/8739/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",EXP SHKENCE
-http://stream.bestvideostreaming.is/8726/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",EXP HISTORI
-http://stream.bestvideostreaming.is/8729/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",TRING PLANET
-http://stream.bestvideostreaming.is/8764/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",TRING WORLD
-http://stream.bestvideostreaming.is/8763/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",TRING HISTORI
-http://stream.bestvideostreaming.is/8765/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",SKY PLANET
-http://stream.bestvideostreaming.is/8886/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",SKY SHKENCE
-http://stream.bestvideostreaming.is/8887/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",SKY HISTORI
-http://stream.bestvideostreaming.is/8888/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",MUSE
-http://stream.bestvideostreaming.is/8778/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING SMILE
-http://stream.bestvideostreaming.is/8772/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TV MITROVICA
-http://stream.bestvideostreaming.is/8716/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",21 MIX
-http://stream.bestvideostreaming.is/8756/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",NEWSBIZ
-http://stream.bestvideostreaming.is/8852/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",CHANNEL ONE
-http://stream.bestvideostreaming.is/8824/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",BABY TV
-http://stream.bestvideostreaming.is/8747/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",BANG BANG
-http://stream.bestvideostreaming.is/8737/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",CUFO
-http://stream.bestvideostreaming.is/8738/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TIP TV
-http://stream.bestvideostreaming.is/8776/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",SOFIA
-http://stream.bestvideostreaming.is/8820/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING KIDS
-http://stream.bestvideostreaming.is/8777/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",TRING TRING
-http://stream.bestvideostreaming.is/8775/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="FILM",JUNIOR TV
-http://stream.bestvideostreaming.is/8744/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",ALB UK
-http://stream.bestvideostreaming.is/8794/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",ELRODI
-http://stream.bestvideostreaming.is/8718/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",FOLK+
-http://stream.bestvideostreaming.is/8759/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",RTV21 POPULLORE
-http://stream.bestvideostreaming.is/8749/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",MUZIKE FOLKLORITE
-http://stream.bestvideostreaming.is/8735/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",EURO AL
-http://stream.bestvideostreaming.is/8719/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",DASMA TV
-http://stream.bestvideostreaming.is/8793/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",BBF
-http://stream.bestvideostreaming.is/8795/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",A-MOL TV
-http://stream.bestvideostreaming.is/7722/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",STAR DRENAS
-http://stream.bestvideostreaming.is/8710/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",RTSH MUZIKE
-http://stream.bestvideostreaming.is/8052/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",MTV KOSOVA
-http://stream.bestvideostreaming.is/8853/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",TV OPOJA
-http://stream.bestvideostreaming.is/8723/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",CLICK TV
-http://stream.bestvideostreaming.is/8779/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TV OPINION
-http://stream.bestvideostreaming.is/8819/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",TURBO
-http://stream.bestvideostreaming.is/8839/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",CLUB TV
-http://stream.bestvideostreaming.is/8821/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TV TIRANA
-http://stream.bestvideostreaming.is/8851/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",SYRI BLUE
-http://stream.bestvideostreaming.is/8850/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="LAJME",TV LLAPI
-http://stream.bestvideostreaming.is/8823/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",STAR PLUS HD
-http://stream.bestvideostreaming.is/8789/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",TV BESA
-http://stream.bestvideostreaming.is/8817/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",PEACE TV
-http://stream.bestvideostreaming.is/8792/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",RTV ISLAM
-http://stream.bestvideostreaming.is/8714/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",TV SHENJA
-http://stream.bestvideostreaming.is/8786/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",TV TETOVA
-http://stream.bestvideostreaming.is/8890/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",SYRI VISION
-http://stream.bestvideostreaming.is/8784/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="MUZIKA",TV DIELLI
-http://stream.bestvideostreaming.is/8818/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",TRING INTERNATIONAL
-http://stream.bestvideostreaming.is/8802/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",BLOOMBERG
-http://stream.bestvideostreaming.is/8607/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",EURONEWS
-http://stream.bestvideostreaming.is/8611/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",PRO7
-http://stream.bestvideostreaming.is/8615/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RTL DE
-http://stream.bestvideostreaming.is/8601/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RTL2 DE
-http://stream.bestvideostreaming.is/8602/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",SUPER RTL
-http://stream.bestvideostreaming.is/8610/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",VOX
-http://stream.bestvideostreaming.is/8621/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",DEUTCHE WELLE
-http://stream.bestvideostreaming.is/8622/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ARTE
-http://stream.bestvideostreaming.is/8623/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ZDF HD
-http://stream.bestvideostreaming.is/8624/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",KABEL 1
-http://stream.bestvideostreaming.is/8625/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ARD 1
-http://stream.bestvideostreaming.is/8628/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",OKD
-http://stream.bestvideostreaming.is/8626/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",TV DE
-http://stream.bestvideostreaming.is/8627/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",SRF INFO
-http://stream.bestvideostreaming.is/8803/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",TELE BERN
-http://stream.bestvideostreaming.is/8804/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",TELE M1
-http://stream.bestvideostreaming.is/8805/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RTL HR
-http://stream.bestvideostreaming.is/8807/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",M6 MUSIC
-http://stream.bestvideostreaming.is/8806/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RAI NEWS
-http://stream.bestvideostreaming.is/8841/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RAI 1
-http://stream.bestvideostreaming.is/8840/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RAI 3
-http://stream.bestvideostreaming.is/8848/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RAI 4
-http://stream.bestvideostreaming.is/8855/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",SKY TG24
-http://stream.bestvideostreaming.is/8854/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",MEDIASET ITALIA
-http://stream.bestvideostreaming.is/8847/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RAI MOVIE
-http://stream.bestvideostreaming.is/8856/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RAI GULP
-http://stream.bestvideostreaming.is/8857/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",RAI YOYO
-http://stream.bestvideostreaming.is/8858/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ALFA KANALI
-http://stream.bestvideostreaming.is/8402/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ANT1
-http://stream.bestvideostreaming.is/8401/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ERT 1
-http://stream.bestvideostreaming.is/8403/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",VOULI
-http://stream.bestvideostreaming.is/8405/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",BX1
-http://stream.bestvideostreaming.is/7731/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",LA TELE
-http://stream.bestvideostreaming.is/7733/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",FRANCE 24
-http://stream.bestvideostreaming.is/7736/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",TV 7
-http://stream.bestvideostreaming.is/7730/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",TRT 1
-http://stream.bestvideostreaming.is/8122/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",E HD
-http://stream.bestvideostreaming.is/8612/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ALJAZEERA BALKANS
-http://stream.bestvideostreaming.is/8827/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="KANALE NGA BOTA",ALJAZEERA ENGLISH
-http://stream.bestvideostreaming.is/8614/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",TRAVEL BG
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="NATYR-SHKENC",This is bulgaria
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Prva TV
-http://46.40.5.99:8000/prva_tv_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",B92
-http://46.40.5.99:8000/b92_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",RTV 1
-http://46.40.5.99:8000/rtv_1_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",RTV 2
-http://46.40.5.99:8000/rtv_2_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",A1 Cinema
-http://178.132.6.97:8080/A1Cinema1/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",A1 Primera
-http://178.132.6.97:8080/TVPlisi1/tracks-v1a1/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",A1 srb
-http://178.132.6.97:8080/A1Srbija1/tracks-v1a1/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",A1 Balkan
-http://178.132.6.97:80/A1Balkan1/index.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Viasat Explore SR
-http://46.40.5.99:8000/viasat_explorer_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Viasat History SR
-http://46.40.5.99:8000/viasat_history_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Viasat Nature SR
-http://46.40.5.99:8000/viasat_nature_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",davinchi
-http://46.40.5.99:8000/davinchi_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Film box Etra
-http://46.40.5.99:8000/filmbox_extra_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Film Plus
-http://46.40.5.99:8000/filmbox_plus_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",RT CG 
+#EXTINF:-0,RT CG 
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Webstudio
+#EXTINF:-0,STUDIO B
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",RTS 2
-http://178.132.6.97:8080/RTS21/playlist.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",RTS 3
+#EXTINF:-0,RTS 3
 http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Pink
-http://46.40.5.99:8000/pink_high
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",Roma tv
+#EXTINF:-0,Roma tv
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-0,$ExtFilter="TV" group-title="BALKAN",SKY FOLK
-http://skyfolk.mk/live.m3u8
+#EXTINF:-0,TRAVEL BG
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+#EXTINF:-0,This is bulgaria
+http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
+#EXTINF:-0,Stupcat-Fushata
+https://fiona.gjirafa.com/api/media/gjvideo/yzyy1q/720/index.m3u8
+#EXTINF:-0,Stupcat-Zivko Ramadan
+https://fiona.gjirafa.com/api/media/gjvideo/t0y1xz/index144.m3u8
+#EXTINF:-0,Stupcat-Zivko-Taksa
+https://liki.gjirafa.com/api/media/gjvideo/yzt1yq/index.m3u8
+#EXTINF:-0,Stupcat-Gixha Frizer
+https://fiona.gjirafa.com/api/media/gjvideo/yzytty/index.m3u8
