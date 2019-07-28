@@ -1,99 +1,64 @@
-#EXTM3U
-#EXTINF:-0,RTK 1
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
-#EXTINF:-0,RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-0,RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-0,Tring PLanet
-http://stream.shqiptv.com:7080/TRINGPLANET-8764-sd/index.m3u8
-#EXTINF:-0,Tring Life
-http://stream.shqiptv.com:7080/TRINGLIFE-8768-sd/index.m3u8
-#EXTINF:-0,Tring Komedi
-http://stream.shqiptv.com:7080/TRINGKOMEDI-8767-sd/index.m3u8
-#EXTINF:-0,OPOJA
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-0,DASMA
-http://91.187.117.230:8080
-#EXTINF:-0,ALBUK HD
-rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
-#EXTINF:-0,TETOVA
-rtmp://ip.tvtetova.net:5119/live/tvtetova
-#EXTINF:-0,ESTRADA TV
-http://topestrada.shqiptv.org/live/topestrada/index.m3u8
-#EXTINF:-0,ZJARR TV
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-0,BOIN TV
-http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8
-#EXTINF:-0,GOSTIVARI
-http://178.132.6.97:8080/tv2gostivar1/tracks-v1a1/index.m3u8
-#EXTINF:-0,SHARRI TV
-http://178.132.6.97:8080/TV:SharriHD1/tracks-v1a1/index.m3u8
-#EXTINF:-0,EURO AL
-http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
-#EXTINF:-0,USKANA TV
-http://188.44.8.20:60000/TvUskana
-#EXTINF:-0,Jug TV
-http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
-#EXTINF:-0,RTSH KORQA
-http://edge01eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-0,RROKUM
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-0,RTSH 2
-http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
-#EXTINF:-1,AL: RTSH 24
-http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:-0,RTSH KIDS
-http://edge01eu.ekranet.com:80/rtshfemije_240p/index.m3u8
-#EXTINF:-0,RTSH FILM
-http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-0,RTSH MUZIKE
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-0,RTSH KORQA
-http://edge01eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-0,ORANEWS
-http://145.239.2.153:8081/oranews/live/playlist.m3u8
-#EXTINF:-0,NEWS24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-0,REPORT
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:-0,SKYNEWS HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,EN: BLOMBERG
-https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
-#EXTINF:-0,DW
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-0,RUPLY TV
-https://rt-news.secure.footprint.net/1103-inadv-qidx-1k_v3.m3u8
-#EXTINF:-0,CBSN
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-0,TRT HABER
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-0,DREAM tv
-http://live.dogannet.tv/S2/HLS_LIVE/dreamtv/index.m3u8
-#EXTINF:-0,STAR tv
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-0,ENGLISH LEARNING
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-0,Nature Vision
-https://feed00.pluto.tv/feed03/ngrp:nature.vision.stream_all/playlist.m3u8
-#EXTINF:-0,RT CG 
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
-#EXTINF:-0,STUDIO B
-http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-0,RTS 3
-http://best-str.xtim.tv:8080/stream?stream=orig&channel=rts3
-#EXTINF:-0,Roma tv
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-0,TRAVEL BG
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-0,This is bulgaria
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
-#EXTINF:-0,Stupcat-Fushata
-https://fiona.gjirafa.com/api/media/gjvideo/yzyy1q/720/index.m3u8
-#EXTINF:-0,Stupcat-Zivko Ramadan
-https://fiona.gjirafa.com/api/media/gjvideo/t0y1xz/index144.m3u8
-#EXTINF:-0,Stupcat-Zivko-Taksa
-https://liki.gjirafa.com/api/media/gjvideo/yzt1yq/index.m3u8
-#EXTINF:-0,Stupcat-Gixha Frizer
-https://fiona.gjirafa.com/api/media/gjvideo/yzytty/index.m3u8
+#EXTINF:0,BIG FM ROCK | ALB 
+http://46.252.33.58:9310
+#EXTINF:0,RADIO STAR | RKS
+http://radio.1dhe1.com:9400/Unnamed%20Server?1542744574629
+#EXTINF:0,RADIO ARTA | RKS
+http://173.192.207.51:8086/;
+#EXTINF:0,RADIO CLUB FM | ALB
+http://46.252.33.58:9410/1/
+#EXTINF:0,RADIO DARDANIA | DEU
+http://radio.radiodardania.com:4000/stream/1/
+#EXTINF:0,RADIO DUKAGJINI | RKS
+http://s6.voscast.com:8824/
+#EXTINF:0,RADIO EMIGRANTI | FRA
+http://www.radioemigranti.com:8000/radioauto48
+#EXTINF:0,RADIO FAMA | MKD
+http://fama.radiofama.org:7000/
+#EXTINF:0,RADIO FOLEJA | CHE
+http://radiorainca.net:8000/
+#EXTINF:0,RADIO FONTANA | RKS
+http://streaming.jusahost.com:8010/
+#EXTINF:0,RADIO GJILAN | RKS
+http://radio.1dhe1.com:9400/
+#EXTINF:0,RADIO ISLAME | CHE 
+http://server5.digital-webstream.de:33725/
+#EXTINF:0,RADIO JUG | ALB
+http://84.20.77.50:8000/
+#EXTINF:0,RADIO KOHA | MKD
+http://stream.tvkoha.tv:5000/
+#EXTINF:0,RADIO KOSOVA | RKS
+http://82.114.72.2:8088/
+#EXTINF:0,RADIO KOSOVA E LIRË
+http://quasar.shoutca.st:8018/
+#EXTINF:0,RADIO LLAPI | RKS
+http://radio.1dhe1.com:8555/
+#EXTINF:0,RADIO MARIMANGA | DNK
+http://91.82.85.71:9084/
+#EXTINF:0,RADIO MERGIMI | FRA
+http://144.76.33.185:8000/
+#EXTINF:0,RADIO NRG | ALB
+http://ice31.securenetsystems.net:80/AL09
+#EXTINF:0,RADIO PEJA | RKS
+http://ns5.albaservers.com:8020/
+#EXTINF:0,RADIO PENDIMI | RKS
+http://radio-pendimi.com:8000/
+#EXTINF:0,RADIO PERENDIMI | GBR
+http://vera-ks.com:7000/
+#EXTINF:0,RADIO PLUS | RKS
+http://192.240.97.68:8090/
+#EXTINF:0,RADIO RINIA | RKS
+http://radio.1dhe1.com:9200/
+#EXTINF:0,RADIO SHARRI | RKS
+http://live.radio-sharri.info:8020/
+#EXTINF:0,RADIO VICIANA | DEU
+http://viciana.no-ip.info:8010/
+#EXTINF:0,RADIO ZËRIiARBËRIT | NOR
+http://s8.streammonster.com:8210/
+#EXTINF:0,RADIO ZËRIiILIRIDËS |ITA
+http://109.123.116.202:8082/
+#EXTINF:0,RADIO ZËRIiKOSOVËS | DNK
+http://174.36.206.197:8038/
+#EXTINF:0,RADIO 7 | ALB
+http://93.190.141.15:7025/live
+#EXTINF:0,RADIO 21
+http://84.22.44.247:1935/live/radio.stream/playlist.m3u8
