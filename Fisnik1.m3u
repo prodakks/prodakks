@@ -409,19 +409,3 @@ http://stream.bestvideostreaming.is:80/8005/index.m3u8
 http://stream.bestvideostreaming.is:80/8048/index.m3u8
 #EXTINF:-1,Klan Kosova
 http://stream.bestvideostreaming.is:80/8047/index.m3u8
-#EXTINF:-1,Klan TV HD
-http://stream.bestvideostreaming.is:80/8004/index.m3u8
-#EXTINF:-1,Top Channel HD
-http://stream.bestvideostreaming.is:80/8008/index.m3u8
-#EXTINF:-1,Vizion Plus HD
-http://stream.bestvideostreaming.is:80/8003/index.m3u8
-#EXTINF:-1,RTV21 Plus HD
-http://stream.bestvideostreaming.is:80/8050/index.m3u8
-#EXTINF:-1,TV Dukagjini HD
-http://stream.bestvideostreaming.is:80/8088/index.m3u8
-#EXTINF:-1,Film Nje HD
-http://stream.bestvideostreaming.is:80/8010/index.m3u8
-#EXTINF:-1,Film Dy HD
-http://stream.bestvideostreaming.is:80/8011/index.m3u8
-#EXTINF:-1,Luxe TV
-http://stream.bestvideostreaming.is:80/8832/index.m3u8
