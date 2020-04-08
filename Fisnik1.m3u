@@ -1,6 +1,14 @@
 #EXTM3U
 #EXTINF:-0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,KTV
+http://stream.bestvideostreaming.is/8705/index.m3u8
+#EXTINF:-1,KLAN KOSOVA
+http://stream.bestvideostreaming.is/8706/index.m3u8
+#EXTINF:-1,TV DUKAGJINI
+http://stream.bestvideostreaming.is/8788/index.m3u8
+#EXTINF:-1,T7
+http://stream.bestvideostreaming.is/8904/index.m3u8
 #EXTINF:-0,RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-0,RTK 4
@@ -69,20 +77,14 @@ http://stream.bestvideostreaming.is/8728/index.m3u8
 http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,KLAN
 http://stream.bestvideostreaming.is/8704/index.m3u8
-#EXTINF:-1,KTV
-http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,RTV 21
 http://stream.bestvideostreaming.is/8748/index.m3u8
-#EXTINF:-1,KLAN KOSOVA
-http://stream.bestvideostreaming.is/8706/index.m3u8
 #EXTINF:-1,ALSAT M
 http://stream.bestvideostreaming.is/8713/index.m3u8
 #EXTINF:-1,RTV21 PLUS
 http://stream.bestvideostreaming.is/8750/index.m3u8
 #EXTINF:-1,RTV 21MK
 http://stream.bestvideostreaming.is/8790/index.m3u8
-#EXTINF:-1,TV DUKAGJINI
-http://stream.bestvideostreaming.is/8788/index.m3u8
 #EXTINF:-1,KLAN PLUS
 http://stream.bestvideostreaming.is/8720/index.m3u8
 #EXTINF:-1,ALV USA
@@ -97,8 +99,6 @@ http://stream.bestvideostreaming.is/8791/index.m3u8
 http://stream.bestvideostreaming.is/8902/index.m3u8
 #EXTINF:-1,RTK 4
 http://stream.bestvideostreaming.is/8903/index.m3u8
-#EXTINF:-1,T7
-http://stream.bestvideostreaming.is/8904/index.m3u8
 #EXTINF:-1,MFM MUSIC TV
 http://stream.bestvideostreaming.is/7711/index.m3u8
 #EXTINF:-1,ABC NEWS
