@@ -8,6 +8,8 @@ http://173.192.207.51:8086/;
 http://radio.radiodardania.com:4000/stream/1/
 #EXTINF:0,RADIO DUKAGJINI | RKS
 http://s6.voscast.com:8824/
+#EXTINF:0,RADIO PENDIMI | RKS
+http://radio-pendimi.com:8000/
 #EXTINF:0,RADIO EMIGRANTI | FRA
 http://www.radioemigranti.com:8000/radioauto48
 #EXTINF:0,RADIO FAMA | MKD
@@ -34,8 +36,6 @@ http://144.76.33.185:8000/
 http://ice31.securenetsystems.net:80/AL09
 #EXTINF:0,RADIO PEJA | RKS
 http://ns5.albaservers.com:8020/
-#EXTINF:0,RADIO PENDIMI | RKS
-http://radio-pendimi.com:8000/
 #EXTINF:0,RADIO PLUS | RKS
 http://192.240.97.68:8090/
 #EXTINF:0,RADIO RINIA | RKS
