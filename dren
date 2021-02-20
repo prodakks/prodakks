@@ -13,8 +13,8 @@ http://stream.bestvideostreaming.is/8788/index.m3u8
 http://stream.bestvideostreaming.is/8904/index.m3u8
 #EXTINF:-0,KANAL 10
 http://stream.bestvideostreaming.is/8849/index.m3u8
-#EXTINF:-0,ALBUK HD
-rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
+#EXTINF:-1,ATV
+http://stream.bestvideostreaming.is/8709/index.m3u8
 #EXTINF:-0,ZJARR TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
 #EXTINF:-0,EURO AL
