@@ -15,16 +15,6 @@ http://stream.bestvideostreaming.is/8904/index.m3u8
 http://stream.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-1,ATV
 http://stream.bestvideostreaming.is/8709/index.m3u8
-#EXTINF:-0,ZJARR TV
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-0,EURO AL
-http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
-#EXTINF:-0,USKANA TV
-http://188.44.8.20:60000/TvUskana
-#EXTINF:-1,T R I N G TVSH
-http://stream.bestvideostreaming.is/8701/index.m3u8
-#EXTINF:-1,MKTV2
-http://stream.bestvideostreaming.is/8728/index.m3u8
 #EXTINF:-1,TOP CHANNEL
 http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,KLAN
@@ -37,26 +27,10 @@ http://stream.bestvideostreaming.is/8750/index.m3u8
 http://stream.bestvideostreaming.is/8790/index.m3u8
 #EXTINF:-1,KLAN PLUS
 http://stream.bestvideostreaming.is/8720/index.m3u8
-#EXTINF:-1,ALV USA
-http://stream.bestvideostreaming.is/8711/index.m3u8
 #EXTINF:-1,RROKUM TV
 http://stream.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-1,FIRST TV
 http://stream.bestvideostreaming.is/8717/index.m3u8
-#EXTINF:-1,ABC NEWS
-http://stream.bestvideostreaming.is/10023/index.m3u8
-#EXTINF:-1,NEWS 24
-http://stream.bestvideostreaming.is/8724/index.m3u8
-#EXTINF:-1,TOP NEWS
-http://stream.bestvideostreaming.is/10025/index.m3u8
-#EXTINF:-1,ARTA NEWS
-http://stream.bestvideostreaming.is/8745/index.m3u8
-#EXTINF:-1,A1 REPORT
-http://stream.bestvideostreaming.is/8707/index.m3u8
-#EXTINF:-1,ORA NEWS
-http://stream.bestvideostreaming.is/8715/index.m3u8
-#EXTINF:-1,7 NEWS
-http://stream.bestvideostreaming.is/8761/index.m3u8
 #EXTINF:-1,SSPORT NEWS SD
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
@@ -225,6 +199,16 @@ http://stream.bestvideostreaming.is/8821/index.m3u8
 http://stream.bestvideostreaming.is/8850/index.m3u8
 #EXTINF:-1,STAR PLUS HD
 http://stream.bestvideostreaming.is/8789/index.m3u8
+#EXTINF:-0,ZJARR TV
+http://edge01eu.ekranet.com/zjarrtv/index.m3u8
+#EXTINF:-0,EURO AL
+http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:-0,USKANA TV
+http://188.44.8.20:60000/TvUskana
+#EXTINF:-1,T R I N G TVSH
+http://stream.bestvideostreaming.is/8701/index.m3u8
+#EXTINF:-1,MKTV2
+http://stream.bestvideostreaming.is/8728/index.m3u8
 #EXTINF:-1,PEACE TV
 http://stream.bestvideostreaming.is/8792/index.m3u8
 #EXTINF:-1,RTV ISLAM
@@ -246,6 +230,22 @@ http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-0,NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1,ALV USA
+http://stream.bestvideostreaming.is/8711/index.m3u8
+#EXTINF:-1,ABC NEWS
+http://stream.bestvideostreaming.is/10023/index.m3u8
+#EXTINF:-1,NEWS 24
+http://stream.bestvideostreaming.is/8724/index.m3u8
+#EXTINF:-1,TOP NEWS
+http://stream.bestvideostreaming.is/10025/index.m3u8
+#EXTINF:-1,ARTA NEWS
+http://stream.bestvideostreaming.is/8745/index.m3u8
+#EXTINF:-1,A1 REPORT
+http://stream.bestvideostreaming.is/8707/index.m3u8
+#EXTINF:-1,ORA NEWS
+http://stream.bestvideostreaming.is/8715/index.m3u8
+#EXTINF:-1,7 NEWS
+http://stream.bestvideostreaming.is/8761/index.m3u8
 #EXTINF:-0,DW
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 #EXTINF:-0,CBSN
