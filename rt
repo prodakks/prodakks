@@ -11,6 +11,8 @@ http://stream.bestvideostreaming.is/8788/index.m3u8
 http://stream.bestvideostreaming.is/8904/index.m3u8
 #EXTINF:-0,KANAL 10
 http://stream.bestvideostreaming.is/8849/index.m3u8
+#EXTINF:-1,RTV 21
+http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-0,OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-0,ALBUK HD
@@ -29,22 +31,14 @@ http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-0,STAR tv
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-0,RT CG 
-http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
-#EXTINF:-0,STUDIO B
-http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
 #EXTINF:-1,T R I N G TVSH
 http://stream.bestvideostreaming.is/8701/index.m3u8
-#EXTINF:-1,RTK
-http://stream.bestvideostreaming.is/8702/index.m3u8
 #EXTINF:-1,MKTV2
 http://stream.bestvideostreaming.is/8728/index.m3u8
 #EXTINF:-1,TOP CHANNEL
 http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,KLAN
 http://stream.bestvideostreaming.is/8704/index.m3u8
-#EXTINF:-1,RTV 21
-http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-1,ALSAT M
 http://stream.bestvideostreaming.is/8713/index.m3u8
 #EXTINF:-1,RTV21 PLUS
@@ -61,10 +55,6 @@ http://stream.bestvideostreaming.is/8849/index.m3u8
 http://stream.bestvideostreaming.is/8717/index.m3u8
 #EXTINF:-1,TRIBUNA CHANNEL
 http://stream.bestvideostreaming.is/8791/index.m3u8
-#EXTINF:-1,RTK 3
-http://stream.bestvideostreaming.is/8902/index.m3u8
-#EXTINF:-1,RTK 4
-http://stream.bestvideostreaming.is/8903/index.m3u8
 #EXTINF:-1,MFM MUSIC TV
 http://stream.bestvideostreaming.is/7711/index.m3u8
 #EXTINF:-1,ABC NEWS
