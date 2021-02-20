@@ -9,10 +9,6 @@ http://stream.bestvideostreaming.is/8706/index.m3u8
 http://stream.bestvideostreaming.is/8788/index.m3u8
 #EXTINF:-1,T7
 http://stream.bestvideostreaming.is/8904/index.m3u8
-#EXTINF:-0,RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-0,RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-0,KANAL 10
 http://stream.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-0,OPOJA
@@ -37,10 +33,6 @@ http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/master.m3u8
 #EXTINF:-0,STUDIO B
 http://195.252.96.7:1935/webstudiob/webstudiob.stream/playlist.m3u8
-#EXTINF:-0,TRAVEL BG
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
-#EXTINF:-0,This is bulgaria
-http://31.13.223.104:1935/travel/community.stream/playlist.m3u8
 #EXTINF:-1,T R I N G TVSH
 http://stream.bestvideostreaming.is/8701/index.m3u8
 #EXTINF:-1,RTK
@@ -276,3 +268,7 @@ http://stream.bestvideostreaming.is/8818/index.m3u8
 #EXTINF:-1,TRING INTERNATIONAL
 #EXTINF:-1,Qifteli HD
 http://stream.bestvideostreaming.is/8735/index.m3u8
+#EXTINF:-0,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-0,RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
