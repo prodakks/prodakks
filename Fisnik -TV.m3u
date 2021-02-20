@@ -19,26 +19,10 @@ http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
 #EXTINF:-0,ZJARR TV
 http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-0,BOIN
-http://tva.fastbroad.com/i/tvboin_1@380599/index_2000_av-p.m3u8
 #EXTINF:-0,EURO AL
 http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
 #EXTINF:-0,USKANA TV
 http://188.44.8.20:60000/TvUskana
-#EXTINF:-0,RTSH KORQA
-http://edge01eu.ekranet.com/tvkorca/index.m3u8
-#EXTINF:-0,RROKUM
-http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
-#EXTINF:-0,RTSH 2
-http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
-#EXTINF:-1,RTSH 24
-http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:-0,RTSH FILM
-http://edge01eu.ekranet.com/rtshfilm_240p/index.m3u8
-#EXTINF:-0,RTSH MUZIKE
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-0,RTSH KORQA
-http://edge01eu.ekranet.com/tvkorca/index.m3u8
 #EXTINF:-0,NEWS24
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-0,DW
