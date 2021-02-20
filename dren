@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+#EXTINF:-1,RTV 21
+http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-1,KTV
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,KLAN KOSOVA
@@ -11,8 +13,6 @@ http://stream.bestvideostreaming.is/8788/index.m3u8
 http://stream.bestvideostreaming.is/8904/index.m3u8
 #EXTINF:-0,KANAL 10
 http://stream.bestvideostreaming.is/8849/index.m3u8
-#EXTINF:-1,RTV 21
-http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-0,ALBUK HD
 rtmp://albuk.dyndns.tv:1935/albuk/albuk.stream
 #EXTINF:-0,ZJARR TV
