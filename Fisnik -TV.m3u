@@ -13,6 +13,8 @@ http://stream.bestvideostreaming.is/8904/index.m3u8
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
 #EXTINF:-0,RTK 4
 http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-0,KANAL 10
+http://stream.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-0,OPOJA
 http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
 #EXTINF:-0,ALBUK HD
@@ -272,3 +274,5 @@ http://stream.bestvideostreaming.is/8784/index.m3u8
 #EXTINF:-1,TV DIELLI
 http://stream.bestvideostreaming.is/8818/index.m3u8
 #EXTINF:-1,TRING INTERNATIONAL
+#EXTINF:-1,Qifteli HD
+http://stream.bestvideostreaming.is/8735/index.m3u8
