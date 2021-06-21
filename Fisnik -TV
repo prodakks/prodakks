@@ -31,6 +31,8 @@ http://stream.bestvideostreaming.is/8720/index.m3u8
 http://stream.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-1,FIRST TV
 http://stream.bestvideostreaming.is/8717/index.m3u8
+#EXTINF:-1,Eurosport1
+https://cdn1.mobiletv.bg/T8/eurosport/es_794613_850k.m3u8
 #EXTINF:-1,SSPORT NEWS SD
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
