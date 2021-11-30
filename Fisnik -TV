@@ -5,8 +5,6 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 http://stream.bestvideostreaming.is/8803/index.m3u8
 #EXTINF:-1,BIG BROTHER 2
 http://stream.bestvideostreaming.is/8804/index.m3u8
-#EXTINF:-1,RTV 21
-http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-1,KTV
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,KLAN KOSOVA
@@ -21,6 +19,8 @@ http://stream.bestvideostreaming.is/8849/index.m3u8
 http://stream.bestvideostreaming.is/8709/index.m3u8
 #EXTINF:-1,TOP CHANNEL
 http://stream.bestvideostreaming.is/8708/index.m3u8
+#EXTINF:-1,RTV 21
+http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-1,KLAN
 http://stream.bestvideostreaming.is/8704/index.m3u8
 #EXTINF:-1,ALSAT M
