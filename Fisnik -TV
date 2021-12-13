@@ -5,6 +5,8 @@ http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 http://stream.bestvideostreaming.is/8803/index.m3u8
 #EXTINF:-1,BIG BROTHER 2
 http://stream.bestvideostreaming.is/8804/index.m3u8
+#EXTINF:-1,EUROFILM
+http://stream.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1,KTV
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,KLAN KOSOVA
@@ -241,11 +243,3 @@ http://stream.bestvideostreaming.is/8745/index.m3u8
 http://stream.bestvideostreaming.is/8707/index.m3u8
 #EXTINF:-1,ORA NEWS
 http://stream.bestvideostreaming.is/8715/index.m3u8
-#EXTINF:-1,7 NEWS
-http://stream.bestvideostreaming.is/8761/index.m3u8
-#EXTINF:-0,DW
-http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8
-#EXTINF:-0,CBSN
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-0,STAR tv
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
