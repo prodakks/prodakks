@@ -1,15 +1,9 @@
-#EXTINF:0,RADIO RINIA | RKS
-http://radio.1dhe1.com:9200/
-#EXTINF:0,BIG FM ROCK | ALB 
-http://46.252.33.58:9310
 #EXTINF:0,RADIO ARTA | RKS
 http://173.192.207.51:8086/;
 #EXTINF:0,RADIO DARDANIA | DEU
 http://radio.radiodardania.com:4000/stream/1/
 #EXTINF:0,RADIO DUKAGJINI | RKS
 http://s6.voscast.com:8824/
-#EXTINF:0,RADIO PENDIMI | RKS
-http://radio-pendimi.com:8000/
 #EXTINF:0,RADIO EMIGRANTI | FRA
 http://www.radioemigranti.com:8000/radioauto48
 #EXTINF:0,RADIO FOLEJA | CHE
@@ -34,3 +28,5 @@ http://live.radio-sharri.info:8020/
 http://viciana.no-ip.info:8010/
 #EXTINF:0,RADIO Pozharani
 http://radio.1dhe1.com:9100/
+#EXTINF:0,RADIO PENDIMI | RKS
+http://radio-pendimi.com:8000/
