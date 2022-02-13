@@ -2,6 +2,8 @@
 https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 #EXTINF:0,RADIO STAR
 https://radio.1dhe1.com:2020/stream/radiostar
+#EXTINF:0,RADIO MERGIMI | FRA
+http://144.76.33.185:8000/
 #EXTINF:0,RADIO DARDANIA | DEU
 http://radio.radiodardania.com:4000/stream/1/
 #EXTINF:0,RADIO DUKAGJINI | RKS
@@ -18,8 +20,6 @@ http://82.114.72.2:8088/
 http://quasar.shoutca.st:8018/
 #EXTINF:0,RADIO LLAPI | RKS
 http://radio.1dhe1.com:8555/
-#EXTINF:0,RADIO MERGIMI | FRA
-http://144.76.33.185:8000/
 #EXTINF:0,RADIO NRG | ALB
 http://ice31.securenetsystems.net:80/AL09
 #EXTINF:0,RADIO PEJA | RKS
