@@ -1,5 +1,5 @@
-#EXTINF:0,RADIO ARTA | RKS
-http://173.192.207.51:8086/;
+#EXTINF:0,RADIO GJILANI
+https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 #EXTINF:0,RADIO STAR
 https://radio.1dhe1.com:2020/stream/radiostar
 #EXTINF:0,RADIO DARDANIA | DEU
@@ -30,5 +30,7 @@ http://live.radio-sharri.info:8020/
 http://viciana.no-ip.info:8010/
 #EXTINF:0,RADIO Pozharani
 http://radio.1dhe1.com:9100/
+#EXTINF:0,RADIO ARTA | RKS
+http://173.192.207.51:8086/;
 #EXTINF:0,RADIO PENDIMI | RKS
 http://radio-pendimi.com:8000/
