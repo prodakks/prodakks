@@ -77,18 +77,14 @@ http://stream.bestvideostreaming.is/8762/index.m3u8
 http://stream.bestvideostreaming.is/8746/index.m3u8
 #EXTINF:-1,3 PLUS
 http://stream.bestvideostreaming.is/8773/index.m3u8
-#EXTINF:-1,FILM1 HD
+#EXTINF:-1,FILM1 GOLD HD
 http://stream.bestvideostreaming.is/8730/index.m3u8
-#EXTINF:-1,FILM2 HD
-http://stream.bestvideostreaming.is/3005/index.m3u8
 #EXTINF:-1,FILM HITS
 http://stream.bestvideostreaming.is/8755/index.m3u8
 #EXTINF:-1,FILM AKSION
 http://stream.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1,FILM THRILLER
 http://stream.bestvideostreaming.is/8757/index.m3u8
-#EXTINF:-1,EUROFILM
-http://stream.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1,FILM DRAME
 http://stream.bestvideostreaming.is/8727/index.m3u8
 #EXTINF:-1,FILM AUTOR
@@ -243,3 +239,5 @@ http://stream.bestvideostreaming.is/8745/index.m3u8
 http://stream.bestvideostreaming.is/8707/index.m3u8
 #EXTINF:-1,ORA NEWS
 http://stream.bestvideostreaming.is/8715/index.m3u8
+#EXTINF:-1,ALJAZEERA BALKANS
+http://stream.bestvideostreaming.is/8827/index.m3u8
