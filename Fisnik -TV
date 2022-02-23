@@ -4,7 +4,7 @@ https://gcache.gjirafa.com/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/y1yygx720/index
 #EXTINF:-0,Qendra Gjilanit
 https://gcache.gjirafa.com/live/motZvUmyIk9PCPXEf5gwAB1GmIlQTn6b/ykq1kz720/index.m3u8
 #EXTINF:-0,Al Jazzera Balkan live
-http://stream.bestvideostreaming.is/8827/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1645675649/ei/IbAWYoKWIO6G6dsPuv-WGA/ip/46.99.64.99/id/ng1zLZnjQbI.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgR_yRk9-h-N0XNzkooRoeN8LoF2Ed_pvgnaxl2YEP9VECIQDo7JD0YFu7-iGRN8P5JuR1zlcCgEA8pIqg90Csfm85fA%3D%3D/file/index.m3
 #EXTINF:-0,RTK 1
 http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
 #EXTINF:-1,EUROFILM
