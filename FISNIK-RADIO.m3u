@@ -1,4 +1,6 @@
-#EXTINF:0,RADIO loqka
+#EXTINF:0,RADIO VICIANA | DEU
+http://viciana.no-ip.info:8010/
+#EXTINF:0,RADIO Tetova
 https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 #EXTINF:0,RADIO STAR
 https://radio.1dhe1.com:2020/stream/radiostar
@@ -26,8 +28,6 @@ http://ice31.securenetsystems.net:80/AL09
 http://ns5.albaservers.com:8020/
 #EXTINF:0,RADIO SHARRI | RKS
 http://live.radio-sharri.info:8020/
-#EXTINF:0,RADIO VICIANA | DEU
-http://viciana.no-ip.info:8010/
 #EXTINF:0,RADIO ARTA | RKS
 http://173.192.207.51:8086/;
 #EXTINF:0,RADIO PENDIMI | RKS
