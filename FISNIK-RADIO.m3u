@@ -30,8 +30,6 @@ http://ns5.albaservers.com:8020/
 http://live.radio-sharri.info:8020/
 #EXTINF:0,NAXI | RS
 http://naxi128.streaming.rs:9150
-#EXTINF:0,NAXI yu| RS
-http://naxi128.streaming.rs:9150
 #EXTINF:0,RADIO ARTA | RKS
 http://173.192.207.51:8086/;
 #EXTINF:0,RADIO PENDIMI | RKS
