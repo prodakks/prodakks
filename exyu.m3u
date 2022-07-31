@@ -33,6 +33,12 @@ http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657505
 #EXTINF:0 tvg-id="ext" group-title="Channels",TV+ Kumanovo MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/7878
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 1
+http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 2
+http://5.149.64.8:80/PINKEROTIK2/mpegts?token=MMDSuplink
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 3
+http://5.149.64.8:80/PINKEROTIK3/mpegts?token=MMDSuplink
 #EXTINF:0 tvg-id="ext" group-title="Channels",Iris Stip 
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/686773
 #EXTINF:0 tvg-id="ext" group-title="Channels",EDO MK
@@ -575,14 +581,6 @@ http://109.175.16.2:80/24Kitchen/mpegts
 #EXTINF:0 tvg-id="ext" group-title="Channels",National Geo Wild
 http://109.175.16.2:80/NatGeoWild/mpegts
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 1
-http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 2
-http://5.149.64.8:80/PINKEROTIK2/mpegts?token=MMDSuplink
-#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 3
-http://5.149.64.8:80/PINKEROTIK3/mpegts?token=MMDSuplink
-
 #EXTINF:0 tvg-id="ext" group-title="Channels",DSTV
 http://95.111.117.27:1250/play/a06g
 #EXTINF:0 tvg-id="ext" group-title="Channels",Fen Folk 
@@ -640,8 +638,6 @@ http://94.250.61.1:8888/http/003
 #EXTINF:-1,As 2
 http://94.250.61.1:8888/http/014
 
-
-
 #EXTINF:-1,Eurosport
 http://188.124.211.121:8557/play/a025
 #EXTINF:-1,Eurosport 2
@@ -656,7 +652,6 @@ http://188.124.211.121:8557/play/a022
 http://188.124.211.121:8557/play/a023
 #EXTINF:-1,Arena Sport 4
 http://188.124.211.121:8557/play/a024
-
 
 #EXTINF:-1,SK2 - HD
 http://new-pro.tv:8080/Fernando/123321/55743
@@ -714,8 +709,6 @@ https://video-weaver.vie02.hls.ttvnw.net/v1/playlist/Cp0Fzda0WS6vmXOQ90qNbKSl9Nz
 http://tinyurl.com/jupok
 #EXTINF:-1,TV Rozaje
 http://tinyurl.com/rtvrozaje
-
-
 #EXTM3U
 #EXTINF:-1,FEN TV
 http://85.14.32.15:8801/udp/239.192.3.10:1234
@@ -725,8 +718,6 @@ http://85.14.32.15:8801/udp/239.192.4.17:1234
 http://85.14.32.15:8801/udp/239.192.4.18:1234
 #EXTINF:-1,Evrokom
 http://85.14.32.15:8801/udp/239.192.6.8:1234
-
-
 
 #EXTINF:-1,Jadran
 
