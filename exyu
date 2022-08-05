@@ -1,26 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Mrt 1
-http://62.162.79.7:8005/play/s23
-#EXTINF:-1,Mrt 2
-http://62.162.79.7:8005/play/s27
-#EXTINF:-1,Mrt 3
-http://62.162.79.7:8005/play/s22
-#EXTINF:-1,Mrt 4
-http://62.162.79.7:8005/play/s25
-#EXTINF:-1,Mrt 5
-http://62.162.79.7:8005/play/s26
-#EXTINF:-1,Mrt
-http://62.162.79.7:8005/play/s21
-#EXTINF:-1,Sitel Tv
-http://62.162.79.7:8003/play/s13
-#EXTINF:-1,Tv Alfa
-http://62.162.79.7:8003/play/s16
-#EXTINF:-1,24 Vesti MK
-http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/12401
-#EXTINF:-1,Kanal 5
-http://62.162.79.7:8003/play/s14
-#EXTINF:-1,Telma 
-http://62.162.79.7:8003/play/s15
 #EXTINF:-1,Orbis
 http://tvorbis.hugo.mk:1935/live/orbistv/am21_w1822817663.m3u8
 #EXTINF:-1,Kanal 8
