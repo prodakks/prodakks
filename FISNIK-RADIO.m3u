@@ -40,9 +40,9 @@ https://ares.mnet.mk/hls/mnet-sport.m3u8
 https://ares.mnet.mk/hls/mnet-kids.m3u8
 #EXTINF:-1,Sky Folk  
 http://skyfolk.mk/live.m3u8
-#EXTINF:-1,Pink Erotic 1
+#EXTINF:-1,Pink1
 http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Erotic 2
+#EXTINF:-1,Pink2
 http://5.149.64.8:80/PINKEROTIK2/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Erotic 3
+#EXTINF:-1,Pink3
 http://5.149.64.8:80/PINKEROTIK3/mpegts?token=MMDSuplink
