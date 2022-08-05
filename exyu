@@ -1,746 +1,746 @@
 #EXTM3U
-#EXTINF:-1,Mrt 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mrt 1
 http://62.162.79.7:8005/play/s23
-#EXTINF:-1,Mrt 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mrt 2
 http://62.162.79.7:8005/play/s27
-#EXTINF:-1,Mrt 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mrt 3
 http://62.162.79.7:8005/play/s22
-#EXTINF:-1,Mrt 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mrt 4
 http://62.162.79.7:8005/play/s25
-#EXTINF:-1,Mrt 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mrt 5
 http://62.162.79.7:8005/play/s26
-#EXTINF:-1,Mrt
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mrt
 http://62.162.79.7:8005/play/s21
-#EXTINF:-1,Sitel Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sitel Tv
 http://62.162.79.7:8003/play/s13
-#EXTINF:-1,Tv Alfa 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Alfa 
 http://62.162.79.7:8003/play/s16
-#EXTINF:-1,24 Vesti MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",24 Vesti MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/12401
-#EXTINF:-1,Kanal 5  
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 5  
 http://62.162.79.7:8003/play/s14
-#EXTINF:-1,Telma 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telma 
 http://62.162.79.7:8003/play/s15
-#EXTINF:-1,Orbis 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Orbis 
 http://tvorbis.hugo.mk:1935/live/orbistv/am21_w1822817663.m3u8
-#EXTINF:-1,Kanal 8 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 8 
 http://kanal8.hugo.mk:1935/live/kanal8/chunklist_w276673471.m3u8
-#EXTINF:-1,Zdravkin 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Zdravkin 
 http://zdravkin.hugo.mk:1935/live/zdravkin/am21.m3u8
-#EXTINF:-1,Svet 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Svet 
 http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
-#EXTINF:-1,Tera Bitola 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tera Bitola 
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657505
-#EXTINF:-1,TV+ Kumanovo MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV+ Kumanovo MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/7878
-#EXTINF:-1,Iris Stip 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Iris Stip 
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/686773
-#EXTINF:-1,EDO MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",EDO MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657500
-#EXTINF:-1,Nova 12 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova 12 
 http://151.236.247.171:8080/nova/index.m3u8
-#EXTINF:-1,Sonce Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sonce Tv
 https://media2.streambrothers.com:1936/8142/8142/chunklist_w1341070526.m3u8 
-#EXTINF:-1,Nasha 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nasha 
 https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
-#EXTINF:-1,Mnet Info
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mnet Info
 https://ares.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1,MNET
+#EXTINF:0 tvg-id="ext" group-title="Channels",MNET
 https://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1,Makedonski dokuetarni kanal
+#EXTINF:0 tvg-id="ext" group-title="Channels",Makedonski dokuetarni kanal
 http://ares.mnet.mk/hls/macdoc.m3u8
-#EXTINF:-1,Mnet Sport
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mnet Sport
 https://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1,Mnet Kids
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mnet Kids
 https://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1,Sky Folk  
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sky Folk  
 http://skyfolk.mk/live.m3u8
-#EXTINF:-1,Pink Erotic 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 1
 http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Erotic 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 2
 http://5.149.64.8:80/PINKEROTIK2/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Erotic 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 3
 http://5.149.64.8:80/PINKEROTIK3/mpegts?token=MMDSuplink
-#EXTINF:-1,Hugo 2 Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hugo 2 Tv
 http://fta.hugo.mk:1935/tvhugo/stream/2
-#EXTINF:-1,Balkan Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Balkan Music
 http://163.172.88.94:12989/live/BalkanMusic/121212/13.m3u8
-#EXTINF:-1,In Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",In Tv
 http://tv1.intv.mk:1935/live/intv/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Folk Club
+#EXTINF:0 tvg-id="ext" group-title="Channels",Folk Club
 http://tv1.intv.mk:1935/live2/folkklub/index.m3u8?HasBahCa.m3u8
-#EXTINF:-1,Star Folk
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Folk
 https://live.muzickatv.mk/live/StarMusic.m3u8
-#EXTINF:-1,Tv Sonce Music 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Sonce Music 
 https://media2.streambrothers.com:1936/8128/8128/chunklist_w506280713.m3u8
-#EXTINF:-1,Makedonska TV 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Makedonska TV 
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657510
-#EXTINF:-1,Kafanska MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kafanska MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657509
-#EXTINF:-1,Hugo TV 3 HD MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hugo TV 3 HD MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/685983
-#EXTINF:-1,Love Tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Love Tv 
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-#EXTINF:-1,Cool Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cool Tv
 https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
-#EXTINF:-1,Rock Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rock Tv
 https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1,Jazz Tv  
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jazz Tv  
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8 
 #EXTINF:===============Muzika=============
-#EXTINF:-1,Radio s 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Radio s 
 https://sradio.ipradio.rs/sradio/radiostv/playlist.m3u8
-#EXTINF:-1,Jeka 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Jeka 
 https://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
-#EXTINF:-1,Dm Sat 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Dm Sat 
 https://cdn1.mobiletv.bg/T5/dm_sat/dm_sat_794613_850k.m3u8
-#EXTINF:-1,Bn Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bn Music
 https://cdn1.mobiletv.bg/T5/bn_music/bn_music_794613_850k.m3u8
-#EXTINF:-1,Duga Plus 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Duga Plus 
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
-#EXTINF:-1,Kcn 2 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kcn 2 
 http://webtvstream.bhtelecom.ba/kcn2.m3u8
-#EXTINF:-1,Kcn 3 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kcn 3 
 http://webtvstream.bhtelecom.ba/kcn3.m3u8
-#EXTINF:-1,TopTv
+#EXTINF:0 tvg-id="ext" group-title="Channels",TopTv
 http://82.165.71.58:8081/TopTV/live/chunks.m3u8
-#EXTINF:-1,Hayat Music 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hayat Music 
 http://webtvstream.bhtelecom.ba/hayat_music.m3u8
-#EXTINF:-1,Hayat Folk 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hayat Folk 
 http://webtvstream.bhtelecom.ba/hayat_folk.m3u8
-#EXTINF:-1,Amari Tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amari Tv 
 http://5.254.16.186/AmariTV/mono.m3u8
-#EXTINF:-1,Adria Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Adria Tv
 https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
-#EXTINF:-1,1 group-title="EU_EXYUGOSLAVIA",Banovina Tv
+#EXTINF:-1 group-title="EU_EXYUGOSLAVIA",Banovina Tv
 http://video.radio-banovina.hr:1935/live/myStream/playlist.m3u8
-#EXTINF:-1,Glas Drine 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Glas Drine 
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
-#EXTINF:-1,Balkanika 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Balkanika 
 http://78.83.191.18:8000/play/a05h
-#EXTINF:-1,Planeta Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planeta Tv
 https://cdn1.mobiletv.bg/T5/planeta/planeta_794613_850k.m3u8
-#EXTINF:-1,Planeta BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planeta BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/5972
-#EXTINF:-1,Fen Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fen Tv
 http://78.83.191.18:8000/play/a05f
-#EXTINF:-1,Fen Folk BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fen Folk BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/685954
-#EXTINF:-1,Planeta Folk BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planeta Folk BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/9014
-#EXTINF:-1,Tiankov Orient Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tiankov Orient Tv
 http://5.254.16.186:80/Tiankov/mono.m3u8
-#EXTINF:-1,EuroFolk Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",EuroFolk Tv
 https://eurofolk.cdn.netbadgers.com/bg040/bg041/bg041.m3u8
-#EXTINF:-1,The Voice
+#EXTINF:0 tvg-id="ext" group-title="Channels",The Voice
 http://95.169.214.110:8000/play/a004
-#EXTINF:-1,City Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",City Tv
 http://95.169.214.110:8000/play/a007
-#EXTINF:-1,Vh 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vh 1
 http://95.169.214.110:8000/play/a00a
-#EXTINF:-1,Vh Cllasic
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vh Cllasic
 http://95.169.214.110:8000/play/a00b
 
-#EXTINF:-1,------- Filmski & Seriski -------
-#EXTINF:-1,HBO 1
+#EXTINF:-------- Filmski & Seriski -------
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 1
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657491
-#EXTINF:-1,HBO 2 
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/674109
-#EXTINF:-1,HBO 3 
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 3 
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657493
-#EXTINF:-1,CinePlex 
+#EXTINF:0 tvg-id="ext" group-title="Channels",CinePlex 
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657513
-#EXTINF:-1,Cinestar TV Premiere 1 MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinestar TV Premiere 1 MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657490
-#EXTINF:-1,Cinestar TV Premiere 2 MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinestar TV Premiere 2 MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657489
-#EXTINF:-1,Filmbox Extra FHD MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Filmbox Extra FHD MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/23185
-#EXTINF:-1,Filmbox Stars MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Filmbox Stars MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657485
-#EXTINF:-1,TV 1000 MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV 1000 MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657488
-#EXTINF:-1,M1 Film MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",M1 Film MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657497
-#EXTINF:-1,M2 Film MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",M2 Film MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/685986
-#EXTINF:-1,Fox MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657487
-#EXTINF:-1,Fox Life MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Life MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657486
-#EXTINF:-1,Hugo TV 1 HD MK
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hugo TV 1 HD MK
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/13385
 #EXTINF========Srbija==============
-#EXTINF:-1,Kurir Tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kurir Tv 
 https://kurir-tv.haste-cdn.net/providus/live2805.m3u8
-#EXTINF:-1,1 group-title="EU_EXYUGOSLAVIA",Red Tv
+#EXTINF:-1 group-title="EU_EXYUGOSLAVIA",Red Tv
 https://live.rednet.rs/providus/redtv_multi.m3u8
-#EXTINF:-1,As 
+#EXTINF:0 tvg-id="ext" group-title="Channels",As 
 https://best-str.nettv.cdn.united.cloud/stream?sp=partners&u=partners&p=yN93H7NTrMkx&stream=sp1400&adaptive=false&channel=channel1-srpaac&player=m3u8 
-#EXTINF:-1,Djak Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Djak Tv
 http://5.254.16.186/DjakTV/mono.m3u8
-#EXTINF:-1,Super Sat Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super Sat Tv
 http://5.254.16.186/SuperSatTV/mono.m3u8
-#EXTINF:-1,Mis Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mis Tv
 http://14.202.204.202:8000/play/a00i/index.m3u8
-#EXTINF:-1,City Ub 
+#EXTINF:0 tvg-id="ext" group-title="Channels",City Ub 
 
-#EXTINF:-1,Tsd 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tsd 
 https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1,Pruga Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pruga Tv
 https://stream.pruga.rs:8443/live/pruga/index.m3u8
-#EXTINF:-1,Novi Pazar Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Novi Pazar Tv
 https://rtvnp.rs/hls/rtvnp.m3u8
-#EXTINF:-1,Art Vizija 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Art Vizija 
 rtmp://92.60.237.39/live/test
-#EXTINF:-1,Belle Amie Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Belle Amie Tv
 http://92.60.238.10:1935/live/belleamie/playlist.m3u8
-#EXTINF:-1,Mir
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mir
 http://91.187.119.106:8028/tvmir.m3u8
-#EXTINF:-1,Stara Pazova Tv  
+#EXTINF:0 tvg-id="ext" group-title="Channels",Stara Pazova Tv  
 rtmp://bk.ddstream.info:1935/mylive/rtvsp/rtvsp
-#EXTINF:-1,Nisville Tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nisville Tv 
 http://92.60.237.32:1935/live/nisville/playlist.m3u8
-#EXTINF:-1,Pi Kanal Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pi Kanal Tv
 http://stream.pikanal.rs/pikanal/pgm.m3u8
-#EXTINF:-1,Va Plus 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Va Plus 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/tvvaljevoplus
-#EXTINF:-1,Kanal 9 Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 9 Tv
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/kanal_9ns
-#EXTINF:-1,Hram Tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hram Tv 
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1,Rtv 1 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtv 1 
 http://212.200.255.151:80/rtv1/index.m3u8
-#EXTINF:-1,Rtv 2 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtv 2 
 http://212.200.255.151:80/rtv2/index.m3u8
-#EXTINF:-1,Novosadska Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Novosadska Tv
 mmsh://176.106.121.32:8090/index.m3u8
-#EXTINF:-1,Sandzak Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sandzak Tv
 http://webtvstream.bhtelecom.ba/sandzak_tv.m3u8
-#EXTINF:-1,N1 Sr 
+#EXTINF:0 tvg-id="ext" group-title="Channels",N1 Sr 
 https://best-str.umn.cdn.united.cloud/stream?channel=n1srp&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1,Euronews 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Euronews 
 http://d1ei8ofhgfmkac.cloudfront.net/app-19518-1306/ngrp:QoZfNjsg_all/chunklist_w300551747_b6256000.m3u8
 
 #EXTINF:============Hrvatska===================
-#EXTINF:-1,Hrt 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hrt 1
 https://vod1.laki.eu/hrt1/video.m3u8
-#EXTINF:-1,Rtl 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtl 
 http://webtvstream.bhtelecom.ba/rtl_hr.m3u8
-#EXTINF:-1,Rtl 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtl 2
 http://webtvstream.bhtelecom.ba/rtl2_hr.m3u8
-#EXTINF:-1,Rtl Living 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtl Living 
 http://webtvstream.bhtelecom.ba/rtl_living.m3u8
-#EXTINF:-1,Trend Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Trend Tv
 rtmp://185.62.75.22:1935/trend/myStream
-#EXTINF:-1,Osijecka
+#EXTINF:0 tvg-id="ext" group-title="Channels",Osijecka
 http://api.new.livestream.com/accounts/27681961/events/8347875/live.m3u8
-#EXTINF:-1,Slavonska Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Slavonska Tv
 http://89.201.163.244:8080/hls/hdmi.m3u8
-#EXTINF:-1,N1 Hr 
+#EXTINF:0 tvg-id="ext" group-title="Channels",N1 Hr 
 https://best-str.umn.cdn.united.cloud/stream?channel=n1hrv&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
-#EXTINF:-1,Gm Plus 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gm Plus 
 http://178.217.15.36/fineliving/index.m3u8?token=test
-#EXTINF:-1,Otvorena 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Otvorena 
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
 
 #EXTINF:==========Bosna==================
-#EXTINF:-1,Bn 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bn 
 http://webtvstream.bhtelecom.ba/rtv_bn.m3u8
-#EXTINF:-1,Rtrs 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtrs 
 http://webtvstream.bhtelecom.ba/rtrs.m3u8
-#EXTINF:-1,Rtrs Plus 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtrs Plus 
 http://webtvstream.bhtelecom.ba/rtrs_plus.m3u8
-#EXTINF:-1,Obn
+#EXTINF:0 tvg-id="ext" group-title="Channels",Obn
 http://webtvstream.bhtelecom.ba/obn.m3u8
-#EXTINF:-1,Al dzezeira 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Al dzezeira 
 http://sarajevo.airport.19522237-226.bih.net.ba
-#EXTINF:-1,1 tvg-id="ATV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/logo/ATV_BiH.png" group-title="Bosna",Alternativna Bosna Tv
+#EXTINF:-1 tvg-id="ATV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/logo/ATV_BiH.png" group-title="Bosna",Alternativna Bosna Tv
 http://94.250.61.6:8800/play/a00e
-#EXTINF:-1,Federalna Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Federalna Tv
 http://94.250.61.6:8800/play/a002
-#EXTINF:-1,Sehara Tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sehara Tv 
 http://ip2.xxlservices.com:8081/seharaonline/live/chunks.m3u8
-#EXTINF:-1,Super Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Super Tv
 https://mirtv.club/live/mirtv/index.m3u8
-#EXTINF:-1,Slon Extra Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Slon Extra Tv
 http://31.47.0.130:8082
-#EXTINF:-1,Kanal 6 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 6 
 https://restreamer1.tnt.ba/hls/kanal6.m3u8
-#EXTINF:-1,Tnt Kids  
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tnt Kids  
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
-#EXTINF:-1,Televizija 5
+#EXTINF:0 tvg-id="ext" group-title="Channels",Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-#EXTINF:-1,Medjugorje Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Medjugorje Tv
 https://streamlive.arcapuglia.it:8080/live/medjugorietv/index.m3u8
 
 #EXTINF:===========Crna Gora====================
-#EXTINF:-1,Rtcg Sat
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtcg Sat
 http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.1.stream/index.m3u8
-#EXTINF:-1,Kanal 7 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Kanal 7 
 http://uk4.streamingpulse.com:1935/tehnikatv777/tehnikatv777/chunklist.m3u8
-#EXTINF:-1,Yurok Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Yurok Tv
 https://live.prd.dlive.tv/hls/live/jupok.m3u8
-#EXTINF:-1,Herceg Novi Tv 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Herceg Novi Tv 
 https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/tvhercegnovi
 
 #EXTINF:===========Slovenija=================== 
-#EXTINF:-1,Veseljak Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Veseljak Tv
 http://stream.veseljak.tv:8080/hls/stream.m3u8
-#EXTINF:-1,One Adria 
+#EXTINF:0 tvg-id="ext" group-title="Channels",One Adria 
 https://serve-first.folxplay.tv/folx/ch-6/1080-K1B23Y204V.m3u8
-#EXTINF:-1,Folx Slovenija 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Folx Slovenija 
 https://serve-first.folxplay.tv/folx/ch-5/1080-E1I4BNT8D2.m3u8
-#EXTINF:-1,Sip Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sip Tv
 https://data.siptv.si/live-siptv/hls/index.m3u8
 
 #EXTINF===========Sport=================
-#EXTINF:-1,Arena Sport 1 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1 
 http://80.252.37.194:5000/udp/233.233.233.3:12000
-#EXTINF:-1,Arena Sport 2 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2 
 http://80.252.37.194:5000/udp/233.233.233.4:12000
-#EXTINF:-1,Arena Sport 3 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3 
 http://80.252.37.194:5000/udp/233.233.233.5:12000
-#EXTINF:-1,Arena Sport 4 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 4 
 http://80.252.37.194:5000/udp/233.233.233.6:12000
-#EXTINF:-1,Arena Sport 5 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 5 
 http://80.252.37.194:5000/udp/233.233.233.7:12000
-#EXTINF:-1,Arena Sport 6 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 6 
 http://80.252.37.194:5000/udp/233.233.233.8:12000
-#EXTINF:-1,Sport Klub 1 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 1 
 http://46.29.169.15:4001/play/a00e/index.m3u8
-#EXTINF:-1,Sport Klub 4 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 4 
 http://46.29.169.15:4001/play/a00q/index.m3u8
-#EXTINF:-1,Sport Klub 5 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 5 
 http://46.29.169.15:4001/play/a00r/index.m3u8
-#EXTINF:-1,Sport Klub 6 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 6 
 http://46.29.169.15:4001/play/a00s/index.m3u8
-#EXTINF:-1,Sos 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sos 
 http://178.132.219.92:8080/SOS/mpegts
-#EXTINF:-1,Eurosport 1 HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 1 HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/625815
-#EXTINF:-1,Eurosport 2 FHD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 2 FHD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/9029
-#EXTINF:-1,Diema Sport 1 HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Diema Sport 1 HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/5982
-#EXTINF:-1,Diema Sport 1 BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Diema Sport 1 BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/681649
-#EXTINF:-1,Diema Sport 2 HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Diema Sport 2 HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/5981
-#EXTINF:-1,Diema Sport 3 FHD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Diema Sport 3 FHD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/9022
-#EXTINF:-1,Max Sport 1 HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max Sport 1 HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/50865
-#EXTINF:-1,Max Sport 2 HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max Sport 2 HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/50866
-#EXTINF:-1,Max Sport 3 HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max Sport 3 HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/629048
-#EXTINF:-1,Max Sport 4 HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Max Sport 4 HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/641399
-#EXTINF:-1,Nova Sport HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova Sport HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/5979
-#EXTINF:-1,Ring TV HD BG
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ring TV HD BG
 http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/5980
 
 #EXTINF:===========Film=======================
-#EXTINF:-1,Cinestar 1 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinestar 1 
 http://94.250.61.6:8800/play/a00d
-#EXTINF:-1,Cinestar Action 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cinestar Action 
 http://94.250.61.6:8800/play/cinestaract
 
 #EXTINF:===========Stranski=======================
-#EXTINF:-1,Viva 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Viva 
 https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-#EXTINF:-1,City 
+#EXTINF:0 tvg-id="ext" group-title="Channels",City 
 http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-#EXTINF:-1,Capital 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Capital 
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_4_av-p.m3u8
 #EXTINF
-#EXTINF:-1,Rts 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rts 1
 http://14.202.204.202:8000/play/a00h/index.m3u8
-#EXTINF:-1,Vesti Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Vesti Tv
 http://185.56.251.38:4000/play/a0cy/index.m3u8
-#EXTINF:-1,Nova S
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nova S
 http://194.15.225.98:8000/play/a2qr
-#EXTINF:-1,Prva
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prva
 http://188.124.211.121:8557/play/a01p
-#EXTINF:-1,B92 Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",B92 Tv
 http://94.250.61.1:8888/http/002
-#EXTINF:-1,Happy TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Happy TV
 http://5.149.64.8:80/HAPPY-DVBT/mpegts?token=MMDSuplink
-#EXTINF:-1,Toxic TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Toxic TV
 http://94.250.61.1:8888/http/016
-#EXTINF:-1,Prva Plus
+#EXTINF:0 tvg-id="ext" group-title="Channels",Prva Plus
 http://5.254.16.186/K1/mono.m3u8
-#EXTINF:-1,Agro Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Agro Tv
 http://94.250.61.1:8888/http/008
-#EXTINF:-1,TV AS
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV AS
 http://5.254.16.186/TVAS/mono.m3u8
-#EXTINF:-1,Tv Djak 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Djak 
 http://5.254.16.186/DjakTV/mono.m3u8
-#EXTINF:-1,Televizija Srpske Dijaspore
+#EXTINF:0 tvg-id="ext" group-title="Channels",Televizija Srpske Dijaspore
 https://live.tsd-tv.com/live/tsd.m3u8
-#EXTINF:-1,City Ub 
+#EXTINF:0 tvg-id="ext" group-title="Channels",City Ub 
 http://167.172.39.13/hls/tvcityub.m3u8
-#EXTINF:-1,Novi Pazar
+#EXTINF:0 tvg-id="ext" group-title="Channels",Novi Pazar
 https://rtvnp.rs/hls/rtvnp.m3u8
-#EXTINF:-1,Mars Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Mars Tv
 http://cdn.dovecher.tv:8081/live/marsh/chunks.m3u8
-#EXTINF:-1,Tv Most 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Most 
 http://5.206.237.66:9000/play/a02y
-#EXTINF:-1,Hram Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hram Tv
 https://vod1.laki.eu/live/hram/index.m3u8
-#EXTINF:-1,Nis Ville
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nis Ville
 http://92.60.237.32:8888/ipvt_001
-#EXTINF:-1,Tesla Vision Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tesla Vision Tv
 http://192.99.6.113:1935/live/Tesla_360p/chunklist_w202539152.m3u8
-#EXTINF:-1,Pirot Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pirot Tv
 https://5bc45691ca49f.streamlock.net/tvpirot/uzivo/chunklist_w1316212998.m3u8
-#EXTINF:-1,Rtk 2 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtk 2 
 http://stream2.rtkit.com:1935/rtk2stream/rtk2.stream/chunklist_w1166923982.m3u8
-#EXTINF:-1,Sandzak TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sandzak TV
 http://46.240.128.178:4444/STVHD
-#EXTINF:-1,Bn Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bn Tv
 http://188.124.211.121:8557/play/a01l
-#EXTINF:-1,Bn Music 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bn Music 
 http://109.175.16.2:80/BNMusic/mpegts
-#EXTINF:-1,Hayat Folk
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hayat Folk
 http://5.149.64.8:80/HAYATFOLK/mpegts?token=MMDSuplink
-#EXTINF:-1,RTRS
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTRS
 http://188.124.211.121:8557/play/a01j
-#EXTINF:-1,Bht 1 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bht 1 
 http://109.175.16.2:80/BHT1/mpegts
-#EXTINF:-1,OBN
+#EXTINF:0 tvg-id="ext" group-title="Channels",OBN
 http://5.149.64.8:80/OBNkinez/mpegts?token=MMDSuplink
-#EXTINF:-1,Face TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Face TV
 http://5.149.64.8:80/FACETV/mpegts?token=MMDSuplink
-#EXTINF:-1,Hayat TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hayat TV
 http://5.149.64.8:80/HAYAT/mpegts?token=MMDSuplink
-#EXTINF:-1,Hayat Plus    
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hayat Plus    
 http://5.149.64.8:80/HAYATPLUS/mpegts?token=MMDSuplink
-#EXTINF:-1,ATV   
+#EXTINF:0 tvg-id="ext" group-title="Channels",ATV   
 http://188.124.211.121:8557/play/a01m
-#EXTINF:-1,FTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",FTV
 http://109.175.16.2:80/FTV/mpegts
-#EXTINF:-1,IZVORNA TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",IZVORNA TV
 http://94.250.61.1:8888/http/004
-#EXTINF:-1,Posavina Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Posavina Tv
 http://94.250.61.1:8888/http/006
 
-#EXTINF:-1,Hrt 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hrt 1
 https://vod1.laki.eu/hrt1/video.m3u8
-#EXTINF:-1,Hrt 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hrt 2
 http://109.175.16.2:80/HRT2/mpegts
-#EXTINF:-1,Hrt 3
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hrt 3
 http://109.175.16.2:80/HRT3/mpegts
-#EXTINF:-1,Hrt 4
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hrt 4
 http://109.175.16.2:80/HRT4/mpegts
-#EXTINF:-1,Rtl Documentary Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Rtl Documentary Tv
 http://163.172.33.7:25461/serveramsterdam/2292020/18
-#EXTINF:-1,Epic Drama.
+#EXTINF:0 tvg-id="ext" group-title="Channels",Epic Drama.
 http://185.205.201.101:8024/play/a05d
-#EXTINF:-1,FOX Movies 
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Movies 
 http://109.175.16.2:80/FoxMovies/mpegts
-#EXTINF:-1,FOX Crime
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX Crime
 http://5.149.64.8:80/FOXCRIME/mpegts?token=MMDSuplink
-#EXTINF:-1,Superstar TV 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Superstar TV 
 http://188.124.211.121:8557/play/a02m
-#EXTINF:-1,FilmBox Extra HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",FilmBox Extra HD
 http://188.124.211.121:8557/play/a01z
-#EXTINF:-1,Fox Life 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fox Life 
 http://109.175.16.2:80/FoxLife/mpegts
-#EXTINF:-1,FOX 
+#EXTINF:0 tvg-id="ext" group-title="Channels",FOX 
 http://109.175.16.2:80/Fox/mpegts
-#EXTINF:-1,Pink Serije
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Serije
 http://46.29.169.15:4001/play/a018/index.m3u8
-#EXTINF:-1,Pink Film
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Film
 http://46.29.169.15:4001/play/a017/index.m3u8
 
-#EXTINF:-1,Bravo Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bravo Music
 http://46.29.169.15:4001/play/a01f/index.m3u8
-#EXTINF:-1,City Play
+#EXTINF:0 tvg-id="ext" group-title="Channels",City Play
 http://46.29.169.15:4001/play/a01l/index.m3u8
-#EXTINF:-1,Hayat Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Hayat Music
 http://46.29.169.15:4001/play/a011/index.m3u8
-#EXTINF:-1,Duga Plus 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Duga Plus 
 http://109.92.29.10:1935/tvduga/tvduga/playlist.m3u8
-#EXTINF:-1,Pink Folk
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Folk
 http://46.29.169.15:4001/play/a01g/index.m3u8
-#EXTINF:-1,Pink Folk 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Folk 2
 http://46.29.169.15:4001/play/a01h/index.m3u8
-#EXTINF:-1,Pink Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Music
 http://46.29.169.15:4001/play/a01d/index.m3u8
-#EXTINF:-1,Pink Music 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Music 2
 http://46.29.169.15:4001/play/a01e/index.m3u8
-#EXTINF:-1,Amari TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Amari TV
 http://5.254.16.186/AmariTV/mono.m3u8
-#EXTINF:-1,Tv Sonce
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tv Sonce
 http://5.254.16.186/TVSonce/mono.m3u8
-#EXTINF:-1,Bravo Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bravo Music
 http://185.56.251.38:4000/play/a0dk/index.m3u8
-#EXTINF:-1,City Play
+#EXTINF:0 tvg-id="ext" group-title="Channels",City Play
 http://185.56.251.38:4000/play/a0cl/index.m3u8
-#EXTINF:-1,1,Sonce Tv
+#EXTINF:-1,Sonce Tv
 https://srv1.adriatelekom.com/TVSonce/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Balkan Music Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Balkan Music Tv
 http://venovmedia.net:12989/live/Balkan.Music.MK/7Io7o7Q6o2/1.m3u8
-#EXTINF:-1,Tdi Radio Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Tdi Radio Tv
 https://peer.tdiradio.com/static/streaming-playlists/hls/2dbc3630-2d41-4a02-ace8-da279e698b74/0.m3u8
-#EXTINF:-1,1 tvg-id="ATV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/logo/ATV_BiH.png" group-title="Bosna",Alternativna Bosna Tv
+#EXTINF:-1 tvg-id="ATV" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="ATV" tvg-logo="http://nextgen-iptv.com/logo/ATV_BiH.png" group-title="Bosna",Alternativna Bosna Tv
 http://94.250.61.6:8800/play/a00e
-#EXTINF:-1,Federalna Tv
+#EXTINF:0 tvg-id="ext" group-title="Channels",Federalna Tv
 http://94.250.61.6:8800/play/a002
-#EXTINF:-1,Sehara Online
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sehara Online
 http://ip2.xxlservices.com:8081/seharatv/live/chunks.m3u8
-#EXTINF:-1,Sandzak 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sandzak 
 http://streaming.iptv.nextfiber.rs/chunklist.m3u8?id=11&profile=5
 
-#EXTINF:-1,Pink HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink HD
 http://109.175.16.2:80/Pink/mpegts
-#EXTINF:-1,Pink BH
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink BH
 http://109.175.16.2:80/PinkBH/mpegts
-#EXTINF:-1,Pink Action
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Action
 http://109.175.16.2:80/PinkAction/mpegts
-#EXTINF:-1,Pink Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Music
 http://5.149.64.8:80/PINKMUSIC/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Music 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Music 2
 http://5.149.64.8:80/PinkMusic2/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Hits 1
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Hits 1
 http://5.149.64.8:80/PinkHits/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Hits 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Hits 2
 http://5.149.64.8:80/PINKHITS2/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink&Roll
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink&Roll
 http://5.149.64.8:80/PINKROLL/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Koncert
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Koncert
 http://5.149.64.8:80/PINKKONCERT/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Folk
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Folk
 http://5.149.64.8:80/PINKFOLK/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Folk 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Folk 2
 http://5.149.64.8:80/PINKFOLK2/mpegts?token=MMDSuplink
-#EXTINF:-1,Bravo Music
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bravo Music
 http://5.149.64.8:80/BRAVO/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Sci Fi & Fantasy
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Sci Fi & Fantasy
 http://5.149.64.8:80/PinkSciFi/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Classic
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Classic
 http://109.175.16.2:80/PinkClassic/mpegts
-#EXTINF:-1,Pink Extra
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Extra
 http://5.149.64.8:80/PINKEXTRA/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink World
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink World
 http://5.149.64.8:80/PINKWORLD/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Zabava
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Zabava
 http://5.149.64.8:80/PinkZabava/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Reality
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Reality
 http://5.149.64.8:80/PINKREALITY/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Pedia
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Pedia
 http://5.149.64.8:80/PINKPEDIA/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Western
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Western
 http://5.149.64.8:80/PINKWESTERN/mpegts?token=MMDSuplink
-]#EXTINF:-1,Pink Comedy
+]#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Comedy
 http://5.149.64.8:80/PINKCOMEDY/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Action
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Action
 http://5.149.64.8:80/PinkAction/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Thriller
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Thriller
 http://5.149.64.8:80/PinkThriller/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Crime & Mystery
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Crime & Mystery
 http://5.149.64.8:80/PinkCrime/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Horror
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Horror
 http://5.149.64.8:80/PINKHORROR/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Family
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Family
 http://5.149.64.8:80/PinkFamily/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Soap
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Soap
 http://5.149.64.8:80/PINKSOAP/mpegts?token=MMDSuplink
-#EXTINF:-1,Pink Kids
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Kids
 http://188.124.211.121:8557/play/a01s
-#EXTINF:-1,Pink Super Kids
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Super Kids
 http://188.124.211.121:8557/play/a01t
 
-#EXTINF:-1,Nickelodeon
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nickelodeon
 http://109.175.16.2:80/Nickelodeon/mpegts
-#EXTINF:-1,History 2
+#EXTINF:0 tvg-id="ext" group-title="Channels",History 2
 http://109.175.16.2:80/History2/mpegts
-]#EXTINF:-1,History Channel
+]#EXTINF:0 tvg-id="ext" group-title="Channels",History Channel
 http://109.175.16.2:80/History/mpegts
-#EXTINF:-1,DocuBox HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",DocuBox HD
 http://109.175.16.2:80/DocuBox/mpegts
-#EXTINF:-1,Discovery Science
+#EXTINF:0 tvg-id="ext" group-title="Channels",Discovery Science
 http://109.175.16.2:80/DiscoveryScience/mpegts
-#EXTINF:-1,Boomerang
+#EXTINF:0 tvg-id="ext" group-title="Channels",Boomerang
 http://109.175.16.2:80/Boomerang/mpegts
-#EXTINF:-1,Cartoon Network
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Network
 http://188.124.211.121:8557/play/a01y
-#EXTINF:-1,Minimax
+#EXTINF:0 tvg-id="ext" group-title="Channels",Minimax
 http://188.124.211.121:8557/play/a029
-#EXTINF:-1,Nick Jr.
+#EXTINF:0 tvg-id="ext" group-title="Channels",Nick Jr.
 http://188.124.211.121:8557/play/a01x
-#EXTINF:-1,RTL Kockica
+#EXTINF:0 tvg-id="ext" group-title="Channels",RTL Kockica
 http://188.124.211.121:8557/play/a02a
-#EXTINF:-1,Baby TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",Baby TV
 http://109.175.16.2:80/BabyTV/mpegts
-#EXTINF:-1,24Kitchen
+#EXTINF:0 tvg-id="ext" group-title="Channels",24Kitchen
 http://109.175.16.2:80/24Kitchen/mpegts
-#EXTINF:-1,National Geo Wild
+#EXTINF:0 tvg-id="ext" group-title="Channels",National Geo Wild
 http://109.175.16.2:80/NatGeoWild/mpegts
 
 
 
 
-#EXTINF:-1,DSTV
+#EXTINF:0 tvg-id="ext" group-title="Channels",DSTV
 http://95.111.117.27:1250/play/a06g
-#EXTINF:-1,Fen Folk 
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fen Folk 
 http://151.237.78.12:1111/play/a006
-#EXTINF:-1,Planeta Folk
+#EXTINF:0 tvg-id="ext" group-title="Channels",Planeta Folk
 http://95.111.117.27:1250/play/a04z
-#EXTINF:-1,FEN Folk
+#EXTINF:0 tvg-id="ext" group-title="Channels",FEN Folk
 http://95.111.117.27:1250/play/a072
-#EXTINF:-1,HBO 
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 
 http://95.111.117.27:1250/play/a00l
-#EXTINF:-1,HBO 2 
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 2 
 http://95.111.117.27:1250/play/a00o
-#EXTINF:-1,HBO 3 
+#EXTINF:0 tvg-id="ext" group-title="Channels",HBO 3 
 http://95.111.117.27:1250/play/a02p
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport
+http://188.124.211.121:8557/play/a025
+#EXTINF:0 tvg-id="ext" group-title="Channels",Eurosport 2
+http://188.124.211.121:8557/play/a026
+#EXTINF:0 tvg-id="ext" group-title="Channels",SportKlub Start.
+http://185.205.201.101:8024/play/a05o
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 1
+http://46.29.169.15:4001/play/a00e/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 2 
+http://194.15.225.98:8000/play/a2qz
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 3
+http://194.15.225.98:8000/play/a2qt
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 4
+http://46.29.169.15:4001/play/a00q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 5
+http://46.29.169.15:4001/play/a00r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub 6
+http://46.29.169.15:4001/play/a00s/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 1
+http://46.29.169.15:4001/play/a00t/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 2
+http://46.29.169.15:4001/play/a00u/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 3
+http://46.29.169.15:4001/play/a00v/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 4
+http://46.29.169.15:4001/play/a00w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 5
+http://46.29.169.15:4001/play/a00x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Arena Sport 6
+http://46.29.169.15:4001/play/a00y/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ASArena Premium 1
+http://46.29.169.15:4001/play/a00g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ASArena Premium 2
+http://46.29.169.15:4001/play/a00h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ASArena Premium 3
+http://46.29.169.15:4001/play/a00i/index.m3u8
+
+#EXTINF:-1,Eurosport 1
+http://94.250.61.1:8888/http/003
+#EXTINF:-1,As 2
+http://94.250.61.1:8888/http/014
+
+
 
 #EXTINF:-1,Eurosport
 http://188.124.211.121:8557/play/a025
 #EXTINF:-1,Eurosport 2
 http://188.124.211.121:8557/play/a026
-#EXTINF:-1,SportKlub Start.
-http://185.205.201.101:8024/play/a05o
-#EXTINF:-1,Sport Klub 1
-http://46.29.169.15:4001/play/a00e/index.m3u8
-#EXTINF:-1,Sport Klub 2 
-http://194.15.225.98:8000/play/a2qz
-#EXTINF:-1,Sport Klub 3
-http://194.15.225.98:8000/play/a2qt
-#EXTINF:-1,Sport Klub 4
-http://46.29.169.15:4001/play/a00q/index.m3u8
-#EXTINF:-1,Sport Klub 5
-http://46.29.169.15:4001/play/a00r/index.m3u8
-#EXTINF:-1,Sport Klub 6
-http://46.29.169.15:4001/play/a00s/index.m3u8
-#EXTINF:-1,Arena Sport 1
-http://46.29.169.15:4001/play/a00t/index.m3u8
-#EXTINF:-1,Arena Sport 2
-http://46.29.169.15:4001/play/a00u/index.m3u8
-#EXTINF:-1,Arena Sport 3
-http://46.29.169.15:4001/play/a00v/index.m3u8
-#EXTINF:-1,Arena Sport 4
-http://46.29.169.15:4001/play/a00w/index.m3u8
-#EXTINF:-1,Arena Sport 5
-http://46.29.169.15:4001/play/a00x/index.m3u8
-#EXTINF:-1,Arena Sport 6
-http://46.29.169.15:4001/play/a00y/index.m3u8
-#EXTINF:-1,ASArena Premium 1
-http://46.29.169.15:4001/play/a00g/index.m3u8
-#EXTINF:-1,ASArena Premium 2
-http://46.29.169.15:4001/play/a00h/index.m3u8
-#EXTINF:-1,ASArena Premium 3
-http://46.29.169.15:4001/play/a00i/index.m3u8
-
-#EXTINF:-1,1,Eurosport 1
-http://94.250.61.1:8888/http/003
-#EXTINF:-1,1,As 2
-http://94.250.61.1:8888/http/014
-
-
-
-#EXTINF:-1,1,Eurosport
-http://188.124.211.121:8557/play/a025
-#EXTINF:-1,1,Eurosport 2
-http://188.124.211.121:8557/play/a026
-#EXTINF:-1,1,Eurosport 2 HD
+#EXTINF:-1,Eurosport 2 HD
 http://109.175.16.2:80/ESP2/mpegts
-#EXTINF:-1,1,Arena Sport 1
+#EXTINF:-1,Arena Sport 1
 http://188.124.211.121:8557/play/a021
-#EXTINF:-1,1,Arena Sport 2
+#EXTINF:-1,Arena Sport 2
 http://188.124.211.121:8557/play/a022
-#EXTINF:-1,1,Arena Sport 3
+#EXTINF:-1,Arena Sport 3
 http://188.124.211.121:8557/play/a023
-#EXTINF:-1,1,Arena Sport 4
+#EXTINF:-1,Arena Sport 4
 http://188.124.211.121:8557/play/a024
 
 
-#EXTINF:-1,1,SK2 - HD
+#EXTINF:-1,SK2 - HD
 http://new-pro.tv:8080/Fernando/123321/55743
-#EXTINF:-1,1,SK3 - HD
+#EXTINF:-1,SK3 - HD
 http://new-pro.tv:8080/Fernando/123321/33196
-#EXTINF:-1,1,SportKlub 2 HD.
+#EXTINF:-1,SportKlub 2 HD.
 http://185.205.201.101:8024/play/a05k
-#EXTINF:-1,1,SportKlub 3 HD.
+#EXTINF:-1,SportKlub 3 HD.
 http://185.205.201.101:8024/play/a05l
-#EXTINF:-1,1,SportCLUB 2
+#EXTINF:-1,SportCLUB 2
 http://194.15.225.98:8000/play/a2qz
 
-#EXTINF:-1,1,Arena 1
+#EXTINF:-1,Arena 1
 http://46.29.169.15:4001/play/a002/index.m3u8
-#EXTINF:-1,1,Arena 2
+#EXTINF:-1,Arena 2
 http://46.29.169.15:4001/play/a003/index.m3u8
-#EXTINF:-1,1,Arena 3
+#EXTINF:-1,Arena 3
 http://46.29.169.15:4001/play/a004/index.m3u8
-#EXTINF:-1,1,Arena 4
+#EXTINF:-1,Arena 4
 http://46.29.169.15:4001/play/a005/index.m3u8
-#EXTINF:-1,1,Arena 5
+#EXTINF:-1,Arena 5
 http://46.29.169.15:4001/play/a006/index.m3u8
-#EXTINF:-1,1,Arena 6
+#EXTINF:-1,Arena 6
 http://46.29.169.15:4001/play/a007/index.m3u8
-#EXTINF:-1,1,3017 Arena 1 PREMIUM
+#EXTINF:-1,3017 Arena 1 PREMIUM
 http://5.206.237.66:9000/play/a06z
-#EXTINF:-1,1,3018 Arena 2 PREMIUM
+#EXTINF:-1,3018 Arena 2 PREMIUM
 http://5.206.237.66:9000/play/a071
-#EXTINF:-1,1,3019 Arena 3 PREMIUM
+#EXTINF:-1,3019 Arena 3 PREMIUM
 http://5.206.237.66:9000/play/a072
-#EXTINF:-1,1,Arena Sport 1
+#EXTINF:-1,Arena Sport 1
 http://5.206.237.66:9000/play/a075
-#EXTINF:-1,1,Arena Sport 2
+#EXTINF:-1,Arena Sport 2
 http://5.206.237.66:9000/play/a076
-#EXTINF:-1,1,Arena Sport 3
+#EXTINF:-1,Arena Sport 3
 http://5.206.237.66:9000/play/a077
-#EXTINF:-1,1,3020 Arena Sport 4
+#EXTINF:-1,3020 Arena Sport 4
 http://5.206.237.66:9000/play/a073
-#EXTINF:-1,1,3021 Arena Sport 5
+#EXTINF:-1,3021 Arena Sport 5
 http://5.206.237.66:9000/play/a074
 
-#EXTINF:-1,1,Super Sat Tv
+#EXTINF:-1,Super Sat Tv
 http://5.254.16.186/SuperSatTV/mono.m3u8
-#EXTINF:-1,1,ART Vizija
+#EXTINF:-1,ART Vizija
 rtmp://92.60.237.39/live/test
-#EXTINF:-1,1,KosovoiMetohija 2 Tv
+#EXTINF:-1,KosovoiMetohija 2 Tv
 http://stream1.rtkit.com:1935/rtk2stream/rtk2.stream/.m3u8
-#EXTINF:-1,1,Balkan Tv
+#EXTINF:-1,Balkan Tv
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bd99f2e8f9ef412d886fa3c70382ad4d/chunklist_b4628000.m3u8?p=79&s=1649435013&e=1649435133&h=656bb9b78526e8ba44e148ea1f733322
-#EXTINF:-1,1,Kanal 23
+#EXTINF:-1,Kanal 23
 https://stream-08.ix7.dailymotion.com/sec(mrmbjyo0OWizOLjLy9FZKp_PtQ-mmQVFqxkG4AdYaYCXvInm_f6JYeuY0vz_Ep-l)/dm/3/x1jztwz/s/live-1.m3u8
-#EXTINF:-1,1,Ntv Ic
+#EXTINF:-1,Ntv Ic
 https://video-weaver.vie02.hls.ttvnw.net/v1/playlist/Cp0Fzda0WS6vmXOQ90qNbKSl9NzkQjJLXt5q6hHlBMXaIgUko22-H-DR1hJVc6uzhARh0sRdN_e9dJrUB-b2eG3QmgC5KSz6IYui42BXlK9D_GAkJqM0eTCqKKH7I2aqA5mjX1LTt_CZ1tjzXY6b0SGJewymsGrY1lRjs1vcvQjilDziqVeFjCfPfQNrPkD6YW28a7Wy-bhnMDqDdXWXjZnBB3TLJ8lu9tLKg9Yb4jtMVGep0wByhVa3dzI7UIGxMpdMGuS-OS87PzvYa8AvBgu41lUX1G-FNP2gLaWAvBvu0VhpUSPF8cnrNWjX7R8TpJbZrBS_uU0iVV0F3z2OitGu5vJSLq44F4NGhGGAB3MptAbFHx5wZ6DmU2f2Y3vQQmX6kdV8uxg3IpbY_k1qCtQyhRK495M612PtSyAl6mtNShicb7V7qLHC9rThwiPaR3TsT9hWj3TA7frV_NG6G0_3dvjuN_Y5LdYMCkwIDsPLRXtuKdgyvjWhj9eZ23FTJXSHWz3Wgl2TVbnXMxVx6gdImZOuN9B-9QeSweAOofAQ_uw3JRTH33pHCr0Ayom3ULMvFaM9km-Xp6Ij570y5-I2DgW0cW0p4wNG5t451-RTVGB_y8yAM7gWcTaceUnzIPjx2FztfFWLijqxiiAom_j1glQMovChxFulfnQXdMDSpDGe1IjX9MHTEvPkN8EiFRklEXXpgo3YjJ9OjWh16iJrW9R0_OuiTlWiW2iYqyEXfeeyqdKogt1d6q89TXxJ0A9sjxgeYRon-9vq_AQbwG7w5aTe3yZzTAKyl85TwErL7Vw7kvULMICDEq6yWVsw4MnpJZ5Cz-MIPG7hwYhJi8Q-1GhddRRrjRTlLf7yBlQX7mUT-I9z0lxCq-DhjbaWGgz6wfUefG2skLxc1fUgASoJZXUtd2VzdC0yMMUD.m3u8
-#EXTINF:-1,1,JUPOK Rozaje
+#EXTINF:-1,JUPOK Rozaje
 http://tinyurl.com/jupok
-#EXTINF:-1,1,TV Rozaje
+#EXTINF:-1,TV Rozaje
 http://tinyurl.com/rtvrozaje
 
 
 #EXTM3U
-#EXTINF:-1,1,FEN TV
+#EXTINF:-1,FEN TV
 http://85.14.32.15:8801/udp/239.192.3.10:1234
-#EXTINF:-1,1,The Voice
+#EXTINF:-1,The Voice
 http://85.14.32.15:8801/udp/239.192.4.17:1234
-#EXTINF:-1,1,MagicTV
+#EXTINF:-1,MagicTV
 http://85.14.32.15:8801/udp/239.192.4.18:1234
-#EXTINF:-1,1,Evrokom
+#EXTINF:-1,Evrokom
 http://85.14.32.15:8801/udp/239.192.6.8:1234
 
 
 
-#EXTINF:-1,1,Jadran
+#EXTINF:-1,Jadran
 
-#EXTINF:-1,1,Mrt Sat
+#EXTINF:-1,Mrt Sat
 
-#EXTINF:-1,1,ADRIA Music Tv
+#EXTINF:-1,ADRIA Music Tv
 https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
-#EXTINF:-1,1,Balkan Music Tv
+#EXTINF:-1,Balkan Music Tv
 http://89.39.149.216:8081/balkantv/live/playlist.m3u8
-#EXTINF:-1,1,Top Sound Tv
+#EXTINF:-1,Top Sound Tv
 http://82.165.71.58:8081/TopTV/live/chunks.m3u8
-#EXTINF:-1,1 tvg-name="Adria" tvg-logo="https://adriatelekom.com/wp-content/uploads/2020/08/Adria-Net-Logo-Beo-senka.png",Adria Music RS
+#EXTINF:-1 tvg-name="Adria" tvg-logo="https://adriatelekom.com/wp-content/uploads/2020/08/Adria-Net-Logo-Beo-senka.png",Adria Music RS
 http://91.212.150.248/AdriaMusicTV/index.m3u8
-#EXTINF:-1,1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Glas Drine
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",Glas Drine
 http://glasdrine.cutuk.net:8081/433ssdsw/GlasDrineSD/playlist.m3u8
 
