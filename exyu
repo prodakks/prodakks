@@ -8,9 +8,9 @@ http://stream.bestvideostreaming.is/8741/index.m3u8
 http://stream.bestvideostreaming.is/8743/index.m3u8
 #EXTINF:-1,SUPER SPORT 5
 http://stream.bestvideostreaming.is/8736/index.m3u8
-#EXTINF:-0,Pink E1
+#EXTINF:-1,Pink E1
 http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
-#EXTINF:-0,Pink E2
+#EXTINF:-1,Pink E2
 http://5.149.64.8:80/PINKEROTIK2/mpegts?token=MMDSuplink
-#EXTINF:-0,Pink E3
+#EXTINF:-1,Pink E3
 http://5.149.64.8:80/PINKEROTIK3/mpegts?token=MMDSuplink
