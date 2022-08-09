@@ -24,13 +24,9 @@ http://quasar.shoutca.st:8018/
 http://radio.1dhe1.com:8555/
 #EXTINF:0,RADIO NRG | ALB
 http://ice31.securenetsystems.net:80/AL09
-#EXTINF:0,RADIO PEJA | RKS
-http://ns5.albaservers.com:8020/
-#EXTINF:0,RADIO SHARRI | RKS
-http://live.radio-sharri.info:8020/
-#EXTINF:0,NAXI | RS
-http://naxi128.streaming.rs:9150
-#EXTINF:0,RADIO ARTA | RKS
-http://173.192.207.51:8086/;
-#EXTINF:0,RADIO PENDIMI | RKS
-http://radio-pendimi.com:8000/
+#EXTINF:-0,Pink E1
+http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
+#EXTINF:-0,Pink E2
+http://5.149.64.8:80/PINKEROTIK2/mpegts?token=MMDSuplink
+#EXTINF:-0,Pink E3
+http://5.149.64.8:80/PINKEROTIK3/mpegts?token=MMDSuplink
