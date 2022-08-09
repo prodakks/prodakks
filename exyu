@@ -1,38 +1,14 @@
 #EXTM3U
-#EXTINF:-1,Orbis
-http://tvorbis.hugo.mk:1935/live/orbistv/am21_w1822817663.m3u8
-#EXTINF:-1,Kanal 8
-http://kanal8.hugo.mk:1935/live/kanal8/chunklist_w276673471.m3u8
-#EXTINF:-1,Zdravkin
-http://zdravkin.hugo.mk:1935/live/zdravkin/am21.m3u8
-#EXTINF:-1,Svet
-http://tvsvet.hugo.mk:1936/live/tvsvet/stream/3.m3u8
-#EXTINF:-1,Tera Bitola
-http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657505
-#EXTINF:-1,TV+ Kumanovo MK
-http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/7878
-#EXTINF:-1,Iris Stip
-http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/686773
-#EXTINF:-1,EDO MK
-http://mytv.fun:8080/xhg36zuvv/vxj63lllg2/657500
-#EXTINF:-1,Nova 12
-http://151.236.247.171:8080/nova/index.m3u8
-#EXTINF:-1,Sonce Tv
-https://media2.streambrothers.com:1936/8142/8142/chunklist_w1341070526.m3u8
-#EXTINF:-1,Nasha
-https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Nasha_TV)/index.m3u8
-#EXTINF:-1,Mnet Info
-https://ares.mnet.mk/hls/mnet-info.m3u8
-#EXTINF:-1,MNET
-https://ares.mnet.mk/hls/mnet.m3u8
-#EXTINF:-1,Makedonski
-http://ares.mnet.mk/hls/macdoc.m3u8
-#EXTINF:-1,Mnet Sport
-https://ares.mnet.mk/hls/mnet-sport.m3u8
-#EXTINF:-1,Mnet Kids
-https://ares.mnet.mk/hls/mnet-kids.m3u8
-#EXTINF:-1,Sky Folk
-http://skyfolk.mk/live.m3u8
+#EXTINF:-1,SSPORT NEWS SD
+http://stream.bestvideostreaming.is/10030/index.m3u8
+#EXTINF:-1,SUPER SPORT 2
+http://stream.bestvideostreaming.is/8734/index.m3u8
+#EXTINF:-1,SUPER SPORT 3
+http://stream.bestvideostreaming.is/8741/index.m3u8
+#EXTINF:-1,SUPER SPORT 4
+http://stream.bestvideostreaming.is/8743/index.m3u8
+#EXTINF:-1,SUPER SPORT 5
+http://stream.bestvideostreaming.is/8736/index.m3u8
 #EXTINF:-1,Pink E1
 http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
 #EXTINF:-1,Pink E2
