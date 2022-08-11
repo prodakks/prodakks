@@ -24,3 +24,9 @@ http://quasar.shoutca.st:8018/
 http://radio.1dhe1.com:8555/
 #EXTINF:0,RADIO NRG | ALB
 http://ice31.securenetsystems.net:80/AL09
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 1
+http://5.149.64.8:80/PINKEROTIC1/mpegts?token=MMDSuplink
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 2
+http://5.149.64.8:80/PINKEROTIK2/mpegts?token=MMDSuplink
+#EXTINF:0 tvg-id="ext" group-title="Channels",Pink Erotic 3
+http://5.149.64.8:80/PINKEROTIK3/mpegts?token=MMDSuplink
