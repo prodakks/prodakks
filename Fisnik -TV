@@ -43,24 +43,26 @@ http://czngsr.com:6143/SportKlub2HD*NewD
 http://czngsr.com:6071/SportKlub3HD*NewD
 #EXTINF:-1,NovaSport
 http://czngsr.com:7998/NovaSport*NewD
-#EXTINF:-1,ArenaSport1
-http://czngsr.com:6574/ArenaSport1*NewD
-#EXTINF:-1,SportKlub6
-http://czngsr.com:6050/SportKlub6*NewD
-#EXTINF:-1,ArenaSport2
-http://czngsr.com:6581/ArenaSport2*NewD
-#EXTINF:-1,ArenaSport3
-http://czngsr.com:6690/ArenaSport3*NewD
-#EXTINF:-1,ArenaSport4
-http://czngsr.com:6474/ArenaSport4**D
-#EXTINF:-1,ArenaSport5
-http://czngsr.com:6485/ArenaSport5**D
-#EXTINF:-1,ArenaPremium1HD
-http://czngsr.com:6400/ArenaPremium1HD*NewD
-#EXTINF:-1,ArenaPremium2H
-http://czngsr.com:6140/ArenaPremium2HD*NewD
-#EXTINF:-1,ArenaPremium3HD
-http://czngsr.com:6534/ArenaPremium3HD*NewD
+#EXTINF:-1,Arena Sport 1
+http://185.56.251.38:4000/play/a08j/index.m3u8
+#EXTINF:-1,Arena Sport 1
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9726
+#EXTINF:-1,Arena Sport 2
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9724
+#EXTINF:-1,Arena Sport 3
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9722
+#EXTINF:-1,Arena Sport 3
+http://185.56.251.38:4000/play/a096/index.m3u8
+#EXTINF:-1,Arena Sport 4
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9720
+#EXTINF:-1,Arena Sport 4
+http://185.56.251.38:4000/play/a0e0/index.m3u8
+#EXTINF:-1,Arena Sport 5
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9718
+#EXTINF:-1,Arena Sport 5
+http://185.56.251.38:4000/play/a088/index.m3u8
+#EXTINF:-1,Arena Sport 6
+http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9727
 #EXTINF:-1,SportKlub4
 http://czngsr.com:6548/SportKlub4*NewD
 #EXTINF:-1,SportKlub5
