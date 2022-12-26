@@ -1,6 +1,11 @@
-#EXTM3U
-#EXTINF:0,Koncerti Rock Gjilan 2022
-https://www.youtube.com/watch?v=yP-kg9kXbvU
+#EXTINF:-1,BIG BROTHER ALB 1
+http://stream.bestvideostreaming.is/8810/index.m3u8
+#EXTINF:-1,BIG BROTHER ALB 2
+http://stream.bestvideostreaming.is/8811/index.m3u8
+#EXTINF:-1,BIG BROTHER KS 1
+http://stream.bestvideostreaming.is/8803/index.m3u8
+#EXTINF:-1,BIG BROTHER KS 2
+http://stream.bestvideostreaming.is/8804/index.m3u8
 #EXTINF:-1,SSPORT NEWS SD
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
@@ -43,26 +48,6 @@ http://czngsr.com:6143/SportKlub2HD*NewD
 http://czngsr.com:6071/SportKlub3HD*NewD
 #EXTINF:-1,NovaSport
 http://czngsr.com:7998/NovaSport*NewD
-#EXTINF:-1,Arena Sport 1
-http://185.56.251.38:4000/play/a08j/index.m3u8
-#EXTINF:-1,Arena Sport 1
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9726
-#EXTINF:-1,Arena Sport 2
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9724
-#EXTINF:-1,Arena Sport 3
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9722
-#EXTINF:-1,Arena Sport 3
-http://185.56.251.38:4000/play/a096/index.m3u8
-#EXTINF:-1,Arena Sport 4
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9720
-#EXTINF:-1,Arena Sport 4
-http://185.56.251.38:4000/play/a0e0/index.m3u8
-#EXTINF:-1,Arena Sport 5
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9718
-#EXTINF:-1,Arena Sport 5
-http://185.56.251.38:4000/play/a088/index.m3u8
-#EXTINF:-1,Arena Sport 6
-http://iptvworld.nl:2095/MarkS/iJdiCDpCH9/9727
 #EXTINF:-1,SportKlub4
 http://czngsr.com:6548/SportKlub4*NewD
 #EXTINF:-1,SportKlub5
