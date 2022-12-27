@@ -2,10 +2,6 @@
 http://stream.bestvideostreaming.is/8810/index.m3u8
 #EXTINF:-1,BIG BROTHER ALB 2
 http://stream.bestvideostreaming.is/8811/index.m3u8
-#EXTINF:-1,BIG BROTHER KS 1
-http://stream.bestvideostreaming.is/8803/index.m3u8
-#EXTINF:-1,BIG BROTHER KS 2
-http://stream.bestvideostreaming.is/8804/index.m3u8
 #EXTINF:-1,SSPORT NEWS SD
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
@@ -56,8 +52,10 @@ http://czngsr.com:6039/SportKlub5*NewD
 http://czngsr.com:6214/Eurosport*NewD
 #EXTINF:-1,Eurosport2srb
 http://czngsr.com:6412/Eurosport2*NewD
+#EXTINF:-1,TOP CHANNEL
+http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,RTK 1
-http://stream1.rtkit.com:1935/rtk1stream/rtk1.stream/playlist.m3u8
+http://stream.bestvideostreaming.is/8702/index.m3u8
 #EXTINF:-1,RTV 21
 http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-1,KTV
@@ -72,8 +70,6 @@ http://stream.bestvideostreaming.is/8904/index.m3u8
 http://stream.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-1,ATV
 http://stream.bestvideostreaming.is/8709/index.m3u8
-#EXTINF:-1,TOP CHANNEL
-http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,TOP NEWS
 http://stream.bestvideostreaming.is/10025/index.m3u8
 #EXTINF:-1,KLAN
