@@ -3,7 +3,9 @@ http://stream.bestvideostreaming.is/8810/index.m3u8
 #EXTINF:-1,BIG BROTHER ALB 2
 http://stream.bestvideostreaming.is/8811/index.m3u8
 #EXTINF:-1,BB 1
-https://live-k5e12sb4.rmbl.ws/slot-52/bwfq-0yk5_720p/chunklist_DVR.m3u8
+https://live-k5e12sb4.rmbl.ws/slot-52/bwfq-0yk5_1080p/chunklist_DVR.m3u8
+#EXTINF:-1,BB 2
+https://live-v13wgnv6.rmbl.ws/slot-16/o596-7bkr_1080p/chunklist_DVR.m3u8
 #EXTINF:-1,SSPORT NEWS SD
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
