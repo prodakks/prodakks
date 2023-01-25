@@ -1,13 +1,9 @@
+#EXTINF:-1,BIG BROTHER ALB 1
+http://stream.bestvideostreaming.is/8810/index.m3u8
 #EXTINF:-1,BIG BROTHER ALB 2
-https://live-k5e12sb4.rmbl.ws/slot-31/japz-c9av_1080p/chunklist_DVR.m3u8
-#EXTINF:-1,BB 1
-https://live-k5e12sb4.rmbl.ws/slot-40/i9wp-19jz_1080p/chunklist_DVR.m3u8
-#EXTINF:-1,BB 2
-#EXTINF:-1,bb yutube li
-https://www.youtube.com/watch?v=ZW4nd4Gt1YI
-#EXTINF:-1,bbbbb
-https://ok.ru/video/5143187889784
-https://live-k5e12sb4.rmbl.ws/slot-31/japz-c9av_1080p/chunklist_DVR.m3u8
+http://stream.bestvideostreaming.is/8811/index.m3u8
+#EXTINF:-1,TOP CHANNEL
+http://stream.bestvideostreaming.is/8708_6h/index.m3u8
 #EXTINF:-1,SSPORT NEWS SD
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
@@ -58,8 +54,6 @@ http://czngsr.com:6039/SportKlub5*NewD
 http://czngsr.com:6214/Eurosport*NewD
 #EXTINF:-1,Eurosport2srb
 http://czngsr.com:6412/Eurosport2*NewD
-#EXTINF:-1,TOP CHANNEL
-http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,RTK 1
 http://stream.bestvideostreaming.is/8702/index.m3u8
 #EXTINF:-1,RTV 21
