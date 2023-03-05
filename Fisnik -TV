@@ -1,250 +1,112 @@
-#EXTINF:-1,BIG BROTHER ALB 1
-http://stream.bestvideostreaming.is/8810/index.m3u8
-#EXTINF:-1,BIG BROTHER ALB 2
-http://stream.bestvideostreaming.is/8811/index.m3u8
+#EXTM3U
+#EXTINF:-1,TOP CHANNEL HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47075.ts
+#EXTINF:-1,BIG BROTHER VIP AL 1 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/297206.ts
+#EXTINF:-1,BIG BROTHER VIP AL 2 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/297207.ts
 #EXTINF:-1,BB VIP AL 1 HD
-https://tinyurl.com/463n8242
+https://live-k5e12sb4.rmbl.ws/slot-56/j5bf-brtm_1080p/chunklist_DVR.m3u8
 #EXTINF:-1,BB VIP AL 2 HD
-https://tinyurl.com/yc49c9y5
-#EXTINF:-1,Top cannel
-http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65359.ts
-#EXTINF:-1,bb2 arbana
-hhttps://live-b9exd20e.rmbl.ws/slot-15/fa03-alru_720p/chunklist_DVR.m3u8
-#EXTINF:-0,bb 1
-https://tinyurl.com/yv6pfmd3
-#EXTINF:-0,bb 2
-https://rb.gy/qbddvj
-#EXTINF:-1,SUPER SPORT 2
-http://stream.bestvideostreaming.is/8734/index.m3u8
-#EXTINF:-1,SUPER SPORT 3
-http://stream.bestvideostreaming.is/8741/index.m3u8
-#EXTINF:-1,SUPER SPORT 4
-http://stream.bestvideostreaming.is/8743/index.m3u8
-#EXTINF:-1,SUPER SPORT 5
-http://stream.bestvideostreaming.is/8736/index.m3u8
-#EXTINF:-1,K SPORT 1
-http://stream.bestvideostreaming.is/10035/index.m3u8
-#EXTINF:-1,K SPORT 2
-http://stream.bestvideostreaming.is/10036/index.m3u8
-#EXTINF:-1,TRING SPORT NEWS
-http://stream.bestvideostreaming.is/8785/index.m3u8
-#EXTINF:-1,TRING SPORT 1
-http://stream.bestvideostreaming.is/8796/index.m3u8
-#EXTINF:-1,TRING SPORT 2
-http://stream.bestvideostreaming.is/8797/index.m3u8
-#EXTINF:-1,TRING SPORT 3
-http://stream.bestvideostreaming.is/8798/index.m3u8
-#EXTINF:-1,TRING SPORT 4
-http://stream.bestvideostreaming.is/8799/index.m3u8
-#EXTINF:-1,SPORT PLUS 1
-http://stream.bestvideostreaming.is/7001/index.m3u8
-#EXTINF:-1,SPORT PLUS 2
-http://stream.bestvideostreaming.is/7002/index.m3u8
-#EXTINF:-1,SPORT PLUS 3
-http://stream.bestvideostreaming.is/7003/index.m3u8
-#EXTINF:-1,SPORT PLUS
-http://stream.bestvideostreaming.is/7004/index.m3u8
-#EXTINF:-1,SportKlubHD
-http://czngsr.com:6021/SportKlubHD*NewD
-#EXTINF:-1,SportKlub1HD
-http://czngsr.com:6154/SportKlub1HD**NewD
-#EXTINF:-1,SportKlub2HD
-http://czngsr.com:6143/SportKlub2HD*NewD
-#EXTINF:-1,SportKlub3HD
-http://czngsr.com:6071/SportKlub3HD*NewD
-#EXTINF:-1,NovaSport
-http://czngsr.com:7998/NovaSport*NewD
-#EXTINF:-1,SportKlub4
-http://czngsr.com:6548/SportKlub4*NewD
-#EXTINF:-1,SportKlub5
-http://czngsr.com:6039/SportKlub5*NewD
-#EXTINF:-1,Eurosport1srb
-http://czngsr.com:6214/Eurosport*NewD
-#EXTINF:-1,Eurosport2srb
-http://czngsr.com:6412/Eurosport2*NewD
-#EXTINF:-1,RTK 1
-http://stream.bestvideostreaming.is/8702/index.m3u8
-#EXTINF:-1,RTV 21
-http://stream.bestvideostreaming.is/8748/index.m3u8
-#EXTINF:-1,KTV
-http://stream.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1,KLAN KOSOVA
-http://stream.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-1,TV DUKAGJINI
-http://stream.bestvideostreaming.is/8788/index.m3u8
-#EXTINF:-1,T7
-http://stream.bestvideostreaming.is/8904/index.m3u8
-#EXTINF:-0,KANAL 10
-http://stream.bestvideostreaming.is/8849/index.m3u8
-#EXTINF:-1,ATV
-http://stream.bestvideostreaming.is/8709/index.m3u8
-#EXTINF:-1,TOP NEWS
-http://stream.bestvideostreaming.is/10025/index.m3u8
-#EXTINF:-1,KLAN
-http://stream.bestvideostreaming.is/8704/index.m3u8
-#EXTINF:-1,ALSAT M
-http://stream.bestvideostreaming.is/8713/index.m3u8
-#EXTINF:-1,RTV21 PLUS
-http://stream.bestvideostreaming.is/8750/index.m3u8
-#EXTINF:-1,RTV 21MK
-http://stream.bestvideostreaming.is/8790/index.m3u8
-#EXTINF:-1,KLAN PLUS
-http://stream.bestvideostreaming.is/8720/index.m3u8
-#EXTINF:-1,RROKUM TV
-http://stream.bestvideostreaming.is/8849/index.m3u8
-#EXTINF:-1,FIRST TV
-http://stream.bestvideostreaming.is/8717/index.m3u8
-#EXTINF:-1,T HD
-http://stream.bestvideostreaming.is/8746/index.m3u8
-#EXTINF:-1,3 PLUS
-http://stream.bestvideostreaming.is/8773/index.m3u8
-#EXTINF:-1,FILM1 GOLD HD
-http://stream.bestvideostreaming.is/8730/index.m3u8
-#EXTINF:-1,FILM HITS
-http://stream.bestvideostreaming.is/8755/index.m3u8
-#EXTINF:-1,FILM AKSION
-http://stream.bestvideostreaming.is/8742/index.m3u8
-#EXTINF:-1,FILM THRILLER
-http://stream.bestvideostreaming.is/8757/index.m3u8
-#EXTINF:-1,FILM DRAME
-http://stream.bestvideostreaming.is/8727/index.m3u8
-#EXTINF:-1,FILM AUTOR
-http://stream.bestvideostreaming.is/8753/index.m3u8
-#EXTINF:-1,FILM KOMEDI
-http://stream.bestvideostreaming.is/8752/index.m3u8
-#EXTINF:-1,TRING COMEDY
-http://stream.bestvideostreaming.is/8767/index.m3u8
-#EXTINF:-1,TRING FANTASY
-http://stream.bestvideostreaming.is/8766/index.m3u8
-#EXTINF:-1,TRING SUPER
-http://stream.bestvideostreaming.is/8770/index.m3u8
-#EXTINF:-1,TRING MAX
-http://stream.bestvideostreaming.is/8769/index.m3u8
-#EXTINF:-1,TRING LIFE
-http://stream.bestvideostreaming.is/8768/index.m3u8
-#EXTINF:-1,JOLLY HD
-http://stream.bestvideostreaming.is/8774/index.m3u8
-#EXTINF:-1,STINET
-http://stream.bestvideostreaming.is/8751/index.m3u8
-#EXTINF:-1,TRING LIVING
-http://stream.bestvideostreaming.is/8771/index.m3u8
-#EXTINF:-1,STAR TV HD
-http://stream.bestvideostreaming.is/8781/index.m3u8
-#EXTINF:-1,SKY 7
-http://stream.bestvideostreaming.is/8889/index.m3u8
-#EXTINF:-1,SKY AKSION
-http://stream.bestvideostreaming.is/8880/index.m3u8
-#EXTINF:-1,SKY KOMEDI
-http://stream.bestvideostreaming.is/8881/index.m3u8
-#EXTINF:-1,SKY MAX
-http://stream.bestvideostreaming.is/8882/index.m3u8
-#EXTINF:-1,SKY DRAME
-http://stream.bestvideostreaming.is/8883/index.m3u8
-#EXTINF:-1,SKY NOVELA
-http://stream.bestvideostreaming.is/8884/index.m3u8
+https://live-v13wgnv6.rmbl.ws/slot-59/6mqz-mxhw_1080p/chunklist_DVR.m3u8
+#EXTINF:-1,ALSAT M HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/2771.ts
+#EXTINF:-1,ATV HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/54489.ts
+#EXTINF:-1,DUKAGJINI HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47072.ts
+#EXT#EXTINF:-1,KANAL 10 HD
+http://iptvbudur.xyz:8080/live/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/292069.ts
+#EXTINF:-1,KLAN KOSOVA HD
+http://iptvbudur.xyz:8080/live/Vxc9kRkAwBvPsh2332jgh345/V6t9pVVJ6UPbsjdj276336jdjdjdj/292055.ts
+#EXTINF:-1,KLAN HD
+http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
+#EXTINF:-1,VIZION PLUS HD
+http://95.107.132.105/out/u/1044_2.m3u8
+#EXTINF:-1,EURO FILM SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65465.ts
 #EXTINF:-1,FAMILY HD
-http://stream.bestvideostreaming.is/8754/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://stream.bestvideostreaming.is/8725/index.m3u8
-#EXTINF:-1,EXP NATYRA
-http://stream.bestvideostreaming.is/8739/index.m3u8
-#EXTINF:-1,EXP SHKENCE
-http://stream.bestvideostreaming.is/8726/index.m3u8
-#EXTINF:-1,EXP HISTORI
-http://stream.bestvideostreaming.is/8729/index.m3u8
-#EXTINF:-1,TRING PLANET
-http://stream.bestvideostreaming.is/8764/index.m3u8
-#EXTINF:-1,TRING WORLD
-http://stream.bestvideostreaming.is/8763/index.m3u8
-#EXTINF:-1,TRING HISTORI
-http://stream.bestvideostreaming.is/8765/index.m3u8
-#EXTINF:-1,EUROFILM
-http://stream.bestvideostreaming.is/8758/index.m3u8
-#EXTINF:-1,SKY PLANET
-http://stream.bestvideostreaming.is/8886/index.m3u8
-#EXTINF:-1,SKY HISTORI
-http://stream.bestvideostreaming.is/8888/index.m3u8
-#EXTINF:-1,MUSE
-http://stream.bestvideostreaming.is/8778/index.m3u8
-#EXTINF:-1,TRING SMILE
-http://stream.bestvideostreaming.is/8772/index.m3u8
-#EXTINF:-1,21 MIX
-http://stream.bestvideostreaming.is/8756/index.m3u8
-#EXTINF:-1,BABY TV
-http://stream.bestvideostreaming.is/8747/index.m3u8
-#EXTINF:-1,BANG BANG
-http://stream.bestvideostreaming.is/8737/index.m3u8
-#EXTINF:-1,CUFO
-http://stream.bestvideostreaming.is/8738/index.m3u8
-#EXTINF:-1,TIP TV
-http://stream.bestvideostreaming.is/8776/index.m3u8
-#EXTINF:-1,TRING KIDS
-http://stream.bestvideostreaming.is/8777/index.m3u8
-#EXTINF:-1,TRING TRING
-http://stream.bestvideostreaming.is/8775/index.m3u8
-#EXTINF:-1,JUNIOR TV
-http://stream.bestvideostreaming.is/8744/index.m3u8
-#EXTINF:-1,ALB UK
-http://stream.bestvideostreaming.is/8794/index.m3u8
-#EXTINF:-1,ELRODI
-http://stream.bestvideostreaming.is/8718/index.m3u8
-#EXTINF:-1,FOLK+
-http://stream.bestvideostreaming.is/8759/index.m3u8
-#EXTINF:-1,RTV21 POPULLORE
-http://stream.bestvideostreaming.is/8749/index.m3u8
-#EXTINF:-1,MUZIKE FOLKLORITE
-http://stream.bestvideostreaming.is/8735/index.m3u8
-#EXTINF:-1,EURO AL
-http://stream.bestvideostreaming.is/8719/index.m3u8
-#EXTINF:-1,DASMA TV
-http://stream.bestvideostreaming.is/8793/index.m3u8
-#EXTINF:-1,A-MOL TV
-http://stream.bestvideostreaming.is/7722/index.m3u8
-#EXTINF:-1,RTSH MUZIKE
-http://stream.bestvideostreaming.is/8052/index.m3u8
-#EXTINF:-1,MTV KOSOVA
-http://stream.bestvideostreaming.is/8853/index.m3u8
-#EXTINF:-1,TV OPOJA
-http://stream.bestvideostreaming.is/8723/index.m3u8
-#EXTINF:-1,CLICK TV
-http://stream.bestvideostreaming.is/8779/index.m3u8
-#EXTINF:-1,TURBO
-http://stream.bestvideostreaming.is/8839/index.m3u8
-#EXTINF:-1,CLUB TV
-http://stream.bestvideostreaming.is/8821/index.m3u8
-#EXTINF:-1,SYRI BLUE
-http://stream.bestvideostreaming.is/8850/index.m3u8
-#EXTINF:-1,STAR PLUS HD
-http://stream.bestvideostreaming.is/8789/index.m3u8
-#EXTINF:-0,ZJARR TV
-http://edge01eu.ekranet.com/zjarrtv/index.m3u8
-#EXTINF:-0,USKANA TV
-http://188.44.8.20:60000/TvUskana
-#EXTINF:-1,T R I N G TVSH
-http://stream.bestvideostreaming.is/8701/index.m3u8
-#EXTINF:-1,MKTV2
-http://stream.bestvideostreaming.is/8728/index.m3u8
-#EXTINF:-1,TV TETOVA
-http://stream.bestvideostreaming.is/8890/index.m3u8
-#EXTINF:-1,SYRI VISION
-http://stream.bestvideostreaming.is/8784/index.m3u8
-#EXTINF:-1,TV DIELLI
-http://stream.bestvideostreaming.is/8818/index.m3u8
-#EXTINF:-1,Qifteli HD
-http://stream.bestvideostreaming.is/8735/index.m3u8
-#EXTINF:-0,RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-0,RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-0,NEWS24
-http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
-#EXTINF:-1,ALV USA
-http://stream.bestvideostreaming.is/8711/index.m3u8
-#EXTINF:-1,ABC NEWS
-http://stream.bestvideostreaming.is/10023/index.m3u8
-#EXTINF:-1,ARTA NEWS
-http://stream.bestvideostreaming.is/8745/index.m3u8
-#EXTINF:-1,A1 REPORT
-http://stream.bestvideostreaming.is/8707/index.m3u8
-#EXTINF:-1,ORA NEWS
-http://stream.bestvideostreaming.is/8715/index.m3u8
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65458.ts
+#EXTINF:-1,FILM AKSION HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65452.ts
+#EXTINF:-1,FILM AUTOR SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65456.ts
+#EXTINF:-1,FILM DRAMË SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65454.ts
+#EXTINF:-1,FILM GOLD HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65449.ts
+#EXTINF:-1,FILM HITS HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65451.ts
+#EXTINF:-1,FILM KOMEDI SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65455.ts
+#EXTINF:-1,FILM MAX HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65450.ts
+#EXTINF:-1,FILM STINËT SD
+http://bandookk.xyz:8000/live/xiptv/rHpRkE91W2/33400.ts
+#EXTINF:-1,FILM THRILLER SD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65453.ts
+#EXTINF:-1,TRING ACTION HD
+http://95.107.132.105/out/u/1070_1.m3u8
+#EXTINF:-1,TRING CLASSIC HD
+http://95.107.132.106/out/u/1114_2.m3u8
+#EXTINF:-1,TRING COLLETION HD
+http://95.107.132.105/out/u/907_2.m3u8
+#EXTINF:-1,TRING COMEDY HD
+http://95.107.132.105/out/u/1071_2.m3u8
+#EXTINF:-1,TRING FAMILY HD
+http://95.107.132.105/out/u/1012_2.m3u8
+#EXTINF:-1,TRINF FANTASY HD
+http://95.107.132.105/out/u/1002_2.m3u8
+#EXTINF:-1,TRING LIFE HD
+http://95.107.132.105/out/u/1072_3.m3u8
+#EXTINF:-1,TRING SERIES HD
+http://95.107.132.105/out/u/996_2.m3u8
+#EXTINF:-1,TRING SMILE HD
+http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65528.ts
+#EXTINF:-1,TRING SUPER HD
+http://95.107.132.105/out/u/1069_2.m3u8
+#EXTINF:-1,ART KINO 1 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52215.ts
+#EXTINF:-1,ART KINO 2 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52216.ts
+#EXTINF:-1,ART KINO 3 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/52217.ts
+#EXTINF:-1,EXP HISTORI SD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47152.ts
+#EXTINF:-1,EXP NATYRA SD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47151.ts
+#EXTINF:-1,EXP SHKENCË SD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47150.ts
+#EXTINF:-1,TRING HISTORY HD
+http://95.107.132.105/out/u/1075_3.m3u8
+#EXTINF:-1,TRING PLANET HD
+http://95.107.132.105/out/u/1000_2.m3u8
+#EXTINF:-1,TRING WORLD HD
+http://95.107.132.105/out/u/1076_2.m3u8
+#EXTINF:-1,TRING LIVING HD
+http://95.107.132.105/out/u/990_2.m3u8
+#EXTINF:-1,SUPER SPORT 1 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47084.ts
+#EXTINF:-1,SUPER SPORT 2 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47082.ts
+#EXTINF:-1,SUPER SPORT 3 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47080.ts
+#EXTINF:-1,SUPER SPORT 4 HD
+http://server.sibfungold.info:8080/live/bilo445/IO445FMnWubFMnWubilo7U/47078.ts
+#EXTINF:-1,TRING SPORT NEWS HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/1861.ts
+#EXTINF:-1,TRING SPORT 1 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/1306.ts
+#EXTINF:-1,TRING SPORT 2 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/1305.ts
+#EXTINF:-1,TRING SPORT 3 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/1304.ts
+#EXTINF:-1,TRING SPORT 4 HD
+#EXTINF:-1,OVER SPORT 1 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/290218.ts
+#EXTINF:-1,OVER SPORT 2 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/295514.ts
+#EXTINF:-1,OVER SPORT 3 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/290537.ts
+#EXTINF:-1,OVER SPORT 4 HD
+http://quality-restream.com:8080/live/alinhotfcex/1q5HWC9l6322O61N7oYS/290538.ts
