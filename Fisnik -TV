@@ -4,10 +4,12 @@ http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65359.ts
 #EXTINF:-1,TOP CHANNEL HD
 http://server.sibfungold.info:8080/live/wassimaloui21/nVvW5yVxLz/47075.ts
-#EXTINF:-1,BB1 rumble
-https://rumble.com/live-hls-dvr/29rfz6/playlist.m3u8
-#EXTINF:-1,BB VIP AL 1 live-mu
-https://live-mu10xuf3.rmbl.ws/slot-54/ln8c-k4fi_1080p/chunklist_DVR.m3u8
+#EXTINF:-1,TOP CHANNE org
+http://stream.bestvideostreaming.is/8708/index.m3u8
+#EXTINF:-1,BIG BROTHER ALB 1 org
+http://stream.bestvideostreaming.is/8810/index.m3u8
+#EXTINF:-1,BIG BROTHER ALB 2 org
+http://stream.bestvideostreaming.is/8811/index.m3u8
 #EXTINF:-1,BB VIP AL 1 HD
 https://live-mu10xuf3.rmbl.ws/slot-54/ln8c-k4fi_1080p/chunklist_DVR.m3u8
 #EXTINF:-1,BB VIP AL 2 HD
