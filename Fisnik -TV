@@ -2,15 +2,15 @@
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,TOP CHANNEL
 http://destiny4k.com:2086/live/cobra/eD40qZ2uro/65359.ts
-#EXTINF:-1,TOP CHANNE stream org
+#EXTINF:-1,TOP CHANNE stream
 http://stream.bestvideostreaming.is/8708/index.m3u8
-#EXTINF:-1,BIG BROTHER ALB 1 stream org
+#EXTINF:-1,BIG BROTHER 1 strea
 http://stream.bestvideostreaming.is/8810/index.m3u8
-#EXTINF:-1,BIG BROTHER ALB 2 stream org
+#EXTINF:-1,BIG BROTHER 2 stream
 http://stream.bestvideostreaming.is/8811/index.m3u8
-#EXTINF:-1,BIG BROTHER VIP AL 1 HD uniquemedia
+#EXTINF:-1,BIG BROTHER 1 uniquemed
 http://uniquemedia.xyz:8080/live/7abb81c7/96e8d504ad/297206.ts
-#EXTINF:-1,BIG BROTHER VIP AL 2 HD uniquemedia
+#EXTINF:-1,BIG BROTHER 2 uniquemed
 http://uniquemedia.xyz:8080/live/7abb81c7/96e8d504ad/297207.ts
-#EXTINF:-1,bb1  live-k5
+#EXTINF:-1,BB1  live-k5
 https://live-k5e12sb4.rmbl.ws/slot-36/55vb-grbo_1080p/chunklist_DVR.m3u8
