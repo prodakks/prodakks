@@ -8,8 +8,6 @@ http://stream.bestvideostreaming.is/8708/index.m3u8
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,TRING VIZION PLUS HD
 http://95.107.132.105/out/u/1044_2.m3u8
-#EXTINF:-1,TRING VIZION PLUS HD
-http://95.107.132.106/out/u/gfhsghshsgfhsfgh.m3u8
 #EXTINF:-1,TRING ACTION HD
 http://95.107.132.105/out/u/1070_1.m3u8
 #EXTINF:-1,TRING CLASSIC HD
@@ -22,8 +20,6 @@ http://95.107.132.105/out/u/996_2.m3u8
 http://95.107.132.105/out/u/1072_3.m3u8
 #EXTINF:-1,TRING 3PLUS HD
 http://95.107.132.105/out/u/980_2.m3u8
-#EXTINF:-1,TRING NOVELAS HD
-http://95.107.132.105/out/u/910_2.m3u8
 #EXTINF:-1,TRING COLLECTION HD
 http://95.107.132.105/out/u/907_2.m3u8
 #EXTINF:-1,TRING DRAMA HD
@@ -50,10 +46,62 @@ http://95.107.132.105/out/u/993_2.m3u8
 http://95.107.132.105/out/u/990_2.m3u8
 #EXTINF:-1,TRING TRAVEL
 http://95.107.132.105/out/u/1019_1.m3u8
-#EXTINF:-1,TRING KIDS
-http://95.107.132.105/out/u/1014_2.m3u8
-#EXTINF:-1,TRING TIP
-http://95.107.132.105/out/u/1015_1.m3u8
+EXTINF:-1,FILM1 GOLD HD
+http://stream.bestvideostreaming.is/8730/index.m3u8
+#EXTINF:-1,FILM HITS
+http://stream.bestvideostreaming.is/8755/index.m3u8
+#EXTINF:-1,FILM AKSION
+http://stream.bestvideostreaming.is/8742/index.m3u8
+#EXTINF:-1,FILM THRILLER
+http://stream.bestvideostreaming.is/8757/index.m3u8
+#EXTINF:-1,FILM DRAME
+http://stream.bestvideostreaming.is/8727/index.m3u8
+#EXTINF:-1,FILM AUTOR
+http://stream.bestvideostreaming.is/8753/index.m3u8
+#EXTINF:-1,FILM KOMEDI
+http://stream.bestvideostreaming.is/8752/index.m3u8
+#EXTINF:-1,TRING COMEDY
+http://stream.bestvideostreaming.is/8767/index.m3u8
+#EXTINF:-1,TRING FANTASY
+http://stream.bestvideostreaming.is/8766/index.m3u8
+#EXTINF:-1,TRING SUPER
+http://stream.bestvideostreaming.is/8770/index.m3u8
+#EXTINF:-1,TRING MAX
+http://stream.bestvideostreaming.is/8769/index.m3u8
+#EXTINF:-1,TRING LIFE
+http://stream.bestvideostreaming.is/8768/index.m3u8
+#EXTINF:-1,JOLLY HD
+http://stream.bestvideostreaming.is/8774/index.m3u8
+#EXTINF:-1,STINET
+http://stream.bestvideostreaming.is/8751/index.m3u8
+#EXTINF:-1,TRING LIVING
+http://stream.bestvideostreaming.is/8771/index.m3u8
+#EXTINF:-1,STAR TV HD
+http://stream.bestvideostreaming.is/8781/index.m3u8
+#EXTINF:-1,SKY 7
+http://stream.bestvideostreaming.is/8889/index.m3u8
+#EXTINF:-1,SKY AKSION
+http://stream.bestvideostreaming.is/8880/index.m3u8
+#EXTINF:-1,SKY KOMEDI
+http://stream.bestvideostreaming.is/8881/index.m3u8
+#EXTINF:-1,SKY MAX
+http://stream.bestvideostreaming.is/8882/index.m3u8
+#EXTINF:-1,SKY DRAME
+http://stream.bestvideostreaming.is/8883/index.m3u8
+#EXTINF:-1,SKY NOVELA
+http://stream.bestvideostreaming.is/8884/index.m3u8
+#EXTINF:-1,FAMILY HD
+http://stream.bestvideostreaming.is/8754/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://stream.bestvideostreaming.is/8725/index.m3u8
+#EXTINF:-1,EXP NATYRA
+http://stream.bestvideostreaming.is/8739/index.m3u8
+#EXTINF:-1,EXP SHKENCE
+http://stream.bestvideostreaming.is/8726/index.m3u8
+#EXTINF:-1,EXP HISTORI
+http://stream.bestvideostreaming.is/8729/index.m3u8
+#EXTINF:-1,TRING PLANET
+http://stream.bestvideostreaming.is/8764/index.m3u8
 #EXTINF:-1,TRING TRING
 http://95.107.132.105/out/u/1074_2.m3u8
 #EXTINF:-1,TRING CLUB TV
