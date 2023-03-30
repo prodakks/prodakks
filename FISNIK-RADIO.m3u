@@ -12,10 +12,6 @@ http://radio.radiodardania.com:4000/stream/1/
 http://s6.voscast.com:8824/
 #EXTINF:0,RADIO EMIGRANTI | FRA
 http://www.radioemigranti.com:8000/radioauto48
-#EXTINF:0,RADIO FOLEJA | CHE
-http://radiorainca.net:8000/
-#EXTINF:0,RADIO KOHA | MKD
-http://stream.tvkoha.tv:5000/
 #EXTINF:0,RADIO KOSOVA | RKS
 http://82.114.72.2:8088/
 #EXTINF:0,RADIO KOSOVA E LIRË
@@ -24,9 +20,5 @@ http://quasar.shoutca.st:8018/
 http://radio.1dhe1.com:8555/
 #EXTINF:0,RADIO NRG | ALB
 http://ice31.securenetsystems.net:80/AL09
-#EXTINF:0,The Best Of Vasilis Saleas
-https://www.youtube.com/watch?v=3sdZvkWCdAU
-#EXTINF:0,Koncerti 50 Gjilan
-https://www.youtube.com/watch?v=yP-kg9kXbvU
 #EXTINF:0,Naxi Radio
 https://naxi128.streaming.rs:9152
