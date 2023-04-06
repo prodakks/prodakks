@@ -138,6 +138,14 @@ http://stream.bestvideostreaming.is/8797/index.m3u8
 http://stream.bestvideostreaming.is/8798/index.m3u8
 #EXTINF:-1,TRING SPORT 4
 http://stream.bestvideostreaming.is/8799/index.m3u8
+#EXTINF:-1,OVER SPORT 1 HD
+http://kuchini.site:8080/live/multi3631/483c5ebb/290218.ts
+#EXTINF:-1,OVER SPORT 2 HD
+http://kuchini.site:8080/live/multi3631/483c5ebb/295514.ts
+#EXTINF:-1,OVER SPORT 3 HD
+http://kuchini.site:8080/live/multi3631/483c5ebb/290537.ts
+#EXTINF:-1,OVER SPORT 4 HD
+http://kuchini.site:8080/live/multi3631/483c5ebb/290538.ts
 #EXTINF:-1,SPORT PLUS 1
 http://stream.bestvideostreaming.is/7001/index.m3u8
 #EXTINF:-1,SPORT PLUS 2
