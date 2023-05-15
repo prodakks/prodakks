@@ -58,7 +58,7 @@ http://95.107.132.105/out/u/993_2.m3u8
 http://95.107.132.105/out/u/990_2.m3u8
 #EXTINF:-1,TRING TRAVEL
 http://95.107.132.105/out/u/1019_1.m3u8
-#EXTINF:-1,AFV Family-Funny
+#EXTINF:-0,FANY
 http://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 #EXTINF:-1,TRING FANTASY
 http://stream.bestvideostreaming.is/8766/index.m3u8
