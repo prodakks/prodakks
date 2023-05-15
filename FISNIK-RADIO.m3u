@@ -62,26 +62,14 @@ https://cp1.sednastream.com/proxy/cityradio
 https://s11.ssl-stream.com/ssl/radiozer
 #EXTINF:-1 , Radio Portal FM
 http://live.lspublic.com:27022/stream.mp3
-#EXTINF:-1 , Radio Dizhoni
-http://radio.radiodardania.com:4000/
 #EXTINF:-1 , Studio Rejan
 http://streaming.jusahost.com:9988/stream.mp3
-#EXTINF:-1 , Vintage Radio Popullore
-http://listen.radionomy.com/jamendolounge
 #EXTINF:-1 , Radio Lushnja
 https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3
 #EXTINF:-1 , Play Radio Albania
 http://n01.radiojar.com/sx7zrht0pg0uv
 #EXTINF:-1 , Radio Tirana 3
 http://79.106.48.2:8000/radiotirana3
-#EXTINF:-1 , A Better Radio
-http://listen.radionomy.com/a-better-70s-gold-hits-station?type=.mp3
-#EXTINF:-1 , Albion FM
-http://listen.radionomy.com/albion?type=.mp3
-#EXTINF:-1 , Radio Oda
-http://listen.radionomy.com/radio-oda
-#EXTINF:-1 , IN Radio 105.7
-http://80.90.86.196:8000/inradio.ogg
 #EXTINF:-1 , Shqiponjat Network
 http://shqiponjat.al:8000/
 #EXTINF:-1 , Radio Tirana Klasik
