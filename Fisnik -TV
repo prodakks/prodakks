@@ -2,6 +2,22 @@
 http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,KLAN HD
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
+#EXTINF:-1,FILM1 GOLD HD
+http://stream.bestvideostreaming.is/8730/index.m3u8
+#EXTINF:-1,FILM HITS
+http://stream.bestvideostreaming.is/8755/index.m3u8
+#EXTINF:-1,FILM AKSION
+http://stream.bestvideostreaming.is/8742/index.m3u8
+#EXTINF:-1,FILM THRILLER
+http://stream.bestvideostreaming.is/8757/index.m3u8
+#EXTINF:-1,FILM DRAME
+http://stream.bestvideostreaming.is/8727/index.m3u8
+#EXTINF:-1,FILM AUTOR
+http://stream.bestvideostreaming.is/8753/index.m3u8
+#EXTINF:-1,FILM KOMEDI
+http://stream.bestvideostreaming.is/8752/index.m3u8
+#EXTINF:-1,TRING COMEDY
+http://stream.bestvideostreaming.is/8767/index.m3u8
 #EXTINF:-1,TRING VIZION PLUS HD
 http://95.107.132.105/out/u/1044_2.m3u8
 #EXTINF:-1,TRING ACTION HD
@@ -20,22 +36,6 @@ http://95.107.132.105/out/u/980_2.m3u8
 http://95.107.132.105/out/u/907_2.m3u8
 #EXTINF:-1,TRING DRAMA HD
 http://95.107.132.105/out/u/1018_2.m3u8
-#EXTINF:-1,FILM1 GOLD HD
-http://stream.bestvideostreaming.is/8730/index.m3u8
-#EXTINF:-1,FILM HITS
-http://stream.bestvideostreaming.is/8755/index.m3u8
-#EXTINF:-1,FILM AKSION
-http://stream.bestvideostreaming.is/8742/index.m3u8
-#EXTINF:-1,FILM THRILLER
-http://stream.bestvideostreaming.is/8757/index.m3u8
-#EXTINF:-1,FILM DRAME
-http://stream.bestvideostreaming.is/8727/index.m3u8
-#EXTINF:-1,FILM AUTOR
-http://stream.bestvideostreaming.is/8753/index.m3u8
-#EXTINF:-1,FILM KOMEDI
-http://stream.bestvideostreaming.is/8752/index.m3u8
-#EXTINF:-1,TRING COMEDY
-http://stream.bestvideostreaming.is/8767/index.m3u8
 #EXTINF:-1,TRING ORIGINAL HD
 http://95.107.132.105/out/u/1073_2.m3u8
 #EXTINF:-1,TRING FAMILY
