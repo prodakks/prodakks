@@ -112,8 +112,10 @@ http://95.107.132.105/out/u/212_1.m3u8
 http://95.107.132.105/out/u/695_2.m3u8
 #EXTINF:-1,EURO CHANNEL
 http://95.107.132.106/out/u/1120_2.m3u8
-#EXTINF:-1,SUPER SPORT 1 NEWS
+#EXTINF:-1,SUPER SPORT-NEWS
 http://eu-ams.bestvideostreaming.is/10030/index.m3u8
+#EXTINF:-1,TRING SPORT-NEWS
+http://stream.bestvideostreaming.is/8785/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
 http://stream.bestvideostreaming.is/8734/index.m3u8
 #EXTINF:-1,SUPER SPORT 3
@@ -122,8 +124,6 @@ http://stream.bestvideostreaming.is/8741/index.m3u8
 http://stream.bestvideostreaming.is/8743/index.m3u8
 #EXTINF:-1,SUPER SPORT 5
 http://stream.bestvideostreaming.is/8736/index.m3u8
-#EXTINF:-1,TRING SPORT NEWS
-http://stream.bestvideostreaming.is/8785/index.m3u8
 #EXTINF:-1,TRING SPORT 1
 http://stream.bestvideostreaming.is/8796/index.m3u8
 #EXTINF:-1,TRING SPORT 2
@@ -157,7 +157,7 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 #EXTINF:-1,SPORT PLUS 3
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,OVER SPORT 1 HD
-http://eu-ams.bestvideostreaming.is/8798/index.m3u8
-#EXTINF:-1,OVER SPORT 2 HD
 http://eu-ams.bestvideostreaming.is/8799/index.m3u8
-SHIKIM TË KËNDSHËM !
+#EXTINF:-1,OVER SPORT 2 HD
+http://eu-ams.bestvideostreaming.is/8798/index.m3u8
+
