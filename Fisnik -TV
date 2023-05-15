@@ -18,6 +18,10 @@ http://stream.bestvideostreaming.is/8753/index.m3u8
 http://stream.bestvideostreaming.is/8752/index.m3u8
 #EXTINF:-1,TRING COMEDY
 http://stream.bestvideostreaming.is/8767/index.m3u8
+#EXTINF:-1,TRING SUPER
+http://stream.bestvideostreaming.is/8770/index.m3u8
+#EXTINF:-1,TRING ACTION
+http://stream.bestvideostreaming.is/8769/index.m3u8
 #EXTINF:-1,TRING VIZION PLUS HD
 http://95.107.132.105/out/u/1044_2.m3u8
 #EXTINF:-1,TRING ACTION HD
@@ -160,4 +164,3 @@ http://stream.bestvideostreaming.is/7003/index.m3u8
 http://eu-ams.bestvideostreaming.is/8799/index.m3u8
 #EXTINF:-1,OVER SPORT 2 HD
 http://eu-ams.bestvideostreaming.is/8798/index.m3u8
-
