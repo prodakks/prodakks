@@ -6,8 +6,6 @@ https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 https://radio.1dhe1.com:2020/stream/radiostar
 #EXTINF:0,RADIO MERGIMI | FRA
 http://144.76.33.185:8000/
-#EXTINF:0,RADIO DUKAGJINI | RKS
-http://s6.voscast.com:8824/
 #EXTINF:0,RADIO EMIGRANTI | FRA
 http://www.radioemigranti.com:8000/radioauto48
 #EXTINF:0,RADIO KOSOVA | RKS
@@ -50,6 +48,8 @@ http://37.26.69.30:8080/
 https://radio.albanialoveradio.al/stream
 #EXTINF:-1 , Top Gold Radio
 http://listen.radionomy.com/gold-star-radio
+#EXTINF:0,RADIO DUKAGJINI | RKS
+http://s6.voscast.com:8824/
 #EXTINF:-1 , Radio liria
 http://46.4.104.253:9998/
 #EXTINF:-1 , Radio Kontakt
