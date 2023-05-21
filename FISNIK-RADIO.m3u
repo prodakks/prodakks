@@ -1,29 +1,27 @@
 #EXTINF:0,RADIO VICIANA | DEU
 http://radioviciana.org:8030
+#EXTINF:0,Naxi Radio
+https://naxi128.streaming.rs:9152
 #EXTINF:0,RADIO Tetova
 https://centova47.instainternet.com/proxy/radioalb?mp=/stream
-#EXTINF:0,RADIO STAR
-https://radio.1dhe1.com:2020/stream/radiostar
 #EXTINF:0,RADIO MERGIMI | FRA
 http://144.76.33.185:8000/
 #EXTINF:0,RADIO EMIGRANTI | FRA
 http://www.radioemigranti.com:8000/radioauto48
-#EXTINF:0,RADIO KOSOVA | RKS
-http://82.114.72.2:8088/
-#EXTINF:0,RADIO KOSOVA E LIRË
-http://quasar.shoutca.st:8018/
 #EXTINF:0,RADIO LLAPI | RKS
 http://radio.1dhe1.com:8555/
 #EXTINF:0,RADIO NRG | ALB
 http://ice31.securenetsystems.net:80/AL09
-#EXTINF:0,Naxi Radio
-https://naxi128.streaming.rs:9152
 #EXTINF:-1 , Radio Hasi Thate
 http://listen.lspublic.com:8000/
 #EXTINF:-1 , Radio Eja
 http://perseus.shoutca.st:9504/stream
-#EXTINF:-1 , Club FM 100.4
-https://cp1.sednastream.com/proxy/clubfm?mp=/stream
+#EXTINF:0,RADIO STAR
+https://radio.1dhe1.com:2020/stream/radiostar
+#EXTINF:0,RADIO KOSOVA E LIRË
+http://quasar.shoutca.st:8018/
+#EXTINF:0,RADIO KOSOVA | RKS
+http://82.114.72.2:8088/
 #EXTINF:-1 , Radio Loqka
 https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 #EXTINF:-1 , Radio Burimi
@@ -60,10 +58,10 @@ http://radiovip.servemp3.com:8000/
 https://cp1.sednastream.com/proxy/cityradio
 #EXTINF:-1 , Radio Zeri I Arberit
 https://s11.ssl-stream.com/ssl/radiozer
-#EXTINF:-1 , Radio Portal FM
-http://live.lspublic.com:27022/stream.mp3
 #EXTINF:-1 , Studio Rejan
 http://streaming.jusahost.com:9988/stream.mp3
+#EXTINF:-1 , Club FM 100.4
+https://cp1.sednastream.com/proxy/clubfm?mp=/stream
 #EXTINF:-1 , Radio Lushnja
 https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3
 #EXTINF:-1 , Play Radio Albania
@@ -74,11 +72,13 @@ http://79.106.48.2:8000/radiotirana3
 http://shqiponjat.al:8000/
 #EXTINF:-1 , Radio Tirana Klasik
 http://79.106.48.2:8000/radiotiranaklasik1
-#EXTINF:-1 , Online Quraan Radio
-http://quraan.us:9996/
+#EXTINF:-1 , Radio Portal FM
+http://live.lspublic.com:27022/stream.mp3
 #EXTINF:-1 , Radio Divjaka
 https://node-18.zeno.fm/brc5btguqg8uv
 #EXTINF:-1 , Chill Radio
 https://eu8.fastcast4u.com/proxy/chillradio?mp=/1
+#EXTINF:-1 , Online Quraan Radio
+http://quraan.us:9996/
 #EXTINF:-1 , Radio Elkalem
 http://66.45.232.131:9994/*.mp3
