@@ -2,8 +2,6 @@
 http://radioviciana.org:8030
 #EXTINF:0,Naxi Radio
 https://naxi128.streaming.rs:9152
-#EXTINF:0,Rock Fans Kosova
-https://stream.zeno.fm/ybwz7k5gzchvv
 #EXTINF:0,RADIO Tetova
 https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 #EXTINF:0,RADIO MERGIMI | FRA
@@ -76,10 +74,10 @@ http://shqiponjat.al:8000/
 http://79.106.48.2:8000/radiotiranaklasik1
 #EXTINF:-1 , Radio Portal FM
 http://live.lspublic.com:27022/stream.mp3
+#EXTINF:0,Rock Fans Kosova
+https://stream.zeno.fm/ybwz7k5gzchvv
 #EXTINF:-1 , Radio Divjaka
 https://node-18.zeno.fm/brc5btguqg8uv
-#EXTINF:-1 , Chill Radio
-https://eu8.fastcast4u.com/proxy/chillradio?mp=/1
 #EXTINF:-1 , Online Quraan Radio
 http://quraan.us:9996/
 #EXTINF:-1 , Radio Elkalem
