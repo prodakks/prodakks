@@ -1,5 +1,7 @@
 #EXTINF:-1,TOP CHANNEL
 http://stream.bestvideostreaming.is/8708/index.m3u8
+#EXTINF:1, Channel 1
+http://185.82.108.21:4646/live/ab2/ba2/1.ts
 #EXTINF:-1,KLAN HD
 http://79.106.90.124:5151/live/klanhdott/playlist.m3u8
 #EXTINF:-1,FILM1 GOLD HD
@@ -120,6 +122,30 @@ http://stream.bestvideostreaming.is/8797/index.m3u8
 http://stream.bestvideostreaming.is/8798/index.m3u8
 #EXTINF:-1,TRING SPORT 4
 http://stream.bestvideostreaming.is/8799/index.m3u8
+#EXTINF:-1,EuroSport 1 eng
+http://stream.bestvideostreaming.is/7001/index.m3u8
+#EXTINF:-1,EuroSport 2 eng
+http://stream.bestvideostreaming.is/7002/index.m3u8
+#EXTINF:70, Super Sport 2
+http://185.82.108.21:4646/live/ab2/ba2/70.ts
+#EXTINF:71, Super Sport 3
+http://185.82.108.21:4646/live/ab2/ba2/71.ts
+#EXTINF:72, Super Sport 4
+http://185.82.108.21:4646/live/ab2/ba2/72.ts
+#EXTINF:74, Tring Sport 1
+http://185.82.108.21:4646/live/ab2/ba2/74.ts
+#EXTINF:75, Tring Sport 2
+http://185.82.108.21:4646/live/ab2/ba2/75.ts
+#EXTINF:76, SPORT 3
+http://185.82.108.21:4646/live/ab2/ba2/76.ts
+#EXTINF:77, SPORT 1
+http://185.82.108.21:4646/live/ab2/ba2/77.ts
+#EXTINF:90, SPORT KLUB 1
+http://185.82.108.21:4646/live/ab2/ba2/90.ts
+#EXTINF:91, SPORT KLUB 2
+http://185.82.108.21:4646/live/ab2/ba2/91.ts
+#EXTINF:92, SPORT KLUB 3
+http://185.82.108.21:4646/live/ab2/ba2/92.ts
 #EXTINF:-1,Arena 1 Bih
 http://94.250.2.6:7374/play/a02m/index.m3u8
 #EXTINF:-1,Arena 2 Bih
@@ -128,10 +154,10 @@ http://94.250.2.6:7374/play/a02n/index.m3u8
 http://94.250.2.6:7374/play/a02o/index.m3u8
 #EXTINF:-1,Arena 4 Bih
 http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:-1,EuroSport 1 eng
-http://stream.bestvideostreaming.is/7001/index.m3u8
-#EXTINF:-1,EuroSport 2 eng
-http://stream.bestvideostreaming.is/7002/index.m3u8
+#EXTINF:93, Arena Sport
+http://185.82.108.21:4646/live/ab2/ba2/93.ts
+#EXTINF:94, LA liga Santander
+http://185.82.108.21:4646/live/ab2/ba2/94.ts
 #EXTINF:-1,RTSH SPORT
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,K SPORT 1-ELEVEN 1
