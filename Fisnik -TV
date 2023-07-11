@@ -24,50 +24,8 @@ http://stream.bestvideostreaming.is/8767/index.m3u8
 http://stream.bestvideostreaming.is/8770/index.m3u8
 #EXTINF:-1,TRING ACTION
 http://stream.bestvideostreaming.is/8769/index.m3u8
-#EXTINF:-1,TRING VIZION PLUS HD
-http://95.107.132.105/out/u/1044_2.m3u8
-#EXTINF:-1,TRING ACTION HD
-http://95.107.132.105/out/u/1070_2.m3u8
-#EXTINF:-1,TRING CLASSIC HD
-http://95.107.132.106/out/u/1114_2.m3u8
-#EXTINF:-1,TRING SUPER HD
-http://95.107.132.105/out/u/1069_2.m3u8
-#EXTINF:-1,TRING SERIES HD
-http://95.107.132.105/out/u/996_2.m3u8
-#EXTINF:-1,TRING LIFE HD
-http://95.107.132.105/out/u/1072_3.m3u8
-#EXTINF:-1,TRING 3PLUS HD
-http://95.107.132.105/out/u/980_2.m3u8
-#EXTINF:-1,TRING COLLECTION HD
-http://95.107.132.105/out/u/907_2.m3u8
-#EXTINF:-1,TRING DRAMA HD
-http://95.107.132.105/out/u/1018_2.m3u8
-#EXTINF:-1,TRING ORIGINAL HD
-http://95.107.132.105/out/u/1073_2.m3u8
-#EXTINF:-1,TRING FAMILY
-http://95.107.132.105/out/u/1012_2.m3u8
-#EXTINF:-1,TRING SHQIP
-http://95.107.132.105/out/u/1013_3.m3u8
-#EXTINF:-1,TRING PLANET
-http://95.107.132.105/out/u/1000_2.m3u8
-#EXTINF:-1,TRING WORLD
-http://95.107.132.105/out/u/1076_2.m3u8
-#EXTINF:-1,TRING FANTASY
-http://95.107.132.105/out/u/1002_2.m3u8
-#EXTINF:-1,TRING HISTORY
-http://95.107.132.105/out/u/1075_3.m3u8
-#EXTINF:-1,TRING KOMEDY
-http://95.107.132.105/out/u/1071_2.m3u8
-#EXTINF:-1,TRING MUSE
-http://95.107.132.105/out/u/993_2.m3u8
-#EXTINF:-1,TRING LIVING
-http://95.107.132.105/out/u/990_2.m3u8
-#EXTINF:-1,TRING TRAVEL
-http://95.107.132.105/out/u/1019_1.m3u8
 #EXTINF:-1,TRING FANTASY
 http://stream.bestvideostreaming.is/8766/index.m3u8
-#EXTINF:-1,TRING SUPER
-http://stream.bestvideostreaming.is/8770/index.m3u8
 #EXTINF:-1,TRING MAX
 http://stream.bestvideostreaming.is/8769/index.m3u8
 #EXTINF:-1,TRING LIFE
