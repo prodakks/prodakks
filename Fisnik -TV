@@ -90,6 +90,14 @@ http://185.82.108.21:4646/live/ab2/ba2/70.ts
 http://185.82.108.21:4646/live/ab2/ba2/71.ts
 #EXTINF:72, Super Sport 4
 http://185.82.108.21:4646/live/ab2/ba2/72.ts
+#EXTINF:-1, Oversport 1
+http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Oversport 2
+http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Oversport 3
+http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Oversport 4
+http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8
 #EXTINF:74, Tring Sport 1
 http://185.82.108.21:4646/live/ab2/ba2/74.ts
 #EXTINF:75, Tring Sport 2
