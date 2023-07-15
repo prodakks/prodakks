@@ -2,8 +2,6 @@
 http://radioviciana.org:8030
 #EXTINF:0,Naxi Radio
 https://naxi128.streaming.rs:9152
-#EXTINF:0,RADIO Tetova
-https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 #EXTINF:0,RADIO MERGIMI | FRA
 http://144.76.33.185:8000/
 #EXTINF:0,RADIO EMIGRANTI | FRA
@@ -58,6 +56,8 @@ http://radiovip.servemp3.com:8000/
 https://cp1.sednastream.com/proxy/cityradio
 #EXTINF:-1 , Radio Zeri I Arberit
 https://s11.ssl-stream.com/ssl/radiozer
+#EXTINF:0,RADIO Tetova
+https://centova47.instainternet.com/proxy/radioalb?mp=/stream
 #EXTINF:-1 , Studio Rejan
 http://streaming.jusahost.com:9988/stream.mp3
 #EXTINF:-1 , Club FM 100.4
