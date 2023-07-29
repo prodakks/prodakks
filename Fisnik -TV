@@ -1,4 +1,157 @@
-
+#EXTM3U
+#EXTINF:1, RTK 1
+http://185.82.108.21:4646/live/ab2/ba2/1.ts
+#EXTINF:2, Channel 2
+http://185.82.108.21:4646/live/ab2/ba2/2.ts
+#EXTINF:3, RTK 3
+http://185.82.108.21:4646/live/ab2/ba2/3.ts
+#EXTINF:4, KTV
+http://185.82.108.21:4646/live/ab2/ba2/4.ts
+#EXTINF:5, RTK 4
+http://185.82.108.21:4646/live/ab2/ba2/5.ts
+#EXTINF:6, KLAN HD
+http://185.82.108.21:4646/live/ab2/ba2/6.ts
+#EXTINF:8, KLAN KOSOVA
+http://185.82.108.21:4646/live/ab2/ba2/8.ts
+#EXTINF:131, TOP CHANNEL
+http://185.82.108.21:4646/live/ab2/ba2/131.ts
+#EXTINF:9, TOP NEWS
+http://185.82.108.21:4646/live/ab2/ba2/9.ts
+#EXTINF:10, Channel 10
+http://185.82.108.21:4646/live/ab2/ba2/10.ts
+#EXTINF:12, SYRI TV
+http://185.82.108.21:4646/live/ab2/ba2/12.ts
+#EXTINF:14, FIRST CHANNEL
+http://185.82.108.21:4646/live/ab2/ba2/14.ts
+#EXTINF:15, ALSAT
+http://185.82.108.21:4646/live/ab2/ba2/15.ts
+#EXTINF:16, RTSH satelit
+http://185.82.108.21:4646/live/ab2/ba2/16.ts
+#EXTINF:17, VIZION
+http://185.82.108.21:4646/live/ab2/ba2/17.ts
+#EXTINF:20, ARTA
+http://185.82.108.21:4646/live/ab2/ba2/20.ts
+#EXTINF:21, FoX NEWS
+http://185.82.108.21:4646/live/ab2/ba2/21.ts
+#EXTINF:22,Dukagjini
+http://185.82.108.21:4646/live/ab2/ba2/22.ts
+#EXTINF:23, Syri
+http://185.82.108.21:4646/live/ab2/ba2/23.ts
+#EXTINF:24, 21 PLUS
+http://185.82.108.21:4646/live/ab2/ba2/24.ts
+#EXTINF:25, 21 TV
+http://185.82.108.21:4646/live/ab2/ba2/25.ts
+#EXTINF:26, A MOL
+http://185.82.108.21:4646/live/ab2/ba2/26.ts
+#EXTINF:27, BBF Muzic
+http://185.82.108.21:4646/live/ab2/ba2/27.ts
+#EXTINF:29, 21 Popullore
+http://185.82.108.21:4646/live/ab2/ba2/29.ts
+#EXTINF:30, FOLK PLUS
+http://185.82.108.21:4646/live/ab2/ba2/30.ts
+#EXTINF:32, TURBO
+http://185.82.108.21:4646/live/ab2/ba2/32.ts
+#EXTINF:34, CLUB
+http://185.82.108.21:4646/live/ab2/ba2/34.ts
+#EXTINF:35, ABC
+http://185.82.108.21:4646/live/ab2/ba2/35.ts
+#EXTINF:36, 21 MIX
+http://185.82.108.21:4646/live/ab2/ba2/36.ts
+#EXTINF:37, ELRODI
+http://185.82.108.21:4646/live/ab2/ba2/37.ts
+#EXTINF:38, TRING T
+http://185.82.108.21:4646/live/ab2/ba2/38.ts
+#EXTINF:39, TRING SERIES
+http://185.82.108.21:4646/live/ab2/ba2/39.ts
+#EXTINF:40, TRING HITS
+http://185.82.108.21:4646/live/ab2/ba2/40.ts
+#EXTINF:42, TRING THRILLER
+http://185.82.108.21:4646/live/ab2/ba2/42.ts
+#EXTINF:43, TRING DRAME
+http://185.82.108.21:4646/live/ab2/ba2/43.ts
+#EXTINF:44, TRING AUTOR
+http://185.82.108.21:4646/live/ab2/ba2/44.ts
+#EXTINF:45, TRING GOLD
+http://185.82.108.21:4646/live/ab2/ba2/45.ts
+#EXTINF:48, TRING SHQIP
+http://185.82.108.21:4646/live/ab2/ba2/48.ts
+#EXTINF:49, TRING COMEDY
+http://185.82.108.21:4646/live/ab2/ba2/49.ts
+#EXTINF:50, TRING FANTASY
+http://185.82.108.21:4646/live/ab2/ba2/50.ts
+#EXTINF:51, TRING ACTION
+http://185.82.108.21:4646/live/ab2/ba2/51.ts
+#EXTINF:52, TRING SUPER
+http://185.82.108.21:4646/live/ab2/ba2/52.ts
+#EXTINF:53, TRING LIFE
+http://185.82.108.21:4646/live/ab2/ba2/53.ts
+#EXTINF:54, Channel 54
+http://185.82.108.21:4646/live/ab2/ba2/54.ts
+#EXTINF:55, FOX
+http://185.82.108.21:4646/live/ab2/ba2/55.ts
+#EXTINF:56, FOX LIFE
+http://185.82.108.21:4646/live/ab2/ba2/56.ts
+#EXTINF:57, FOX CRIME
+http://185.82.108.21:4646/live/ab2/ba2/57.ts
+#EXTINF:58, CUFO
+http://185.82.108.21:4646/live/ab2/ba2/58.ts
+#EXTINF:59, 21 JUNIOR
+http://185.82.108.21:4646/live/ab2/ba2/59.ts
+#EXTINF:60, BANG BANG
+http://185.82.108.21:4646/live/ab2/ba2/60.ts
+#EXTINF:61, KIDS
+http://185.82.108.21:4646/live/ab2/ba2/61.ts
+#EXTINF:62, CARTON NETWORK
+http://185.82.108.21:4646/live/ab2/ba2/62.ts
+#EXTINF:63, EXP NATYRA
+http://185.82.108.21:4646/live/ab2/ba2/63.ts
+#EXTINF:64, TRING WORLD
+http://185.82.108.21:4646/live/ab2/ba2/64.ts
+#EXTINF:65, TRING HISTORY
+http://185.82.108.21:4646/live/ab2/ba2/65.ts
+#EXTINF:66, TRING PLANET
+http://185.82.108.21:4646/live/ab2/ba2/66.ts
+#EXTINF:67, TRAVEL
+http://185.82.108.21:4646/live/ab2/ba2/67.ts
+#EXTINF:68, NATIONAL GEOGRAFIC eng
+http://185.82.108.21:4646/live/ab2/ba2/68.ts
+#EXTINF:69, SPORT NEWS
+http://185.82.108.21:4646/live/ab2/ba2/69.ts
+#EXTINF:70, SUPER SPORT 2
+http://185.82.108.21:4646/live/ab2/ba2/70.ts
+#EXTINF:71, SUPER SPORT 3
+http://185.82.108.21:4646/live/ab2/ba2/71.ts
+#EXTINF:72, SUPER SPORT 4
+http://185.82.108.21:4646/live/ab2/ba2/72.ts
+#EXTINF:73, TRING SPORT NEWS
+http://185.82.108.21:4646/live/ab2/ba2/73.ts
+#EXTINF:74, TRING SPORT 1
+http://185.82.108.21:4646/live/ab2/ba2/74.ts
+#EXTINF:75, TRING SPORT 2
+http://185.82.108.21:4646/live/ab2/ba2/75.ts
+#EXTINF:76, SPORT 3
+http://185.82.108.21:4646/live/ab2/ba2/76.ts
+#EXTINF:77, SPORT 1
+http://185.82.108.21:4646/live/ab2/ba2/77.ts
+#EXTINF:79, EUROSPORT 1
+http://185.82.108.21:4646/live/ab2/ba2/79.ts
+#EXTINF:86, TIP TV
+http://185.82.108.21:4646/live/ab2/ba2/86.ts
+#EXTINF:87, RTL
+http://185.82.108.21:4646/live/ab2/ba2/87.ts
+#EXTINF:89, SPORT KLUB 1
+http://185.82.108.21:4646/live/ab2/ba2/89.ts
+#EXTINF:90, SPORT KLUB 2
+http://185.82.108.21:4646/live/ab2/ba2/90.ts
+#EXTINF:91, Channel 91
+http://185.82.108.21:4646/live/ab2/ba2/91.ts
+#EXTINF:92, Channel 92
+http://185.82.108.21:4646/live/ab2/ba2/92.ts
+#EXTINF:93, ARENA SPORT
+http://185.82.108.21:4646/live/ab2/ba2/93.ts
+#EXTINF:94, ARENA SPORT 3
+http://185.82.108.21:4646/live/ab2/ba2/94.ts
+#EXTINF:117, T7
 
 #EXTINF:-1,EuroSport 1 eng
 http://185.82.108.21:4646/live/ab2/ba2/79.ts
