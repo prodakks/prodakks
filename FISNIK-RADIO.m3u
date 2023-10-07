@@ -1,7 +1,11 @@
 #EXTINF:-1 , Love Radio 90.7 FM
 https://radio.albanialoveradio.al/stream
+#EXTINF:-1 , Top Albania Radio
+https://live.top-media.al/tar
 #EXTINF:0,RADIO VICIANA | DEU
 http://radioviciana.org:8030
+#EXTINF:-1 , Radio Gjakova
+http://37.26.69.30:8080/
 #EXTINF:0,Naxi Radio
 https://naxi128.streaming.rs:9152
 #EXTINF:0,RADIO MERGIMI | FRA
@@ -38,10 +42,6 @@ https://s11.ssl-stream.com/ssl/marimanga?mp=/stream
 http://64.150.176.42:8178/stream
 #EXTINF:-1 , Radio Shqip
 https://cp1.sednastream.com/proxy/radioshqip?mp=/stream
-#EXTINF:-1 , Top Albania Radio
-https://live.top-media.al/tar
-#EXTINF:-1 , Radio Gjakova
-http://37.26.69.30:8080/
 #EXTINF:-1 , Top Gold Radio
 http://listen.radionomy.com/gold-star-radio
 #EXTINF:0,RADIO DUKAGJINI | RKS
