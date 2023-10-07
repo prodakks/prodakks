@@ -6,6 +6,8 @@ https://live.top-media.al/tar
 http://radioviciana.org:8030
 #EXTINF:-1 , Radio Gjakova
 http://37.26.69.30:8080/
+#EXTINF:-1 , Radio Tirana 3
+http://79.106.48.2:8000/radiotirana3
 #EXTINF:0,Naxi Radio
 https://naxi128.streaming.rs:9152
 #EXTINF:0,RADIO MERGIMI | FRA
@@ -66,8 +68,6 @@ https://cp1.sednastream.com/proxy/clubfm?mp=/stream
 https://stream.radiolushnja.al/listen/radio_lushnja/radio.mp3
 #EXTINF:-1 , Play Radio Albania
 http://n01.radiojar.com/sx7zrht0pg0uv
-#EXTINF:-1 , Radio Tirana 3
-http://79.106.48.2:8000/radiotirana3
 #EXTINF:-1 , Shqiponjat Network
 http://shqiponjat.al:8000/
 #EXTINF:-1 , Radio Tirana Klasik
