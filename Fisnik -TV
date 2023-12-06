@@ -239,38 +239,10 @@ http://185.82.108.21:4646/live/ab2/ba2/70.ts
 http://185.82.108.21:4646/live/ab2/ba2/71.ts
 #EXTINF:72, Super Sport 4
 http://185.82.108.21:4646/live/ab2/ba2/72.ts
-#EXTINF:-1, Oversport 1
-http://212.224.84.202:2200/ALB-EX/OverSport1_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Oversport 2
-http://212.224.84.202:2200/ALB-EX/OverSport2_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Oversport 3
-http://212.224.84.202:2200/ALB-EX/OverSport3_HD_AL-alb/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Oversport 4
-http://212.224.84.202:2200/ALB-EX/OverSport4_HD_AL-alb/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Tring Sport 1
 http://185.82.108.21:4646/live/ab2/ba2/74.ts
 #EXTINF:-1, Tring Sport 2
 http://185.82.108.21:4646/live/ab2/ba2/75.ts
-#EXTINF:-1, SPORT 3
-http://185.82.108.21:4646/live/ab2/ba2/76.ts
-#EXTINF:-1, SPORT 1
-http://185.82.108.21:4646/live/ab2/ba2/77.ts
-#EXTINF:-1, SPORT KLUB 1
-http://185.82.108.21:4646/live/ab2/ba2/90.ts
-#EXTINF:91, SPORT KLUB 2
-http://185.82.108.21:4646/live/ab2/ba2/91.ts
-#EXTINF:-1, SPORT KLUB 3
-http://185.82.108.21:4646/live/ab2/ba2/92.ts
-#EXTINF:-1,Arena 2 Bih
-http://94.250.2.6:7374/play/a02n/index.m3u8
-#EXTINF:-1,Arena 3 Bih
-http://94.250.2.6:7374/play/a02o/index.m3u8
-#EXTINF:-1,Arena 4 Bih
-http://94.250.2.6:7374/play/a012/index.m3u8
-#EXTINF:-1, Arena Sport
-http://185.82.108.21:4646/live/ab2/ba2/93.ts
-#EXTINF:-1, Arena Sport 3
-http://185.82.108.21:4646/live/ab2/ba2/94.ts
 #EXTINF:-1,RTSH SPORT
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,K SPORT 1-ELEVEN 1
@@ -307,17 +279,3 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT PLUS
 http://stream.bestvideostreaming.is/7004/index.m3u8
-#EXTINF:-1,SportKlubHD
-http://czngsr.com:6021/SportKlubHD*NewD
-#EXTINF:-1,SportKlub1HD
-http://czngsr.com:6154/SportKlub1HD**NewD
-#EXTINF:-1,SportKlub2HD
-http://czngsr.com:6143/SportKlub2HD*NewD
-#EXTINF:-1,SportKlub3HD
-http://czngsr.com:6071/SportKlub3HD*NewD
-#EXTINF:-1,NovaSport
-http://czngsr.com:7998/NovaSport*NewD
-#EXTINF:-1,SportKlub4
-http://czngsr.com:6548/SportKlub4*NewD
-#EXTINF:-1,SportKlub5
-http://czngsr.com:6039/SportKlub5*NewD
