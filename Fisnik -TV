@@ -246,3 +246,5 @@ http://stream.bestvideostreaming.is/8904/index.m3u8
 http://stream.bestvideostreaming.is/8849/index.m3u8
 #EXTINF:-1,ATV
 http://stream.bestvideostreaming.is/8709/index.m3u8
+#EXTINF:-1,MCN 24
+http://stream.bestvideostreaming.is/8873/index.m3u8
