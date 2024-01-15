@@ -71,8 +71,7 @@ http://stream.bestvideostreaming.is/9202/index.m3u8
 http://stream.bestvideostreaming.is/9205/index.m3u8
 #EXTINF:-1,TEVE NOVELA
 http://stream.bestvideostreaming.is/9301/index.m3u8
-http://stream.bestvideostreaming.is/9302/index.m3u8
-#EXTINF:-1,ISP Aksion
+h#EXTINF:-1,ISP Aksion
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmovie1/playlist.m3u8
 #EXTINF:-1,ISP Hits
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcgodfather/playlist.m3u8
@@ -118,7 +117,6 @@ http://stream.bestvideostreaming.is/8726/index.m3u8
 http://stream.bestvideostreaming.is/8729/index.m3u8
 #EXTINF:-1,TEVE DOKU 1
 http://stream.bestvideostreaming.is/9301/index.m3u8
-#EXTINF:-1,TEVE DOKU 2
 #EXTINF:-1,TRING PLANET
 http://stream.bestvideostreaming.is/8764/index.m3u8
 #EXTINF:-1,TRING WORLD
