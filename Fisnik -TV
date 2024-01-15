@@ -3,9 +3,9 @@
 http://stream.bestvideostreaming.is/8842/index.m3u8
 #EXTINF:-1,BIG BROTHER ALB 2
 http://stream.bestvideostreaming.is/8843/index.m3u8
-#EXTINF:-1,TOP CHANNEL
+#EXTINF:-1,TOP CHANNEL 1
 http://stream.bestvideostreaming.is/8708/index.m3u8
-#EXTINF:-1,Top Channel
+#EXTINF:-1,Top Channel 2
 http://109.236.44.157:2121/topchannel
 #EXTINF:-1,BIG BROTHER KS 1
 http://stream.bestvideostreaming.is/8840/index.m3u8
@@ -138,59 +138,11 @@ http://stream.bestvideostreaming.is/8745/index.m3u8
 http://stream.bestvideostreaming.is/8707/index.m3u8
 #EXTINF:-1,ORA NEWS
 http://stream.bestvideostreaming.is/8715/index.m3u8
-#EXTINF:69, SPORT NEWS
-http://185.82.108.21:4646/live/ab2/ba2/69.ts
-#EXTINF:70, SUPER SPORT 2
-http://185.82.108.21:4646/live/ab2/ba2/70.ts
-#EXTINF:71, SUPER SPORT 3
-http://185.82.108.21:4646/live/ab2/ba2/71.ts
-#EXTINF:72, SUPER SPORT 4
-http://185.82.108.21:4646/live/ab2/ba2/72.ts
-#EXTINF:73, TRING SPORT NEWS
-http://185.82.108.21:4646/live/ab2/ba2/73.ts
-#EXTINF:74, TRING SPORT 1
-http://185.82.108.21:4646/live/ab2/ba2/74.ts
-#EXTINF:75, TRING SPORT 2
-http://185.82.108.21:4646/live/ab2/ba2/75.ts
-#EXTINF:76, SPORT 3
-http://185.82.108.21:4646/live/ab2/ba2/76.ts
-#EXTINF:77, SPORT 1
-http://185.82.108.21:4646/live/ab2/ba2/77.ts
-#EXTINF:79, EUROSPORT 1
-http://185.82.108.21:4646/live/ab2/ba2/79.ts
-#EXTINF:86, TIP TV
-http://185.82.108.21:4646/live/ab2/ba2/86.ts
-#EXTINF:87, RTL
-http://185.82.108.21:4646/live/ab2/ba2/87.ts
-#EXTINF:89, SPORT KLUB 1
-http://185.82.108.21:4646/live/ab2/ba2/89.ts
-#EXTINF:90, SPORT KLUB 2
-http://185.82.108.21:4646/live/ab2/ba2/90.ts
-#EXTINF:91, Channel 91
-http://185.82.108.21:4646/live/ab2/ba2/91.ts
-#EXTINF:92, Channel 92
-http://185.82.108.21:4646/live/ab2/ba2/92.ts
-#EXTINF:93, ARENA SPORT
-http://185.82.108.21:4646/live/ab2/ba2/93.ts
-#EXTINF:94, ARENA SPORT 3
-http://185.82.108.21:4646/live/ab2/ba2/94.ts
-#EXTINF:-1,EuroSport 1 eng
-http://185.82.108.21:4646/live/ab2/ba2/79.ts
-#EXTINF:-1,OVER SPORT 3
+#EXTINF:-1,Balkan Sport
 http://stream.bestvideostreaming.is/7001/index.m3u8
-#EXTINF:-1,SKY SPORT Australia 1
+#EXTINF:-1,Balkan Sport NFL
 http://stream.bestvideostreaming.is/7002/index.m3u8
-#EXTINF:-1, Super Sport 2
-http://185.82.108.21:4646/live/ab2/ba2/70.ts
-#EXTINF:-1, Super Sport 3
-http://185.82.108.21:4646/live/ab2/ba2/71.ts
-#EXTINF:72, Super Sport 4
-http://185.82.108.21:4646/live/ab2/ba2/72.ts
-#EXTINF:-1, Tring Sport 1
-http://185.82.108.21:4646/live/ab2/ba2/74.ts
-#EXTINF:-1, Tring Sport 2
-http://185.82.108.21:4646/live/ab2/ba2/75.ts
-#EXTINF:-1,RTSH SPORT
+#EXTINF:-1,MCX SPORT
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,K SPORT 1-ELEVEN 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
