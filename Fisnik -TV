@@ -137,21 +137,6 @@ http://stream.bestvideostreaming.is/8778/index.m3u8
 http://stream.bestvideostreaming.is/8772/index.m3u8
 #EXTINF:-1,TRING TRING
 http://stream.bestvideostreaming.is/8775/index.m3u8
-#EXTINF:-1,RTV21 POPULLORE
-http://stream.bestvideostreaming.is/8749/index.m3u8
-http://stream.bestvideostreaming.is/8853/index.m3u8
-#EXTINF:-0,RTK 3
-http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-0,RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
-#EXTINF:-1,ABC NEWS
-http://stream.bestvideostreaming.is/10023/index.m3u8
-#EXTINF:-1,ARTA NEWS
-http://stream.bestvideostreaming.is/8745/index.m3u8
-#EXTINF:-1,A1 REPORT
-http://stream.bestvideostreaming.is/8707/index.m3u8
-#EXTINF:-1,ORA NEWS
-http://stream.bestvideostreaming.is/8715/index.m3u8
 #EXTINF:-1,Balkan Sport
 http://stream.bestvideostreaming.is/7001/index.m3u8
 #EXTINF:-1,Balkan Sport NFL
@@ -192,6 +177,20 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT PLUS
 http://stream.bestvideostreaming.is/7004/index.m3u8
+#EXTINF:-1,RTV21 POPULLORE
+http://stream.bestvideostreaming.is/8749/index.m3u8
+#EXTINF:-0,RTK 3
+http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
+#EXTINF:-0,RTK 4
+http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
+#EXTINF:-1,ABC NEWS
+http://stream.bestvideostreaming.is/10023/index.m3u8
+#EXTINF:-1,ARTA NEWS
+http://stream.bestvideostreaming.is/8745/index.m3u8
+#EXTINF:-1,A1 REPORT
+http://stream.bestvideostreaming.is/8707/index.m3u8
+#EXTINF:-1,ORA NEWS
+http://stream.bestvideostreaming.is/8715/index.m3u8
 #EXTINF:-1,ALSAT M
 http://stream.bestvideostreaming.is/8713/index.m3u8
 #EXTINF:-1,RTV21 PLUS
