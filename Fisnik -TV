@@ -51,16 +51,6 @@ http://stream.bestvideostreaming.is/8768/index.m3u8
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/comedy/playlist.m3u8
 #EXTINF:-1,Tibo Thriller
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/thriller/playlist.m3u8
-#EXTINF:-1,Tibo Action
-http://185.89.156.111:8000/play/a01q
-#EXTINF:-1,Tibo Drama
-http://185.89.156.111:8000/play/a01w
-#EXTINF:-1,Tibo Prime 1 HD
-http://185.89.156.111:8000/play/a01s
-#EXTINF:-1,Tibo Prime 2 HD
-http://185.89.156.111:8000/play/a01t
-#EXTINF:-1,Tibo Serial
-http://185.89.156.111:8000/play/a01u
 #EXTINF:-1,TEVE AKSION
 http://stream.bestvideostreaming.is/9200/index.m3u8
 #EXTINF:-1,TEVE KOMEDI
