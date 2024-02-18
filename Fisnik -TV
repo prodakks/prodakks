@@ -155,6 +155,16 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT PLUS 4
 http://stream.bestvideostreaming.is/7004/index.m3u8
+#EXTINF:-1,ARENA SPORT 1
+http://93.155.227.38/m3u8/arenasport1.m3u8
+#EXTINF:-1,ARENA SPORT 2
+http://93.155.227.38/m3u8/arenasport2.m3u8
+#EXTINF:-1,ARENA SPORT 3
+http://93.155.227.38/m3u8/arenasport3.m3u8
+#EXTINF:-1,ARENA SPORT 4
+http://93.155.227.38/m3u8/arenasport4.m3u8
+#EXTINF:-1,ARENA SPORT 5
+http://93.155.227.38/m3u8/arenasport5.m3u8
 #EXTINF:-1,K SPORT 1-ELEVEN 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
 #EXTINF:-1,K SPORT 2-Z SELECT
