@@ -37,3 +37,5 @@ http://stream.bestvideostreaming.is/10035/index.m3u8
 http://stream.bestvideostreaming.is/10036/index.m3u8
 #EXTINF:-1,MCX SPORT
 http://stream.bestvideostreaming.is/7003/index.m3u8
+#EXTINF:-1,Euro Sport 1 pol
+http://54.39.17.6/eurosport/playlist.m3u8
