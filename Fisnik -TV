@@ -9,7 +9,7 @@ http://stream.bestvideostreaming.is/8708/index.m3u8
 http://109.236.44.157:2121/topchannel
 #EXTINF:-1,RTK 1
 http://stream.bestvideostreaming.is/8702/index.m3u8
-#EXTINF:-1, KLAN
+#EXTINF:-1,KLAN
 http://stream.bestvideostreaming.is/8704/index.m3u8
 #EXTINF:-1,RTV 21
 http://stream.bestvideostreaming.is/8748/index.m3u8
