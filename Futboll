@@ -27,6 +27,67 @@ http://stream.bestvideostreaming.is/7004/index.m3u8
 http://stream.bestvideostreaming.is/7001/index.m3u8
 #EXTINF:-1,Balkan Sport 2
 http://stream.bestvideostreaming.is/7002/index.m3u8
+#EXTINF:-1,Arena Sport 1 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
+#EXTINF:-1,Arena Sport 5 HR
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/13827
+#EXTINF:-1,Arena Sport 4 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3185
+#EXTINF:-1,Arena Sport 5 HD RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3186
+#EXTINF:1,Arena 1 Premium BiH
+http://94.250.2.6:10600/play/gtIDEfibBy
+#EXTINF:1,Arena 2 Premium BiH
+http://94.250.2.6:10600/play/LjzYChqCJD
+#EXTINF:1,Arena 3 Premium Bih
+http://94.250.2.6:10600/play/0QhXJ9nCVj
+#EXTINF:1,Arena Sport 1 
+http://94.250.2.6:10600/play/sfwZs8fQbA
+#EXTINF:1,Arena Sport 2 
+http://94.250.2.6:10600/play/uOcKOWbtpc
+#EXTINF:1,Arena Sport 3 
+http://94.250.2.6:10600/play/Fj6334HwK3
+#EXTINF:1 ,Arena Sport 5 bih
+http://93.155.227.38:80/m3u8/arenasport5.m3u8
+#EXTINF:0, Arena Premium 1 HD BiH
+http://94.250.2.6:10600/play/gtIDEfibBy
+#EXTINF:0, Arena Premium 2 HD BiH
+http://94.250.2.6:10600/play/LjzYChqCJD
+#EXTINF:0, Arena Premium 3 HD BiH
+http://94.250.2.6:10600/play/0QhXJ9nCVj
+#EXTINF:0, Arena sport 1 HD BiH
+http://94.250.2.6:10600/play/sfwZs8fQbA
+#EXTINF:0, Arena sport 2 HD BiH
+http://94.250.2.6:10600/play/uOcKOWbtpc
+#EXTINF:0, Arena sport 3 HD BiH
+http://94.250.2.6:10600/play/Fj6334HwK3
+#EXTINF:0, Arena Sport 4 HD BiH
+http://94.250.2.6:10600/play/m4NCbyvPl9
+#EXTINF:0, Arena Sport 5 HD BiH
+http://94.250.2.6:10600/play/wCbmzRH3H1
+#EXTINF:0, Arena Sport 6 HD BiH
+http://94.250.2.6:10600/play/Vj2ZxGEwct
+#EXTINF:0, Premier League FHD
+http://94.250.2.6:10600/play/fS1axmthw5
+#EXTINF:0, Arena 1x2 HD
+http://94.250.2.6:10600/play/z3ieUUSzrn
+#EXTINF:0, Arena Fight HD
+http://94.250.2.6:10600/play/A2fQIX6OY1
+#EXTINF:0, Arena eSport HD
+http://94.250.2.6:10600/play/5Tlf12cUwd
+#EXTINF:1,Arena 1 Premium
+http://94.250.2.6:10600/play/gtIDEfibBy
+#EXTINF:-1 ,Arena 2 Premium
+http://94.250.2.6:10600/play/LjzYChqCJD
+#EXTINF:-1 ,Arena 3 Premium ??http://94.
+#EXTINF:1,Arena Sport 1 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/52131
+#EXTINF:1,Arena Sport 3 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3184
+#EXTINF:1,Arena Sport 4 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3185
+#EXTINF:1,Arena Sport 5 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3186
 #EXTINF:-1,ISP Sport
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcsport/playlist.m3u8
 #EXTINF:-1,MCN24 SPORT
