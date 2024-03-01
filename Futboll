@@ -27,6 +27,28 @@ http://stream.bestvideostreaming.is/7004/index.m3u8
 http://stream.bestvideostreaming.is/7001/index.m3u8
 #EXTINF:-1,Balkan Sport 2
 http://stream.bestvideostreaming.is/7002/index.m3u8
+#EXTINF:-1,Art Sport 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7847.ts
+#EXTINF:-1,Art Sport 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7848.ts
+#EXTINF:-1,Art Sport 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7849.ts
+#EXTINF:-1,Art Sport 4 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75468.ts
+#EXTINF:-1,Art Sport 5 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75469.ts
+#EXTINF:-1,Art Sport 6 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75470.ts
+#EXTINF:-1,Kujtesa Sport 1 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7842.ts
+#EXTINF:-1,Kujtesa Sport 2 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7843.ts
+#EXTINF:-1,Kujtesa Sport 3 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7844.ts
+#EXTINF:-1,Kujtesa Sport 4 HD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7845.ts
+#EXTINF:-1,Kujtesa Sport 4 HD
+http://supertv.xyzz:8080/BekaPD/e7U4HvwrXG/7845.ts
 #EXTINF:-1,Arena Sport 1 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
 #EXTINF:-1,Arena Sport 5 HR
