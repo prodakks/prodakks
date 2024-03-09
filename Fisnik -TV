@@ -300,14 +300,10 @@ http://stream.bestvideostreaming.is/8765/index.m3u8
 http://stream.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1,SKY PLANET
 http://stream.bestvideostreaming.is/8886/index.m3u8
-#EXTINF:-1,Stupcat 24/7
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/9060.ts
 #EXTINF:-1,Fax News
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/35944.ts
 #EXTINF:-1,DARK Stupcat Egjeli
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53363.ts
-#EXTINF:-1,DARK Cka ka Shpija
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53364.ts
 #EXTINF:-1,DARK Kafeneja Jone
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53365.ts
 #EXTINF:-1,DARK Gold 1 HD
