@@ -115,6 +115,10 @@ http://stream.bestvideostreaming.is/8799/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT 2
 http://stream.bestvideostreaming.is/7004/index.m3u8
+#EXTINF:-1,oversport 1
+http://45233178749765789.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/765789.ts
+#EXTINF:-1,oversport 2
+http://45233178749749736.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/749736.
 #EXTINF:-1,Balkan Sport 1
 http://stream.bestvideostreaming.is/7001/index.m3u8
 #EXTINF:-1,Balkan Sport 2
@@ -212,18 +216,20 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7815.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7816.ts
 #EXTINF:-1,Super Sport 5 HD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7817.ts
-#EXTINF:-1,ISP Sport
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcsport/playlist.m3u8
-#EXTINF:-1,MCN24 SPORT
-http://stream.bestvideostreaming.is/8873/index.m3u8
 #EXTINF:-1,K SPORT 1-ELEVEN 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
 #EXTINF:-1,K SPORT 2-Z SELECT
 http://stream.bestvideostreaming.is/10036/index.m3u8
+#EXTINF:-1,EUROSPORT 1 eng 
+http://45233178749769836.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769836.ts
+#EXTINF:-1,EUROSPORT 2 sr
 #EXTINF:-1,MCX SPORT
 http://stream.bestvideostreaming.is/7003/index.m3u8
-#EXTINF:-1,Euro Sport 1 pol
-http://54.39.17.6/eurosport/playlist.m3u8
+#EXTINF:-1,ISP Sport
+https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcsport/playlist.m3u8
+#EXTINF:-1,MCN24 SPORT
+http://stream.bestvideostreaming.is/8873/index.m3u8
+http://45233178749769837.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769837.ts
 #EXTINF:-1,RTV21 POPULLORE
 http://stream.bestvideostreaming.is/8749/index.m3u8
 #EXTINF:-0,RTK 3
