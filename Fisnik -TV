@@ -57,11 +57,11 @@ http://stream.bestvideostreaming.is/9202/index.m3u8
 http://stream.bestvideostreaming.is/9205/index.m3u8
 #EXTINF:-1,TEVE NOVELA
 http://stream.bestvideostreaming.is/9301/index.m3u8
-#EXTINF:-1,ISP Aksion
+#EXTINF:-1,ISP AKSION
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmovie1/playlist.m3u8
-#EXTINF:-1,ISP Hits
+#EXTINF:-1,ISP HITS
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcgodfather/playlist.m3u8
-#EXTINF:-1,ISP Komedi
+#EXTINF:-1,ISP KOMEDI
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbccomic/playlist.m3u8
 #EXTINF:-1,ISP Mrekulli
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmovie2/playlist.m3u8
@@ -75,10 +75,6 @@ https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/filmshqip_720p/playlist.m3u8
 http://stream.bestvideostreaming.is/8774/index.m3u8
 #EXTINF:-1,STINET
 http://stream.bestvideostreaming.is/8751/index.m3u8
-#EXTINF:-1,TRING LIVING
-http://stream.bestvideostreaming.is/8771/index.m3u8
-#EXTINF:-1,STAR TV HD
-http://stream.bestvideostreaming.is/8781/index.m3u8
 #EXTINF:-1,SKY 7
 http://stream.bestvideostreaming.is/8889/index.m3u8
 #EXTINF:-1,SKY AKSION
@@ -270,6 +266,12 @@ http://stream.bestvideostreaming.is/8709/index.m3u8
 http://stream.bestvideostreaming.is/8888/index.m3u8
 #EXTINF:-1,MUSE
 http://stream.bestvideostreaming.is/8778/index.m3u8
+#EXTINF:-1,TRING LIVING
+http://stream.bestvideostreaming.is/8771/index.m3u8
+#EXTINF:-1,STAR TV HD
+http://stream.bestvideostreaming.is/8781/index.m3u8
+#EXTINF:-1,EUROFILM
+http://stream.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1,TRING SMILE
 http://stream.bestvideostreaming.is/8772/index.m3u8
 #EXTINF:-1,TRING LIFE
@@ -294,8 +296,6 @@ http://stream.bestvideostreaming.is/8764/index.m3u8
 http://stream.bestvideostreaming.is/8763/index.m3u8
 #EXTINF:-1,TRING HISTORI
 http://stream.bestvideostreaming.is/8765/index.m3u8
-#EXTINF:-1,EUROFILM
-http://stream.bestvideostreaming.is/8758/index.m3u8
 #EXTINF:-1,SKY PLANET
 http://stream.bestvideostreaming.is/8886/index.m3u8
 #EXTINF:-1,Fax News
