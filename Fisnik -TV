@@ -119,29 +119,27 @@ http://45233178749749736.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/749736.
 http://stream.bestvideostreaming.is/7001/index.m3u8
 #EXTINF:-1,Balkan Sport 2
 http://stream.bestvideostreaming.is/7002/index.m3u8
-#EXTINF:-1,Art Sport 1 FHD
+#EXTINF:-1,ART SPORT 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7847.ts
-#EXTINF:-1,Art Sport 2 FHD
+#EXTINF:-1,ART SPORT 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7848.ts
-#EXTINF:-1,Art Sport 3 FHD
+#EXTINF:-1,ART SPORT 3
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7849.ts
-#EXTINF:-1,Art Sport 4 FHD
+#EXTINF:-1,ART SPORT 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75468.ts
-#EXTINF:-1,Art Sport 5 FHD
+#EXTINF:-1,ART SPORT 5
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75469.ts
-#EXTINF:-1,Art Sport 6 FHD
+#EXTINF:-1,ART SPORT 6
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75470.ts
-#EXTINF:-1,Kujtesa Sport 1 HD
+#EXTINF:-1,KUJTESA SPORT 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7842.ts
-#EXTINF:-1,Kujtesa Sport 2 HD
+#EXTINF:-1,KUJTESA SPORT 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7843.ts
-#EXTINF:-1,Kujtesa Sport 3 HD
+#EXTINF:-1,KUJTESA SPORT 3
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7844.ts
-#EXTINF:-1,Kujtesa Sport 4 HD
+#EXTINF:-1,KUJTESA SPORT 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7845.ts
-#EXTINF:-1,Kujtesa Sport 4 HD
-http://supertv.xyzz:8080/BekaPD/e7U4HvwrXG/7845.ts
-#EXTINF:-1,EUROSPORT 1 Eng 
+#EXTINF:-1,EUROSPORT 1 Eng
 http://45233178749769836.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769836.ts
 #EXTINF:-1,EUROSPORT 2 SR
 http://45233178749769837.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769837.ts
@@ -151,7 +149,7 @@ http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/13827
 #EXTINF:-1,Arena Sport 4 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3185
-#EXTINF:-1,Arena Sport 5 HD RS
+#EXTINF:-1,Arena Sport 5 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3186
 #EXTINF:1,Arena 1 Premium BiH
 http://94.250.2.6:10600/play/gtIDEfibBy
@@ -195,7 +193,7 @@ http://94.250.2.6:10600/play/A2fQIX6OY1
 http://94.250.2.6:10600/play/gtIDEfibBy
 #EXTINF:-1 ,Arena 2 Premium
 http://94.250.2.6:10600/play/LjzYChqCJD
-#EXTINF:-1 ,Arena 3 Premium ??http://94.
+#EXTINF:-1 ,Arena 3 Premium
 #EXTINF:1,Arena Sport 1 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/52131
 #EXTINF:1,Arena Sport 3 RS
