@@ -137,6 +137,8 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7843.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7844.ts
 #EXTINF:-1,KUJTESA SPORT 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7845.ts
+#EXTINF:-1,Premier League FHD
+http://94.250.2.6:10600/play/fS1axmthw5
 #EXTINF:-1,EUROSPORT 1 Eng
 http://45233178749769836.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769836.ts
 #EXTINF:-1,EUROSPORT 2 SR
@@ -181,8 +183,6 @@ http://94.250.2.6:10600/play/m4NCbyvPl9
 http://94.250.2.6:10600/play/wCbmzRH3H1
 #EXTINF:-1,Arena Sport 6 HD BiH
 http://94.250.2.6:10600/play/Vj2ZxGEwct
-#EXTINF:-1,Premier League FHD
-http://94.250.2.6:10600/play/fS1axmthw5
 #EXTINF:-1,Arena 1x2 HD
 http://94.250.2.6:10600/play/z3ieUUSzrn
 #EXTINF:-1,Arena 1 Premium
