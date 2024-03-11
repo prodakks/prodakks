@@ -51,10 +51,8 @@ http://stream.bestvideostreaming.is/9200/index.m3u8
 http://stream.bestvideostreaming.is/9201/index.m3u8
 #EXTINF:-1,TEVE DRAME
 http://stream.bestvideostreaming.is/9202/index.m3u8
-#EXTINF:-1,TEVE FANTAZI
+#EXTINF:-1,TEVE Novela
 http://stream.bestvideostreaming.is/9205/index.m3u8
-#EXTINF:-1,TEVE NOVELA
-http://stream.bestvideostreaming.is/9301/index.m3u8
 #EXTINF:-1,ISP AKSION
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmovie1/playlist.m3u8
 #EXTINF:-1,ISP HITS
