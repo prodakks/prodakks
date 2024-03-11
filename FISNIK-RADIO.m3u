@@ -1,5 +1,7 @@
 #EXTINF:-1 , Love Radio
 https://radio.albanialoveradio.al/stream
+#EXTINF:-1 , Radio Tirana 3
+http://79.106.48.2:8000/radiotirana3
 #EXTINF:-1,Radio Energji
 https://a1.asurahosting.com:8520/;&_=1703841110065
 #EXTINF:-1 , Top Albania Radio
@@ -8,12 +10,10 @@ https://live.top-media.al/tar
 http://radioviciana.org:8030
 #EXTINF:0,RADIO STAR
 https://radio.1dhe1.com:2020/stream/radiostar
-#EXTINF:0,Naxi Radio
+#EXTINF:0,NAXI Radio
 https://naxi128.streaming.rs:9152
-#EXTINF:-1 , Radio Gjakova
+#EXTINF:-1 ,Radio Gjakova
 http://37.26.69.30:8080/
-#EXTINF:-1 , Radio Tirana 3
-http://79.106.48.2:8000/radiotirana3
 #EXTINF:0,RADIO MERGIMI | FRA
 http://144.76.33.185:8000/
 #EXTINF:0,RADIO EMIGRANTI | FRA
