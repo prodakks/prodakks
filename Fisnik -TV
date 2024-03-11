@@ -222,8 +222,6 @@ http://stream.bestvideostreaming.is/8873/index.m3u8
 http://stream.bestvideostreaming.is/8749/index.m3u8
 #EXTINF:-1,RTK 3
 http://stream2.rtkit.com:1935/rtk3stream/rtk3.stream/playlist.m3u8
-#EXTINF:-1,RTK 4
-http://stream2.rtkit.com:1935/rtk4stream/rtk4.stream/playlist.m3u8
 #EXTINF:-1,ABC NEWS
 http://stream.bestvideostreaming.is/10023/index.m3u8
 #EXTINF:-1,ARTA NEWS
@@ -312,23 +310,23 @@ http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/268.m3u8
 http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/269.m3u8
 #EXTINF:-1,Tnt sports 4
 http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/270.m3u8
-#EXTINF:-1,SW: V Sport Premier League
+#EXTINF:-1,V Sport Premier League
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79957.ts
-#EXTINF:-1,SW: V Sport Premier League 1
+#EXTINF:-1,V Sport Premier League 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79958.ts
-#EXTINF:-1,SW: V Sport Premier League 2
+#EXTINF:-1,V Sport Premier League 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79959.ts
-#EXTINF:-1,SW: V Sport Premier League 3
+#EXTINF:-1,V Sport Premier League 3
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79960.ts
-#EXTINF:-1,SW: V Sport Premier League 4
+#EXTINF:-1,V Sport Premier League 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79961.ts
-#EXTINF:-1,SW: V Sport Premier League 1 FHD
+#EXTINF:-1,V Sport Premier League 1 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79962.ts
-#EXTINF:-1,SW: V Sport Premier League 2 FHD
+#EXTINF:-1,V Sport Premier League 2 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79963.ts
-#EXTINF:-1,SW: V Sport Premier League 3 FHD
+#EXTINF:-1,V Sport Premier League 3 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79964.ts
-#EXTINF:-1,SW: V Sport Premier League 4 FHD
+#EXTINF:-1,V Sport Premier League 4 FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79965.ts
-#EXTINF:-1,SW: V Sport Premier League FHD
+#EXTINF:-1,V Sport Premier League FHD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79966.ts
