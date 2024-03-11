@@ -23,97 +23,72 @@ http://stream.bestvideostreaming.is/8799/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT 2
 http://stream.bestvideostreaming.is/7004/index.m3u8
-#EXTINF:-1,oversport 1
+#EXTINF:-1,OVERSPORT 1
 http://45233178749765789.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/765789.ts
-#EXTINF:-1,oversport 2
-http://45233178749749736.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/749736.
+#EXTINF:-1,OVERSPORT 2
+http://45233178749749736.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/749736.ts
 #EXTINF:-1,Balkan Sport 1
 http://stream.bestvideostreaming.is/7001/index.m3u8
 #EXTINF:-1,Balkan Sport 2
 http://stream.bestvideostreaming.is/7002/index.m3u8
-#EXTINF:-1,Art Sport 1 FHD
+#EXTINF:-1,ART SPORT 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7847.ts
-#EXTINF:-1,Art Sport 2 FHD
+#EXTINF:-1,ART SPORT 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7848.ts
-#EXTINF:-1,Art Sport 3 FHD
+#EXTINF:-1,ART SPORT 3
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7849.ts
-#EXTINF:-1,Art Sport 4 FHD
+#EXTINF:-1,ART SPORT 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75468.ts
-#EXTINF:-1,Art Sport 5 FHD
+#EXTINF:-1,ART SPORT 5
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75469.ts
-#EXTINF:-1,Art Sport 6 FHD
+#EXTINF:-1,ART SPORT 6
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75470.ts
-#EXTINF:-1,Kujtesa Sport 1 HD
+#EXTINF:-1,KUJTESA SPORT 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7842.ts
-#EXTINF:-1,Kujtesa Sport 2 HD
+#EXTINF:-1,KUJTESA SPORT 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7843.ts
-#EXTINF:-1,Kujtesa Sport 3 HD
+#EXTINF:-1,KUJTESA SPORT 3
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7844.ts
-#EXTINF:-1,Kujtesa Sport 4 HD
+#EXTINF:-1,KUJTESA SPORT 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7845.ts
-#EXTINF:-1,Kujtesa Sport 4 HD
-http://supertv.xyzz:8080/BekaPD/e7U4HvwrXG/7845.ts
+#EXTINF:-1,Premier League FHD
+http://94.250.2.6:10600/play/fS1axmthw5
+#EXTINF:-1,EUROSPORT 1 Eng
+http://45233178749769836.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769836.ts
+#EXTINF:-1,EUROSPORT 2 SR
+http://45233178749769837.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769837.ts
 #EXTINF:-1,Arena Sport 1 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
 #EXTINF:-1,Arena Sport 5 HR
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/13827
 #EXTINF:-1,Arena Sport 4 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3185
-#EXTINF:-1,Arena Sport 5 HD RS
+#EXTINF:-1,Arena Sport 5 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3186
-#EXTINF:1,Arena 1 Premium BiH
+#EXTINF:-1,Arena 1 Premium BiH
 http://94.250.2.6:10600/play/gtIDEfibBy
-#EXTINF:1,Arena 2 Premium BiH
+#EXTINF:-1,Arena 2 Premium BiH
 http://94.250.2.6:10600/play/LjzYChqCJD
-#EXTINF:1,Arena 3 Premium Bih
+#EXTINF:-1,Arena 3 Premium Bih
 http://94.250.2.6:10600/play/0QhXJ9nCVj
-#EXTINF:1,Arena Sport 1 
+#EXTINF:-1,Arena Sport 1 
 http://94.250.2.6:10600/play/sfwZs8fQbA
-#EXTINF:1,Arena Sport 2 
+#EXTINF:-1,Arena Sport 2 
 http://94.250.2.6:10600/play/uOcKOWbtpc
-#EXTINF:1,Arena Sport 3 
+#EXTINF:-1,Arena Sport 3 
 http://94.250.2.6:10600/play/Fj6334HwK3
-#EXTINF:1 ,Arena Sport 5 bih
-http://93.155.227.38:80/m3u8/arenasport5.m3u8
-#EXTINF:0, Arena Premium 1 HD BiH
-http://94.250.2.6:10600/play/gtIDEfibBy
-#EXTINF:0, Arena Premium 2 HD BiH
-http://94.250.2.6:10600/play/LjzYChqCJD
-#EXTINF:0, Arena Premium 3 HD BiH
-http://94.250.2.6:10600/play/0QhXJ9nCVj
-#EXTINF:0, Arena sport 1 HD BiH
-http://94.250.2.6:10600/play/sfwZs8fQbA
-#EXTINF:0, Arena sport 2 HD BiH
-http://94.250.2.6:10600/play/uOcKOWbtpc
-#EXTINF:0, Arena sport 3 HD BiH
-http://94.250.2.6:10600/play/Fj6334HwK3
-#EXTINF:0, Arena Sport 4 HD BiH
+#EXTINF:-1,Arena Sport 4 HD BiH
 http://94.250.2.6:10600/play/m4NCbyvPl9
-#EXTINF:0, Arena Sport 5 HD BiH
+#EXTINF:-1,Arena Sport 5 HD BiH
 http://94.250.2.6:10600/play/wCbmzRH3H1
-#EXTINF:0, Arena Sport 6 HD BiH
+#EXTINF:-1,Arena Sport 6 HD BiH
 http://94.250.2.6:10600/play/Vj2ZxGEwct
-#EXTINF:0, Premier League FHD
-http://94.250.2.6:10600/play/fS1axmthw5
-#EXTINF:0, Arena 1x2 HD
+#EXTINF:-1,Arena 1x2 HD
 http://94.250.2.6:10600/play/z3ieUUSzrn
-#EXTINF:0, Arena Fight HD
-http://94.250.2.6:10600/play/A2fQIX6OY1
-#EXTINF:0, Arena eSport HD
-http://94.250.2.6:10600/play/5Tlf12cUwd
-#EXTINF:1,Arena 1 Premium
-http://94.250.2.6:10600/play/gtIDEfibBy
-#EXTINF:-1 ,Arena 2 Premium
-http://94.250.2.6:10600/play/LjzYChqCJD
-#EXTINF:-1 ,Arena 3 Premium ??http://94.
-#EXTINF:1,Arena Sport 1 RS
+#EXTINF:-1,Arena Sport 1 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/52131
-#EXTINF:1,Arena Sport 3 RS
+#EXTINF:-1,Arena Sport 3 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3184
-#EXTINF:1,Arena Sport 4 RS
-http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3185
-#EXTINF:1,Arena Sport 5 RS
-http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3186
 #EXTINF:-1,Super Sport 1 HD
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7813.ts
 #EXTINF:-1,Super Sport 2 HD
@@ -128,13 +103,35 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7817.ts
 http://stream.bestvideostreaming.is/10035/index.m3u8
 #EXTINF:-1,K SPORT 2-Z SELECT
 http://stream.bestvideostreaming.is/10036/index.m3u8
-#EXTINF:-1,EUROSPORT 1 eng 
-http://45233178749769836.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769836.ts
-#EXTINF:-1,EUROSPORT 2 sr
-http://45233178749769837.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769837.ts
-#EXTINF:-1,MCX SPORT
-http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,ISP Sport
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcsport/playlist.m3u8
 #EXTINF:-1,MCN24 SPORT
 http://stream.bestvideostreaming.is/8873/index.m3u8
+#EXTINF:-1,TNT SPORTS 1
+http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/267.m3u8
+#EXTINF:-1,TNT SPORTS 2
+http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/268.m3u8
+#EXTINF:-1,TNT SPORTS 3
+http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/269.m3u8
+#EXTINF:-1,TNT SPORTS 4
+http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/270.m3u8
+#EXTINF:-1,V Sport Premier League
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79957.ts
+#EXTINF:-1,V Sport Premier League 1
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79958.ts
+#EXTINF:-1,V Sport Premier League 2
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79959.ts
+#EXTINF:-1,V Sport Premier League 3
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79960.ts
+#EXTINF:-1,V Sport Premier League 4
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79961.ts
+#EXTINF:-1,V Sport Premier League 1 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79962.ts
+#EXTINF:-1,V Sport Premier League 2 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79963.ts
+#EXTINF:-1,V Sport Premier League 3 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79964.ts
+#EXTINF:-1,V Sport Premier League 4 FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79965.ts
+#EXTINF:-1,V Sport Premier League FHD
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79966.ts
