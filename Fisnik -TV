@@ -263,14 +263,13 @@ http://stream.bestvideostreaming.is/8764/index.m3u8
 http://stream.bestvideostreaming.is/8763/index.m3u8
 #EXTINF:-1,TRING HISTORI
 http://stream.bestvideostreaming.is/8765/index.m3u8
-#EXTINF:-1,Fax News
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/35944.ts
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53365.ts
-#EXTINF:-1,DARK Gold 1 HD
+#EXTINF:-1,DARK Gold 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8585.ts
-#EXTINF:-1,DARK Gold 2 HD
+#EXTINF:-1,DARK Gold 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8586.ts
-#EXTINF:-1,DARK Stupcat Egjeli
+#EXTINF:-1,DARK Kafeneja Jone
+http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53365.ts
+#EXTINF:-1,DARK Stupcat
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53363.ts
 #EXTINF:-1,TNT SPORTS 1
 http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/267.m3u8
