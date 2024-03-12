@@ -19,7 +19,7 @@ http://stream.bestvideostreaming.is/8748/index.m3u8
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,TOP NEWS
 http://stream.bestvideostreaming.is/10025/index.m3u8
-#EXTINF:-1,FILM1 GOLD
+#EXTINF:-1,FILM GOLD
 http://stream.bestvideostreaming.is/8730/index.m3u8
 #EXTINF:-1,FILM HITS
 http://stream.bestvideostreaming.is/8755/index.m3u8
@@ -107,9 +107,9 @@ http://stream.bestvideostreaming.is/8799/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT 2
 http://stream.bestvideostreaming.is/7004/index.m3u8
-#EXTINF:-1,OVERSPORT 1
+#EXTINF:-1,OVER SPORT 1
 http://45233178749765789.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/765789.ts
-#EXTINF:-1,OVERSPORT 2
+#EXTINF:-1,OVER SPORT 2
 http://45233178749749736.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/749736.ts
 #EXTINF:-1,Balkan Sport 1
 http://stream.bestvideostreaming.is/7001/index.m3u8
@@ -171,8 +171,22 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7817.ts
 http://stream.bestvideostreaming.is/10035/index.m3u8
 #EXTINF:-1,K SPORT 2-Z SELECT
 http://stream.bestvideostreaming.is/10036/index.m3u8
-#EXTINF:-1,MCN24 SPORT
-http://stream.bestvideostreaming.is/8873/index.m3u8
+#EXTINF:-1,EXP NATYRA
+http://stream.bestvideostreaming.is/8739/index.m3u8
+#EXTINF:-1,EXP SHKENCE
+http://stream.bestvideostreaming.is/8726/index.m3u8
+#EXTINF:-1,EXP HISTORI
+http://stream.bestvideostreaming.is/8729/index.m3u8
+#EXTINF:-1,TEVE DOKU 1
+http://stream.bestvideostreaming.is/9301/index.m3u8
+#EXTINF:-1,TRING PLANET
+http://stream.bestvideostreaming.is/8764/index.m3u8
+#EXTINF:-1,TRING WORLD
+http://stream.bestvideostreaming.is/8763/index.m3u8
+#EXTINF:-1,TRING HISTORI
+http://stream.bestvideostreaming.is/8765/index.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://stream.bestvideostreaming.is/8725/index.m3u8
 #EXTINF:-1,RTV21 POPULLORE
 http://stream.bestvideostreaming.is/8749/index.m3u8
 #EXTINF:-1,RTK 3
@@ -227,22 +241,6 @@ http://stream.bestvideostreaming.is/8766/index.m3u8
 http://stream.bestvideostreaming.is/8775/index.m3u8
 #EXTINF:-1,FAMILY HD
 http://stream.bestvideostreaming.is/8754/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://stream.bestvideostreaming.is/8725/index.m3u8
-#EXTINF:-1,EXP NATYRA
-http://stream.bestvideostreaming.is/8739/index.m3u8
-#EXTINF:-1,EXP SHKENCE
-http://stream.bestvideostreaming.is/8726/index.m3u8
-#EXTINF:-1,EXP HISTORI
-http://stream.bestvideostreaming.is/8729/index.m3u8
-#EXTINF:-1,TEVE DOKU 1
-http://stream.bestvideostreaming.is/9301/index.m3u8
-#EXTINF:-1,TRING PLANET
-http://stream.bestvideostreaming.is/8764/index.m3u8
-#EXTINF:-1,TRING WORLD
-http://stream.bestvideostreaming.is/8763/index.m3u8
-#EXTINF:-1,TRING HISTORI
-http://stream.bestvideostreaming.is/8765/index.m3u8
 #EXTINF:-1,DARK Gold 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8585.ts
 #EXTINF:-1,DARK Gold 2
