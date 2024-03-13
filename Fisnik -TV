@@ -106,15 +106,15 @@ http://stream.bestvideostreaming.is/8799/index.m3u8
 #EXTINF:-1,SPORT 1
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT 2
+http://stream.bestvideostreaming.is/7002/index.m3u8
+#EXTINF:-1,SPORT 3
+http://stream.bestvideostreaming.is/7003/index.m3u8
+#EXTINF:-1,SPORT 4
 http://stream.bestvideostreaming.is/7004/index.m3u8
 #EXTINF:-1,OVER SPORT 1
 http://45233178749765789.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/765789.ts
 #EXTINF:-1,OVER SPORT 2
 http://45233178749749736.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/749736.ts
-#EXTINF:-1,Balkan Sport 1
-http://stream.bestvideostreaming.is/7001/index.m3u8
-#EXTINF:-1,Balkan Sport 2
-http://stream.bestvideostreaming.is/7002/index.m3u8
 #EXTINF:-1,ART SPORT 1
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/7847.ts
 #EXTINF:-1,ART SPORT 2
