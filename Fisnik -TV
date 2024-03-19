@@ -231,14 +231,7 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/8586.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53365.ts
 #EXTINF:-1,DARK Stupcat
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53363.ts
-#EXTINF:-1,TNT SPORTS 1
-http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/267.m3u8
-#EXTINF:-1,TNT SPORTS 2
-http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/268.m3u8
-#EXTINF:-1,TNT SPORTS 3
-http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/269.m3u8
-#EXTINF:-1,TNT SPORTS 4
-http://desivicky.pktv.me/live/00:1A:79:D4:5D:10/B5888A04FEE6A/270.m3u8
+
 #EXTINF:-1,V Sport Premier League
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79957.ts
 #EXTINF:-1,V Sport Premier League 1
