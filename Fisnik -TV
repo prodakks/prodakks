@@ -69,6 +69,8 @@ https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcsofa/playlist.m3u8
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmemory/playlist.m3u8
 #EXTINF:-1,ISP Shqip
 https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/filmshqip_720p/playlist.m3u8
+#EXTINF;-1,TRING CLASSIC
+http://185.85.152.220:8999/play/a03h/index.m3u8
 #EXTINF:-1,Tring Series
 http://stream.bestvideostreaming.is/8774/index.m3u8
 #EXTINF:-1,STINET
