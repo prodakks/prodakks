@@ -19,12 +19,12 @@ http://stream.bestvideostreaming.is/8748/index.m3u8
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,TOP NEWS
 http://stream.bestvideostreaming.is/10025/index.m3u8
+#EXTINF:-1,FILM AKSION
+http://stream.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1,FILM GOLD
 http://stream.bestvideostreaming.is/8730/index.m3u8
 #EXTINF:-1,FILM HITS
 http://stream.bestvideostreaming.is/8755/index.m3u8
-#EXTINF:-1,FILM AKSION
-http://stream.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1,FILM DRAME
 http://stream.bestvideostreaming.is/8727/index.m3u8
 #EXTINF:-1,FILM AUTOR
@@ -41,10 +41,6 @@ http://stream.bestvideostreaming.is/8813/index.m3u8
 http://stream.bestvideostreaming.is/8767/index.m3u8
 #EXTINF:-1,TRING SUPER
 http://stream.bestvideostreaming.is/8770/index.m3u8
-#EXTINF:-1,Tibo Comedy
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/comedy/playlist.m3u8
-#EXTINF:-1,Tibo Thriller
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/thriller/playlist.m3u8
 #EXTINF:-1,TEVE AKSION
 http://stream.bestvideostreaming.is/9200/index.m3u8
 #EXTINF:-1,TEVE KOMEDI
@@ -97,10 +93,6 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,SPORT 4
 http://stream.bestvideostreaming.is/7004/index.m3u8
-#EXTINF:-1,OVER SPORT 1
-http://45233178749765789.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/765789.ts
-#EXTINF:-1,OVER SPORT 2
-http://45233178749749736.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/749736.ts
 #EXTINF:-1,Art SPORT 1
 http://95.214.235.96:8880/29ca10183n04/asdfe332/30623
 #EXTINF:-1,Art SPORT 2
