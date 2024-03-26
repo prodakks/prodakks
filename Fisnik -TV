@@ -37,6 +37,8 @@ http://stream.bestvideostreaming.is/8757/index.m3u8
 http://stream.bestvideostreaming.is/8769/index.m3u8
 #EXTINF:-1,TRING COLLECTION
 http://stream.bestvideostreaming.is/8813/index.m3u8
+#EXTINF;-1,TRING CLASSIC
+http://185.85.152.220:8999/play/a03h/index.m3u8
 #EXTINF:-1,TRING COMEDY
 http://stream.bestvideostreaming.is/8767/index.m3u8
 #EXTINF:-1,TRING SUPER
@@ -133,7 +135,7 @@ http://94.250.2.6:10600/play/m4NCbyvPl9
 http://94.250.2.6:10600/play/wCbmzRH3H1
 #EXTINF:-1,Arena Sport 6 
 http://94.250.2.6:10600/play/Vj2ZxGEwct
-#EXTINF:-1,Arena 1x2  
+#EXTINF:-1,Arena 1x2
 http://94.250.2.6:10600/play/z3ieUUSzrn
 #EXTINF:-1,K SPORT 1-ELEVEN 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
