@@ -55,8 +55,6 @@ http://stream.bestvideostreaming.is/9205/index.m3u8
 http://stream.bestvideostreaming.is/8774/index.m3u8
 #EXTINF:-1,STINET
 http://stream.bestvideostreaming.is/8751/index.m3u8
-#EXTINF:-1,SKY 7
-http://stream.bestvideostreaming.is/8889/index.m3u8
 #EXTINF:-1,SKY AKSION
 http://stream.bestvideostreaming.is/8880/index.m3u8
 #EXTINF:-1,SKY KOMEDI
@@ -67,6 +65,8 @@ http://stream.bestvideostreaming.is/8882/index.m3u8
 http://stream.bestvideostreaming.is/8883/index.m3u8
 #EXTINF:-1,SKY NOVELA
 http://stream.bestvideostreaming.is/8884/index.m3u8
+#EXTINF:-1,SKY 7
+http://stream.bestvideostreaming.is/8889/index.m3u8
 #EXTINF:-1,SUPER SPORT NEWS
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
