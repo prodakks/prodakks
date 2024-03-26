@@ -231,6 +231,8 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79959.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79960.ts
 #EXTINF:-1,V Sport Premier League 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79961.ts
+#EXTINF:-1,4ever Music
+http://78.26.128.59:9876/play/496/index.m3u8
 #EXTINF:-1,FERMA VIP 1
 http://stream.bestvideostreaming.is/8840/index.m3u8
 #EXTINF:-1,FERMA VIP 2
