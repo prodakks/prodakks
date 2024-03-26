@@ -7,12 +7,6 @@ http://stream.bestvideostreaming.is/8843/index.m3u8
 http://stream.bestvideostreaming.is/8708/index.m3u8
 #EXTINF:-1,Top Channel 2
 http://109.236.44.157:2121/topchannel
-#EXTINF:-1,FERMA VIP 1
-http://stream.bestvideostreaming.is/8840/index.m3u8
-#EXTINF:-1,FERMA VIP 2
-http://stream.bestvideostreaming.is/8841/index.m3u8
-#EXTINF:-1,VIZION +
-http://stream.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1,RTK 1
 http://stream.bestvideostreaming.is/8702/index.m3u8
 #EXTINF:-1,KLAN KOSOVA
@@ -59,22 +53,6 @@ http://stream.bestvideostreaming.is/9201/index.m3u8
 http://stream.bestvideostreaming.is/9202/index.m3u8
 #EXTINF:-1,TEVE Novela
 http://stream.bestvideostreaming.is/9205/index.m3u8
-#EXTINF:-1,ISP AKSION
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmovie1/playlist.m3u8
-#EXTINF:-1,ISP HITS
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcgodfather/playlist.m3u8
-#EXTINF:-1,ISP KOMEDI
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbccomic/playlist.m3u8
-#EXTINF:-1,ISP Mrekulli
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmovie2/playlist.m3u8
-#EXTINF:-1,ISP Dramë
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcsofa/playlist.m3u8
-#EXTINF:-1,ISP Pikëpytje
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/gbcmemory/playlist.m3u8
-#EXTINF:-1,ISP Shqip
-https://tibotv.s.llnwi.net/amd20file/yWbXvr1S/filmshqip_720p/playlist.m3u8
-#EXTINF;-1,TRING CLASSIC
-http://185.85.152.220:8999/play/a03h/index.m3u8
 #EXTINF:-1,Tring Series
 http://stream.bestvideostreaming.is/8774/index.m3u8
 #EXTINF:-1,STINET
@@ -259,13 +237,9 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79959.ts
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79960.ts
 #EXTINF:-1,V Sport Premier League 4
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79961.ts
-#EXTINF:-1,V Sport Premier League 1 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79962.ts
-#EXTINF:-1,V Sport Premier League 2 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79963.ts
-#EXTINF:-1,V Sport Premier League 3 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79964.ts
-#EXTINF:-1,V Sport Premier League 4 FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79965.ts
-#EXTINF:-1,V Sport Premier League FHD
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79966.ts
+#EXTINF:-1,FERMA VIP 1
+http://stream.bestvideostreaming.is/8840/index.m3u8
+#EXTINF:-1,FERMA VIP 2
+http://stream.bestvideostreaming.is/8841/index.m3u8
+#EXTINF:-1,VIZION +
+http://stream.bestvideostreaming.is/8703/index.m3u8
