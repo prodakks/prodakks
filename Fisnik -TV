@@ -37,7 +37,7 @@ http://stream.bestvideostreaming.is/8757/index.m3u8
 http://stream.bestvideostreaming.is/8769/index.m3u8
 #EXTINF:-1,TRING COLLECTION
 http://stream.bestvideostreaming.is/8813/index.m3u8
-#EXTINF;-1,TRING CLASSIC
+#EXTINF:-1,TRING CLASSIC
 http://185.85.152.220:8999/play/a03h/index.m3u8
 #EXTINF:-1,TRING COMEDY
 http://stream.bestvideostreaming.is/8767/index.m3u8
