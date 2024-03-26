@@ -241,3 +241,5 @@ http://stream.bestvideostreaming.is/8841/index.m3u8
 http://stream.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1,TRT MUZIKE
 http://stream.bestvideostreaming.is/8123/index.m3u8
+#EXTINF:-1,RT ENG
+http://69.64.57.208:8080/russiatoday/playlist.m3u8
