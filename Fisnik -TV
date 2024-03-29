@@ -221,16 +221,26 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53363.ts
 http://62495516029769980.ofe0229.xyz:80/play/fe0221454/HEKqePRt6Y/769980.ts
 #EXTINF:-1,NETFLIX JACKIE CHAN
 http://62495516029769984.ofe0229.xyz:80/play/fe0221454/HEKqePRt6Y/769984.ts
-#EXTINF:-1,V Sport Premier League
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79957.ts
-#EXTINF:-1,V Sport Premier League 1
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79958.ts
-#EXTINF:-1,V Sport Premier League 2
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79959.ts
-#EXTINF:-1,V Sport Premier League 3
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79960.ts
-#EXTINF:-1,V Sport Premier League 4
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/79961.ts
+#EXTINF:-1,SKYSPORTS_SELECT_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636927&extension=ts&skysport_Select_NZ
+#EXTINF:-1,SKYSPORTS_1_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636918&extension=ts&skysport_1_NZ
+#EXTINF:-1,SKYSPORTS_2_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636919&extension=ts&skysport_2_NZ
+#EXTINF:-1,SKYSPORTS_3_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636920&extension=ts&skysport_3_NZ
+#EXTINF:-1,SKYSPORTS_4_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636921&extension=ts&skysport_4_NZ
+#EXTINF:-1,SKYSPORTS_5_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636922&extension=ts&skysport_5_NZ
+#EXTINF:-1,SKYSPORTS_6_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636923&extension=ts&skysport_6_NZ
+#EXTINF:-1,SKYSPORTS_7_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636924&extension=ts&skysport_7_NZ
+#EXTINF:-1,SKYSPORTS_8_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636925&extension=ts&skysport_8_NZ
+#EXTINF:-1,SKYSPORTS_9_NZ
+http://mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636926&extension=ts&skysport_9_NZ
 #EXTINF:-1,4ever Music
 http://78.26.128.59:9876/play/496/index.m3u8
 #EXTINF:-1,FERMA VIP 1
