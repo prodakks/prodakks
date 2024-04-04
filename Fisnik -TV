@@ -43,30 +43,10 @@ http://185.85.152.220:8999/play/a03h/index.m3u8
 http://stream.bestvideostreaming.is/8767/index.m3u8
 #EXTINF:-1,TRING SUPER
 http://stream.bestvideostreaming.is/8770/index.m3u8
-#EXTINF:-1,TEVE AKSION
-http://stream.bestvideostreaming.is/9200/index.m3u8
-#EXTINF:-1,TEVE KOMEDI
-http://stream.bestvideostreaming.is/9201/index.m3u8
-#EXTINF:-1,TEVE DRAME
-http://stream.bestvideostreaming.is/9202/index.m3u8
-#EXTINF:-1,TEVE Novela
-http://stream.bestvideostreaming.is/9205/index.m3u8
 #EXTINF:-1,Tring Series
 http://stream.bestvideostreaming.is/8774/index.m3u8
 #EXTINF:-1,STINET
 http://stream.bestvideostreaming.is/8751/index.m3u8
-#EXTINF:-1,SKY AKSION
-http://stream.bestvideostreaming.is/8880/index.m3u8
-#EXTINF:-1,SKY KOMEDI
-http://stream.bestvideostreaming.is/8881/index.m3u8
-#EXTINF:-1,SKY MAX
-http://stream.bestvideostreaming.is/8882/index.m3u8
-#EXTINF:-1,SKY DRAME
-http://stream.bestvideostreaming.is/8883/index.m3u8
-#EXTINF:-1,SKY NOVELA
-http://stream.bestvideostreaming.is/8884/index.m3u8
-#EXTINF:-1,SKY 7
-http://stream.bestvideostreaming.is/8889/index.m3u8
 #EXTINF:-1,SUPER SPORT NEWS
 http://stream.bestvideostreaming.is/10030/index.m3u8
 #EXTINF:-1,SUPER SPORT 2
@@ -147,8 +127,6 @@ http://stream.bestvideostreaming.is/8739/index.m3u8
 http://stream.bestvideostreaming.is/8726/index.m3u8
 #EXTINF:-1,EXP HISTORI
 http://stream.bestvideostreaming.is/8729/index.m3u8
-#EXTINF:-1,TEVE DOKU 1
-http://stream.bestvideostreaming.is/9301/index.m3u8
 #EXTINF:-1,TRING PLANET
 http://stream.bestvideostreaming.is/8764/index.m3u8
 #EXTINF:-1,TRING WORLD
