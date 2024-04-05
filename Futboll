@@ -3,6 +3,10 @@
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84099.ts
 #EXTINF:-1,BIGBROTHER VIP ALBANIA 2
 http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/84100.ts
+#EXTINF:-1,FERMA VIP 1 HD
+http://79.106.90.119:1444/fermavip1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FERMA VIP 2 HD
+http://79.106.90.119:1444/fermavip2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Supersport 1
 http://89.187.191.99:8080/ss1hd/index.m3u8
 #EXTINF:-1,Supersport 2
