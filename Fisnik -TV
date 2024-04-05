@@ -19,6 +19,8 @@ http://stream.bestvideostreaming.is/8748/index.m3u8
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,TOP NEWS
 http://stream.bestvideostreaming.is/10025/index.m3u8
+#EXTINF:-1,TEVE 1
+http://stream.bestvideostreaming.is/6010/index.m3u8
 #EXTINF:-1,FILM AKSION
 http://stream.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1,FILM GOLD
