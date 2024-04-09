@@ -223,18 +223,6 @@ http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/53363.ts
 http://62495516029769980.ofe0229.xyz:80/play/fe0221454/HEKqePRt6Y/769980.ts
 #EXTINF:-1,NETFLIX JACKIE CHAN
 http://62495516029769984.ofe0229.xyz:80/play/fe0221454/HEKqePRt6Y/769984.ts
-#EXTINF:-1,Sport Klub 1
-http://89.187.191.99:8080/sk1/index.m3u8
-#EXTINF:-1,Sport Klub 2
-http://89.187.191.99:8080/sk2/index.m3u8
-#EXTINF:-1,Sport Klub 3
-http://89.187.191.99:8080/sk3/index.m3u8
-#EXTINF:-1,Sport Klub 4
-http://89.187.191.99:8080/sk4/index.m3u8
-#EXTINF:-1,Sport Klub 5
-http://89.187.191.99:8080/sk5/index.m3u8
-#EXTINF:-1,Sport Klub 6
-http://89.187.191.99:8080/sk6/index.m3u8
 #EXTINF:-1,4ever Music
 http://78.26.128.59:9876/play/496/index.m3u8
 #EXTINF:-1,FERMA VIP 1
@@ -245,8 +233,6 @@ http://stream.bestvideostreaming.is/8841/index.m3u8
 http://stream.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1,TRT MUZIKE
 http://stream.bestvideostreaming.is/8123/index.m3u8
-#EXTINF:-1,RT ENG
-http://69.64.57.208:8080/russiatoday/playlist.m3u8
 #EXTINF:-1,Ferma Vip 1
 http://79.106.90.119:1444/fermavip1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Ferma Vip 2
