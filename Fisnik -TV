@@ -97,22 +97,14 @@ http://95.214.235.96:8880/29ca10183n04/asdfe332/30450
 http://45233178749769836.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769836.ts
 #EXTINF:-1,EUROSPORT 2 SR
 http://45233178749769837.ofd0216.xyz:80/play/fe922675/@kwA5dp4rnQa/769837.ts
-#EXTINF:-1,Arena Sport 1
-http://94.250.2.6:10600/play/gtIDEfibBy
-#EXTINF:-1,Arena Sport 2
-http://94.250.2.6:10600/play/LjzYChqCJD
-#EXTINF:-1,Arena Sport 2 premium
-http://94.250.2.6:10600/play/uOcKOWbtpc
-#EXTINF:-1,Arena Sport 3
-http://94.250.2.6:10600/play/0QhXJ9nCVj
-#EXTINF:-1,Arena Sport 4
-http://94.250.2.6:10600/play/m4NCbyvPl9
-#EXTINF:-1,Arena Sport 5 
-http://94.250.2.6:10600/play/wCbmzRH3H1
-#EXTINF:-1,Arena Sport 6 
-http://94.250.2.6:10600/play/Vj2ZxGEwct
-#EXTINF:-1,Arena 1x2
-http://94.250.2.6:10600/play/z3ieUUSzrn
+#EXTINF:-1,Arena Sport 1 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
+#EXTINF:-1,Arena Sport 5 HR
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/13827
+#EXTINF:-1,Arena Sport 4 RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3185
+#EXTINF:-1,Arena Sport 5 HD RS
+http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3186
 #EXTINF:-1,K SPORT 1-ELEVEN 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
 #EXTINF:-1,K SPORT 2-Z SELECT
@@ -183,7 +175,14 @@ http://stream.bestvideostreaming.is/8766/index.m3u8
 http://stream.bestvideostreaming.is/8775/index.m3u8
 #EXTINF:-1,FAMILY HD
 http://stream.bestvideostreaming.is/8754/index.m3u8
-
+#EXTINF:-1,Turkish Stories
+https://albtv.advanott.com/turkishstories/index.m3u8
+#EXTINF:-1,Tring Classic
+https://albtv.advanott.com/classichd/index.m3u8
+#EXTINF:-1,O sa mir- humor
+http://greasel.tech:80/fushkuqe/fushkuqe/234.ts
+#EXTINF:-1,CKA KA SHPIJA-humor
+http://greasel.tech:80/fushkuqe/fushkuqe/235.ts
 #EXTINF:-1,FERMA VIP 1
 http://stream.bestvideostreaming.is/8840/index.m3u8
 #EXTINF:-1,FERMA VIP 2
