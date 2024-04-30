@@ -33,6 +33,8 @@ http://stream.bestvideostreaming.is/8727/index.m3u8
 http://stream.bestvideostreaming.is/8753/index.m3u8
 #EXTINF:-1,Film Komedi
 http://stream.bestvideostreaming.is/8752/index.m3u8
+#EXTINF:-1,Kanali T Shqip
+http://stream.bestvideostreaming.is/8746/index.m3u8
 #EXTINF:-1,FILM THRILLER
 http://stream.bestvideostreaming.is/8757/index.m3u8
 #EXTINF:-1,TRING AKSION
@@ -145,8 +147,6 @@ http://stream.bestvideostreaming.is/8790/index.m3u8
 http://stream.bestvideostreaming.is/8720/index.m3u8
 #EXTINF:-1,FIRST TV
 http://stream.bestvideostreaming.is/8717/index.m3u8
-#EXTINF:-1,T HD
-http://stream.bestvideostreaming.is/8746/index.m3u8
 #EXTINF:-1,3 PLUS
 http://stream.bestvideostreaming.is/8773/index.m3u8
 #EXTINF:-1,TV DUKAGJINI
