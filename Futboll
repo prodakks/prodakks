@@ -1,452 +1,449 @@
 #EXTM3U
-
-RTSH
+#EXTINF:-1,RTSH
 http://stream.bestvideostreaming.is/8701/index.m3u8
-RTK
+#EXTINF:-1,RTK
 http://stream.bestvideostreaming.is/8703/index.m3u8
-TOP CHANNEL
- http://stream.bestvideostreaming.is/8708/index.m3u8
-KLAN
+#EXTINF:-1,TOP CHANNEL
+http://stream.bestvideostreaming.is/8708/index.m3u8
+#EXTINF:-1,KLAN
 http://stream.bestvideostreaming.is/8704/index.m3u8
-KTV
+#EXTINF:-1,KTV
 http://stream.bestvideostreaming.is/8705/index.m3u8
-T7
+#EXTINF:-1,T7
 http://stream.bestvideostreaming.is/8904/index.m3u8
-RTV 21
+#EXTINF:-1,RTV 21
 http://stream.bestvideostreaming.is/8748/index.m3u8
-Alsat M
+#EXTINF:-1,Alsat M
 http://stream.bestvideostreaming.is/8713/index.m3u8
-RTV 21MK
+#EXTINF:-1,RTV 21MK
 http://stream.bestvideostreaming.is/8790/index.m3u8
-TV DUKAGJINI
+#EXTINF:-1,TV DUKAGJINI
 http://stream.bestvideostreaming.is/8788/index.m3u8
-TEVE 1
+#EXTINF:-1,TEVE 1
 http://stream.bestvideostreaming.is/6010/index.m3u8
-ALBTV USA
+#EXTINF:-1,ALBTV USA
 http://stream.bestvideostreaming.is/8711/index.m3u8
-ATV
+#EXTINF:-1,ATV
 http://stream.bestvideostreaming.is/8709/index.m3u8
-FIRST TV
- http://stream.bestvideostreaming.is/8717/index.m3u8
-MKTV2
+#EXTINF:-1,FIRST TV
+http://stream.bestvideostreaming.is/8717/index.m3u8
+#EXTINF:-1,MKTV2
 http://stream.bestvideostreaming.is/8728/index.m3u8
-MUSIC TV
+#EXTINF:-1,MUSIC TV
 http://stream.bestvideostreaming.is/7711/index.m3u8
-EURONEWS ALB
+#EXTINF:-1,EURONEWS ALB
 http://stream.bestvideostreaming.is/10020/index.m3u8
-SYRI TV
+#EXTINF:-1,SYRI TV
 http://stream.bestvideostreaming.is/10021/index.m3u8
-FAX NEWS
+#EXTINF:-1,FAX NEWS
 http://stream.bestvideostreaming.is/10022/index.m3u8
-ABC NEWS
+#EXTINF:-1,ABC NEWS
 http://stream.bestvideostreaming.is/10023/index.m3u8
-NEWS 24
+#EXTINF:-1,NEWS 24
 http://stream.bestvideostreaming.is/8724/index.m3u8
-TOP NEWS
+#EXTINF:-1,TOP NEWS
 http://stream.bestvideostreaming.is/10025/index.m3u8
-ARTA NEWS
+#EXTINF:-1,ARTA NEWS
 http://stream.bestvideostreaming.is/8745/index.m3u8
-A1 REPORT
+#EXTINF:-1,A1 REPORT
 http://stream.bestvideostreaming.is/8707/index.m3u8
-ORA NEWS
+#EXTINF:-1,ORA NEWS
 http://stream.bestvideostreaming.is/8715/index.m3u8
-A2 CNN
+#EXTINF:-1,A2 CNN
 http://stream.bestvideostreaming.is/8761/index.m3u8
-SSPORT NEWS SD
+#EXTINF:-1,SSPORT NEWS SD
 http://stream.bestvideostreaming.is/10030/index.m3u8
-SUPER SPORT 2
+#EXTINF:-1,SUPER SPORT 2
 http://stream.bestvideostreaming.is/8734/index.m3u8
-SUPER SPORT 3
+#EXTINF:-1,SUPER SPORT 3
 http://stream.bestvideostreaming.is/8741/index.m3u8
-SUPER SPORT 4
+#EXTINF:-1,SUPER SPORT 4
 http://stream.bestvideostreaming.is/8743/index.m3u8
-SUPER SPORT 5
+#EXTINF:-1,SUPER SPORT 5
 http://stream.bestvideostreaming.is/8736/index.m3u8
-K SPORT 1
+#EXTINF:-1,K SPORT 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
-K SPORT 2
+#EXTINF:-1,K SPORT 2
 http://stream.bestvideostreaming.is/10036/index.m3u8
-TRING SPORT NEWS
+#EXTINF:-1,TRING SPORT NEWS
 http://stream.bestvideostreaming.is/8785/index.m3u8
-TRING SPORT 1
+#EXTINF:-1,TRING SPORT 1
 http://stream.bestvideostreaming.is/8796/index.m3u8
-TRING SPORT 2
+#EXTINF:-1,TRING SPORT 2
 http://stream.bestvideostreaming.is/8797/index.m3u8
-ABC NEWS
-
-NEWS 24
+#EXTINF:-1,ABC NEWS
 http://stream.bestvideostreaming.is/8724/index.m3u8
-TOP NEWS
+#EXTINF:-1,TOP NEWS
 http://stream.bestvideostreaming.is/10025/index.m3u8
-ARTA NEWS
+#EXTINF:-1,ARTA NEWS
 http://stream.bestvideostreaming.is/8745/index.m3u8
-A1 REPORT
+#EXTINF:-1,A1 REPORT
 http://stream.bestvideostreaming.is/8707/index.m3u8
-ORA NEWS
+#EXTINF:-1,ORA NEWS
 http://stream.bestvideostreaming.is/8715/index.m3u8
-A2 CNN
+#EXTINF:-1,A2 CNN
 http://stream.bestvideostreaming.is/8761/index.m3u8
-SSPORT NEWS
+#EXTINF:-1,SSPORT NEWS
 http://stream.bestvideostreaming.is/10030/index.m3u8 
-SUPER SPORT 2
+#EXTINF:-1,SUPER SPORT 2
 http://stream.bestvideostreaming.is/8734/index.m3u8
-SUPER SPORT 3
+#EXTINF:-1,SUPER SPORT 3
 http://stream.bestvideostreaming.is/8741/index.m3u8
-SUPER SPORT 4
+#EXTINF:-1,SUPER SPORT 4
 http://stream.bestvideostreaming.is/8743/index.m3u8
-SUPER SPORT 5
+#EXTINF:-1,SUPER SPORT 5
 http://stream.bestvideostreaming.is/8736/index.m3u8
-K SPORT 1
+#EXTINF:-1,K SPORT 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
-K SPORT 2
+#EXTINF:-1,K SPORT 2
 http://stream.bestvideostreaming.is/10036/index.m3u8
-TRING SPORT NEWS
+#EXTINF:-1,TRING SPORT NEWS
 http://stream.bestvideostreaming.is/8785/index.m3u8
-TRING SPORT 1
+#EXTINF:-1,TRING SPORT 1
 http://stream.bestvideostreaming.is/8796/index.m3u8
-TRING SPORT 2
+#EXTINF:-1,TRING SPORT 2
 http://stream.bestvideostreaming.is/8797/index.m3u8
-TRING SPORT 3
+#EXTINF:-1,TRING SPORT 3
 http://stream.bestvideostreaming.is/8798/index.m3u8
-TRING SPORT 4
+#EXTINF:-1,TRING SPORT 4
 http://stream.bestvideostreaming.is/8799/index.m3u8
-SPORT PLUS 1
+#EXTINF:-1,SPORT PLUS 1
 http://stream.bestvideostreaming.is/7001/index.m3u8
-SPORT PLUS 2
+#EXTINF:-1,SPORT PLUS 2
 http://stream.bestvideostreaming.is/7002/index.m3u8
-SPORT PLUS 3
+#EXTINF:-1,SPORT PLUS 3
 http://stream.bestvideostreaming.is/7003/index.m3u8
-SPORT PLUS 4
+#EXTINF:-1,SPORT PLUS 4
 http://stream.bestvideostreaming.is/7004/index.m3u8
-RTSH SHQIP
+#EXTINF:-1,RTSH SHQIP
 http://stream.bestvideostreaming.is/8721/index.m3u8
-TRING SHQIP
+#EXTINF:-1,TRING SHQIP
 http://stream.bestvideostreaming.is/8762/index.m3u8
-T HD
+#EXTINF:-1,T HD
 http://stream.bestvideostreaming.is/8746/index.m3u8
-3 PLUS
+#EXTINF:-1,3 PLUS
 http://stream.bestvideostreaming.is/8773/index.m3u8
-FILM1
+#EXTINF:-1,FILM1
 http://stream.bestvideostreaming.is/8730/index.m3u8
-FILM2
+#EXTINF:-1,FILM2
 http://stream.bestvideostreaming.is/8731/index.m3u8
-FILM HITS
+#EXTINF:-1,FILM HITS
 http://stream.bestvideostreaming.is/8755/index.m3u8
-FILM AKSION
+#EXTINF:-1,FILM AKSION
 http://stream.bestvideostreaming.is/8742/index.m3u8
-FILM THRILLER
+#EXTINF:-1,FILM THRILLER
 http://stream.bestvideostreaming.is/8757/index.m3u8
-EUROFILM
+#EXTINF:-1,EUROFILM
 http://stream.bestvideostreaming.is/8758/index.m3u8
-FILM DRAME
+#EXTINF:-1,FILM DRAME
 http://stream.bestvideostreaming.is/8727/index.m3u8
-FILM AUTOR
+#EXTINF:-1,FILM AUTOR
 http://stream.bestvideostreaming.is/8753/index.m3u8
-FILM KOMEDI
+#EXTINF:-1,FILM KOMEDI
 http://stream.bestvideostreaming.is/8752/index.m3u8
-TRING COMEDY
+#EXTINF:-1,TRING COMEDY
 http://stream.bestvideostreaming.is/8767/index.m3u8
-TRING FANTASY
+#EXTINF:-1,TRING FANTASY
 http://stream.bestvideostreaming.is/8766/index.m3u8
-TRING SUPER
+#EXTINF:-1,TRING SUPER
 http://stream.bestvideostreaming.is/8770/index.m3u8
-TRING ACTION
+#EXTINF:-1,TRING ACTION
 http://stream.bestvideostreaming.is/8769/index.m3u8
-KANAL D DRAMA
+#EXTINF:-1,KANAL D DRAMA
 http://stream.bestvideostreaming.is/6263/index.m3u8
-JOLLY HD
+#EXTINF:-1,JOLLY HD
 http://stream.bestvideostreaming.is/8774/index.m3u8
-STINET
+#EXTINF:-1,STINET
 http://stream.bestvideostreaming.is/8751/index.m3u8
-KLAN PLUS
+#EXTINF:-1,KLAN PLUS
 http://stream.bestvideostreaming.is/8720/index.m3u8
-DIZI
+#EXTINF:-1,DIZI
 http://stream.bestvideostreaming.is/2508/index.m3u8
-FAMILY HD
+#EXTINF:-1,FAMILY HD
 http://stream.bestvideostreaming.is/8754/index.m3u8
-TEVE AKSION
+#EXTINF:-1,TEVE AKSION
 http://stream.bestvideostreaming.is/9200/index.m3u8
-TEVE KOMEDI
+#EXTINF:-1,TEVE KOMEDI
 http://stream.bestvideostreaming.is/9203/index.m3u8
-TEVE DRAME
+#EXTINF:-1,TEVE DRAME
 http://stream.bestvideostreaming.is/9201/index.m3u8
-TEVE FANTAZI
+#EXTINF:-1,TEVE FANTAZI
 http://stream.bestvideostreaming.is/9202/index.m3u8
-TEVE NOVELA
+#EXTINF:-1,TEVE NOVELA
 http://stream.bestvideostreaming.is/9205/index.m3u8
-TEVE DOKU 1
+#EXTINF:-1,TEVE DOKU 1
 http://stream.bestvideostreaming.is/9301/index.m3u8
-TEVE DOKU 2
+#EXTINF:-1,TEVE DOKU 2
 http://stream.bestvideostreaming.is/9302/index.m3u8
-EXP NATYRA
+#EXTINF:-1,EXP NATYRA
 http://stream.bestvideostreaming.is/8739/index.m3u8
-EXP SHKENCE
+#EXTINF:-1,EXP SHKENCE
 http://stream.bestvideostreaming.is/8726/index.m3u8
-EXP HISTORI
+#EXTINF:-1,EXP HISTORI
 http://stream.bestvideostreaming.is/8729/index.m3u8
-TRING PLANET
+#EXTINF:-1,TRING PLANET
 http://stream.bestvideostreaming.is/8764/index.m3u8
-TRING WORLD
+#EXTINF:-1,TRING WORLD
 http://stream.bestvideostreaming.is/8763/index.m3u8
-TRING HISTORI
+#EXTINF:-1,TRING HISTORI
 http://stream.bestvideostreaming.is/8765/index.m3u8
-NATIONAL WILD
+#EXTINF:-1,NATIONAL WILD
 http://stream.bestvideostreaming.is/8886/index.m3u8
-NAT GEOGRAPHIC
+#EXTINF:-1,NAT GEOGRAPHIC
 http://stream.bestvideostreaming.is/8725/index.m3u8
-PREMIUM CHANNEL
+#EXTINF:-1,PREMIUM CHANNEL
 http://stream.bestvideostreaming.is/8888/index.m3u8
-TRING LIFE
+#EXTINF:-1,TRING LIFE
 http://stream.bestvideostreaming.is/8768/index.m3u8
-MUSE
+#EXTINF:-1,MUSE
 http://stream.bestvideostreaming.is/8778/index.m3u8
-TRING SMILE
+#EXTINF:-1,TRING SMILE
 http://stream.bestvideostreaming.is/8772/index.m3u8
-21 MIX
+#EXTINF:-1,21 MIX
 http://stream.bestvideostreaming.is/8756/index.m3u8
-RTV FONTANA
+#EXTINF:-1,RTV FONTANA
 http://stream.bestvideostreaming.is/8852/index.m3u8
-TAO TAO
+#EXTINF:-1,TAO TAO
 http://stream.bestvideostreaming.is/10090/index.m3u8
-BABY TV
+#EXTINF:-1,BABY TV
 http://stream.bestvideostreaming.is/8747/index.m3u8
-BANG BANG
+#EXTINF:-1,BANG BANG
 http://stream.bestvideostreaming.is/8737/index.m3u8
-BUBBLE
+#EXTINF:-1,BUBBLE
 http://stream.bestvideostreaming.is/8738/index.m3u8
-TIP TV
+#EXTINF:-1,TIP TV
 http://stream.bestvideostreaming.is/8776/index.m3u8
-SOFIA
+#EXTINF:-1,SOFIA
 http://stream.bestvideostreaming.is/8820/index.m3u8
-TRING KIDS
+#EXTINF:-1,TRING KIDS
 http://stream.bestvideostreaming.is/8777/index.m3u8
-TRING TRING
+#EXTINF:-1,TRING TRING
 http://stream.bestvideostreaming.is/8775/index.m3u8
-TEVE KIDS
+#EXTINF:-1,TEVE KIDS
 http://stream.bestvideostreaming.is/9204/index.m3u8
-ALB UK
+#EXTINF:-1,ALB UK
 http://stream.bestvideostreaming.is/8794/index.m3u8
-ELRODI
+#EXTINF:-1,ELRODI
 http://stream.bestvideostreaming.is/8718/index.m3u8
-FOLK+
+#EXTINF:-1,FOLK+
 http://stream.bestvideostreaming.is/8759/index.m3u8
-RTV21 POPULLORE
+#EXTINF:-1,RTV21 POPULLORE
 http://stream.bestvideostreaming.is/8749/index.m3u8
-MUZIKE FOLKLORITE
+#EXTINF:-1,MUZIKE FOLKLORITE
 http://stream.bestvideostreaming.is/8735/index.m3u8
-EURO AL
+#EXTINF:-1EURO AL
 http://stream.bestvideostreaming.is/8719/index.m3u8
-DASMA TV
+#EXTINF:-1,DASMA TV
 http://stream.bestvideostreaming.is/8793/index.m3u8
-BBF
+#EXTINF:-1,BBF
 http://stream.bestvideostreaming.is/8795/index.m3u8
-A-MOL TV
+#EXTINF:-1,A-MOL TV
 http://stream.bestvideostreaming.is/7722/index.m3u8
-RTV21 PLUS
+#EXTINF:-1,RTV21 PLUS
 http://stream.bestvideostreaming.is/8750/index.m3u8
-RTSH MUZIKE
+#EXTINF:-1,RTSH MUZIKE
 http://stream.bestvideostreaming.is/8052/index.m3u8
-MTV KOSOVA
+#EXTINF:-1,MTV KOSOVA
 http://stream.bestvideostreaming.is/8853/index.m3u8
-TV OPOJA
+#EXTINF:-1,TV OPOJA
 http://stream.bestvideostreaming.is/8723/index.m3u8
-TV DIASPORA
+#EXTINF:-1,TV DIASPORA
 http://stream.bestvideostreaming.is/8779/index.m3u8
-TRING LIVING
+#EXTINF:-1,TRING LIVING
 http://stream.bestvideostreaming.is/8771/index.m3u8
-TURBO
+#EXTINF:-1,TURBO
 http://stream.bestvideostreaming.is/8839/index.m3u8
-MY MUSIC
+#EXTINF:-1,MY MUSIC
 http://stream.bestvideostreaming.is/8821/index.m3u8
-TV MITROVICA
+#EXTINF:-1,TV MITROVICA
 http://stream.bestvideostreaming.is/8716/index.m3u8
-TV SHENJA
+#EXTINF:-1,TV SHENJA
 http://stream.bestvideostreaming.is/8850/index.m3u8
-TV LLAPI
+#EXTINF:-1,TV LLAPI
 http://stream.bestvideostreaming.is/8823/index.m3u8
-KLAN MAQEDONIA
+#EXTINF:-1,KLAN MAQEDONIA
 http://stream.bestvideostreaming.is/8789/index.m3u8
-TV BESA
+#EXTINF:-1,TV BESA
 http://stream.bestvideostreaming.is/8817/index.m3u8
-PEACE TV
+#EXTINF:-1,PEACE TV
 http://stream.bestvideostreaming.is/8792/index.m3u8
-RTV ISLAM
+#EXTINF:-1,RTV ISLAM
 http://stream.bestvideostreaming.is/8714/index.m3u8
-RTV PENDIMI
+#EXTINF:-1,RTV PENDIMI
 http://stream.bestvideostreaming.is/8786/index.m3u8
-DRITA TV
+#EXTINF:-1,DRITA TV
 http://stream.bestvideostreaming.is/8890/index.m3u8
-SYRI VISION
+#EXTINF:-1,SYRI VISION
 http://stream.bestvideostreaming.is/8784/index.m3u8
-TV DIELLI
+#EXTINF:-1,TV DIELLI
 http://stream.bestvideostreaming.is/8818/index.m3u8
-ROZAFA TV
+#EXTINF:-1,ROZAFA TV
 http://stream.bestvideostreaming.is/10127/index.m3u8
-ORA TV
+#EXTINF:-1,ORA TV
 http://stream.bestvideostreaming.is/8812/index.m3u8
-RTK 3
+#EXTINF:-1,RTK 3
 http://stream.bestvideostreaming.is/8902/index.m3u8
-RTK 4
+#EXTINF:-1,RTK 4
 http://stream.bestvideostreaming.is/8903/index.m3u8
-TV ERA
+#EXTINF:-1,TV ERA
 http://stream.bestvideostreaming.is/8710/index.m3u8
-MCN 24
+#EXTINF:-1,MCN 24
 http://stream.bestvideostreaming.is/8873/index.m3u8
-MCN TV
+#EXTINF:-1,MCN TV
 http://stream.bestvideostreaming.is/8872/index.m3u8
-TRING ORIGINAL
+#EXTINF:-1,TRING ORIGINAL
 http://stream.bestvideostreaming.is/8802/index.m3u8
-TRING COLLECTION
+#EXTINF:-1,TRING COLLECTION
 http://stream.bestvideostreaming.is/8813/index.m3u8
-TRING NOVELAS
+#EXTINF:-1,TRING NOVELAS
 http://stream.bestvideostreaming.is/8871/index.m3u8
-TURKISH STORIES
+#EXTINF:-1,TURKISH STORIES
 http://stream.bestvideostreaming.is/8814/index.m3u8
-TRING FAMILY
+#EXTINF:-1,TRING FAMILY
 http://stream.bestvideostreaming.is/8815/index.m3u8
-ACTV
+#EXTINF:-1,ACTV
 http://stream.bestvideostreaming.is/8815/index.m3u8
-STAR TV HD
+#EXTINF:-1,STAR TV HD
 http://stream.bestvideostreaming.is/8781/index.m3u8
-SKY 7
+#EXTINF:-1,SKY 7
 http://stream.bestvideostreaming.is/8889/index.m3u8
-SKY AKSION
+#EXTINF:-1,SKY AKSION
 http://stream.bestvideostreaming.is/8880/index.m3u8
-SKY MAX
+#EXTINF:-1,SKY MAX
 http://stream.bestvideostreaming.is/8882/index.m3u8
-SKY DRAME
+#EXTINF:-1,SKY DRAME
 http://stream.bestvideostreaming.is/8883/index.m3u8
-SKY NOVELA
+#EXTINF:-1,SKY NOVELA
 http://stream.bestvideostreaming.is/8884/index.m3u8
-FERMA VIP 1
+#EXTINF:-1,FERMA VIP 1
 http://stream.bestvideostreaming.is/8840/index.m3u8
-FERMA VIP 2
+#EXTINF:-1,FERMA VIP 2
 http://stream.bestvideostreaming.is/8841/index.m3u8
-BIG BROTHER AL 1
+#EXTINF:-1,BIG BROTHER AL 1
 http://stream.bestvideostreaming.is/8842/index.m3u8
-BIG BROTHER AL 2
+#EXTINF:-1,BIG BROTHER AL 2
 http://stream.bestvideostreaming.is/8843/index.m3u8
-RTL DE
+#EXTINF:-1,RTL DE
 http://stream.bestvideostreaming.is/4131/index.m3u8
-RTL2 DE
+#EXTINF:-1,RTL2 DE
 http://stream.bestvideostreaming.is/4132/index.m3u8
-PRO 7
+#EXTINF:-1,PRO 7
 http://stream.bestvideostreaming.is/8615/index.m3u8
-VOX
+#EXTINF:-1,VOX
 http://stream.bestvideostreaming.is/4478/index.m3u8
-ZDF HD
+#EXTINF:-1,ZDF HD
 http://stream.bestvideostreaming.is/8624/index.m3u8
-SAT 1
+#EXTINF:-1,SAT 1
 http://stream.bestvideostreaming.is/8626/index.m3u8
-KABEL 1
+#EXTINF:-1,KABEL 1
 http://stream.bestvideostreaming.is/8625/index.m3u8
-DMAX
+#EXTINF:-1,DMAX
 http://stream.bestvideostreaming.is/4138/index.m3u8
-ARD 1
+#EXTINF:-1,ARD 1
 http://stream.bestvideostreaming.is/8628/index.m3u8
 3 SAT
 http://stream.bestvideostreaming.is/4140/index.m3u8
-TOGGO
+#EXTINF:-1,TOGGO
 http://stream.bestvideostreaming.is/4141/index.m3u8
-NICKELODEON
+#EXTINF:-1,NICKELODEON
 http://stream.bestvideostreaming.is/4142/index.m3u8
-BLOOMBERG
+#EXTINF:-1,BLOOMBERG
 http://stream.bestvideostreaming.is/4143/index.m3u8
-N24 DE
+#EXTINF:-1,N24 DE
 http://stream.bestvideostreaming.is/8627/index.m3u8
-EURONEWS DE
+#EXTINF:-1,EURONEWS DE
 http://stream.bestvideostreaming.is/4145/index.m3u8
-ALJAZEERA BALKANS
+#EXTINF:-1,ALJAZEERA BALKANS
 http://stream.bestvideostreaming.is/4146/index.m3u8
-HRT 1
+#EXTINF:-1,HRT 1
 http://stream.bestvideostreaming.is/4147/index.m3u8
-RTL HR
+#EXTINF:-1,RTL HR
 http://stream.bestvideostreaming.is/4148/index.m3u8
-DOMA TV
+#EXTINF:-1,DOMA TV
 http://stream.bestvideostreaming.is/4149/index.m3u8
-NOVA TV
+#EXTINF:-1,NOVA TV
 http://stream.bestvideostreaming.is/4150/index.m3u8
-MEGA
+#EXTINF:-1,MEGA
 http://stream.bestvideostreaming.is/4152/index.m3u8
-ANT 1
+#EXTINF:-1,ANT 1
 http://stream.bestvideostreaming.is/4153/index.m3u8
-ERT 1
+#EXTINF:-1,ERT 1
 http://stream.bestvideostreaming.is/8403/index.m3u8
-ERT 2
+#EXTINF:-1,ERT 2
 http://stream.bestvideostreaming.is/4155/index.m3u8
-SKAI
+#EXTINF:-1,SKAI
 http://stream.bestvideostreaming.is/4156/index.m3u8
-VOULI
+#EXTINF:-1,VOULI
 http://stream.bestvideostreaming.is/8405/index.m3u8
-KONTRA
+#EXTINF:-1,KONTRA
 http://stream.bestvideostreaming.is/4158/index.m3u8
-NEA TV
+#EXTINF:-1,NEA TV
 http://stream.bestvideostreaming.is/4159/index.m3u8
-BFM TV
+#EXTINF:-1,BFM TV
 http://stream.bestvideostreaming.is/7741/index.m3u8
-LCI
+#EXTINF:-1,LCI
 http://stream.bestvideostreaming.is/8830/index.m3u8
-FRANCE 2
+#EXTINF:-1,FRANCE 2
 http://stream.bestvideostreaming.is/8831/index.m3u8
-NRJ 12
+#EXTINF:-1,NRJ 12
 http://stream.bestvideostreaming.is/7732/index.m3u8
-FRANCE 24
+#EXTINF:-1,FRANCE 24
 http://stream.bestvideostreaming.is/8829/index.m3u8
-TRT TURK
+#EXTINF:-1,TRT TURK
 http://stream.bestvideostreaming.is/8620/index.m3u8
-TRT HABER
+#EXTINF:-1,TRT HABER
 http://stream.bestvideostreaming.is/8127/index.m3u8
-TRT MUZIK
+#EXTINF:-1,TRT MUZIK
 http://stream.bestvideostreaming.is/8123/index.m3u8
-TRT AVAZ
+#EXTINF:-1,TRT AVAZ
 http://stream.bestvideostreaming.is/8126/index.m3u8
-ATV
+#EXTINF:-1,ATV
 http://stream.bestvideostreaming.is/8410/index.m3u8
-KANAL D
+#EXTINF:-1,KANAL D
 http://stream.bestvideostreaming.is/8120/index.m3u8
-TRT COCUK
+#EXTINF:-1,TRT COCUK
 http://stream.bestvideostreaming.is/8411/index.m3u8
-A SPOR
+#EXTINF:-1,A SPOR
 http://stream.bestvideostreaming.is/8412/index.m3u8
-FOX TR
+#EXTINF:-1,FOX TR
 http://stream.bestvideostreaming.is/8413/index.m3u8
-STAR TR
+#EXTINF:-1,STAR TR
 http://stream.bestvideostreaming.is/8414/index.m3u8
-SHOW TR
-http://stream.bestvideostreaming.is/8415/index.m3u8 
-RTK HD
+#EXTINF:-1,SHOW TR
+http://stream.bestvideostreaming.is/8415/index.m3u8
+#EXTINF:-1,RTK HD
 http://stream.bestvideostreaming.is/3016/index.m3u8
-TOP CHANNEL HD
+#EXTINF:-1,TOP CHANNEL HD
 http://stream.bestvideostreaming.is/3018/index.m3u8
-KLAN HD
+#EXTINF:-1,KLAN HD
 http://stream.bestvideostreaming.is/3001/index.m3u8
-VIZION + HD
+#EXTINF:-1,VIZION + HD
 http://stream.bestvideostreaming.is/8003/index.m3u8
-KTV HD
+#EXTINF:-1,KTV HD
 http://stream.bestvideostreaming.is/3015/index.m3u8
-RTV 21HD
+#EXTINF:-1,RTV 21HD
 http://stream.bestvideostreaming.is/3008/index.m3u8
-KLAN KS HD
+#EXTINF:-1,KLAN KS HD
 http://stream.bestvideostreaming.is/3017/index.m3u8
-TRING SPORT 1 HD
+#EXTINF:-1,TRING SPORT 1 HD
 http://stream.bestvideostreaming.is/3011/index.m3u8
-TRING SPORT 2 HD
+#EXTINF:-1,TRING SPORT 2 HD
 http://stream.bestvideostreaming.is/3012/index.m3u8
-SUPER SPORT 2 HD
+#EXTINF:-1,SUPER SPORT 2 HD
 http://stream.bestvideostreaming.is/3002/index.m3u8
-SUPER SPORT 3 HD
+#EXTINF:-1,SUPER SPORT 3 HD
 http://stream.bestvideostreaming.is/3003/index.m3u8
-SUPER SPORT 4 HD
+#EXTINF:-1,SUPER SPORT 4 HD
 http://stream.bestvideostreaming.is/3004/index.m3u8
-TV DUKAGJINI HD
+#EXTINF:-1,TV DUKAGJINI HD
 http://stream.bestvideostreaming.is/3010/index.m3u8
-FILM 1 HD
+#EXTINF:-1,FILM 1 HD
 http://stream.bestvideostreaming.is/3005/index.m3u8
-FILM 2 HD
+#EXTINF:-1,FILM 2 HD
 http://stream.bestvideostreaming.is/3006/index.m3u8
-FOX MOVIES
+#EXTINF:-1,FOX MOVIES
 http://stream.bestvideostreaming.is/10252/index.m3u8
-FOX LIFE
+#EXTINF:-1,FOX LIFE
 http://stream.bestvideostreaming.is/8861/index.m3u8
-FOX TV OPINION
-http://stream.bestvideostreaming.is/8819/index.m3u8 
+#EXTINF:-1,FOX TV OPINION
+http://stream.bestvideostreaming.is/8819/index.m3u8
