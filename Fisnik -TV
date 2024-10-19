@@ -17,6 +17,10 @@ http://stream.bestvideostreaming.is/8748/index.m3u8
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,TEVE 1
 http://stream.bestvideostreaming.is/6010/index.m3u8
+#EXTINF:-1,BBK VIP 1
+http://stream.bestvideostreaming.is/8842/index.m3u8
+#EXTINF:-1,BBK VIP 2
+http://stream.bestvideostreaming.is/8843/index.m3u8
 #EXTINF:-1,Film Aksion
 http://stream.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1,Digi Gold
