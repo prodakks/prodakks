@@ -7,8 +7,6 @@ http://stream.bestvideostreaming.is/8702/index.m3u8
 http://stream.bestvideostreaming.is/8903/index.m3u8
 #EXTINF:-1,Klan Kosova
 http://stream.bestvideostreaming.is/8706/index.m3u8
-#EXTINF:-1,Klan Kosova 2
-http://176.10.104.196:8080/klankosova/index.m3u8
 #EXTINF:-1,Klan TV
 http://stream.bestvideostreaming.is/8704/index.m3u8
 #EXTINF:-1,RTV 21
