@@ -33,10 +33,6 @@ http://stream.bestvideostreaming.is/8753/index.m3u8
 http://stream.bestvideostreaming.is/8752/index.m3u8
 #EXTINF:-1,FILM Max
 http://stream.bestvideostreaming.is/8731/index.m3u8
-#EXTINF:-1,Kanali T Shqip
-http://stream.bestvideostreaming.is/8746/index.m3u8
-#EXTINF:-1,FILM THRILLER
-http://stream.bestvideostreaming.is/8757/index.m3u8
 #EXTINF:-1,TRING AKSION
 http://stream.bestvideostreaming.is/8769/index.m3u8
 #EXTINF:-1,TRING COLLECTION
@@ -45,6 +41,10 @@ http://stream.bestvideostreaming.is/8813/index.m3u8
 http://stream.bestvideostreaming.is/8767/index.m3u8
 #EXTINF:-1,TRING SUPER
 http://stream.bestvideostreaming.is/8770/index.m3u8
+#EXTINF:-1,Kanali T Shqip
+http://stream.bestvideostreaming.is/8746/index.m3u8
+#EXTINF:-1,FILM THRILLER
+http://stream.bestvideostreaming.is/8757/index.m3u8
 #EXTINF:-1,Tring Series
 http://stream.bestvideostreaming.is/8774/index.m3u8
 #EXTINF:-1,STINET
