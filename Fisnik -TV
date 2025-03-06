@@ -69,32 +69,36 @@ http://stream.bestvideostreaming.is/8797/index.m3u8
 http://stream.bestvideostreaming.is/8798/index.m3u8
 #EXTINF:-1,TRING SPORT 4
 http://stream.bestvideostreaming.is/8799/index.m3u8
-#EXTINF:-1,SPORT 1
-http://stream.bestvideostreaming.is/7003/index.m3u8
-#EXTINF:-1,SPORT 2
-http://stream.bestvideostreaming.is/7002/index.m3u8
-#EXTINF:-1,SPORT 3
-http://stream.bestvideostreaming.is/7003/index.m3u8
-#EXTINF:-1,SPORT 4
-http://stream.bestvideostreaming.is/7004/index.m3u8
 #EXTINF:-1,Art SPORT 1
-http://95.214.235.96:8880/29ca10183n04/asdfe332/30623
+http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,Art SPORT 2
-http://95.214.235.96:8880/29ca10183n04/asdfe332/30622
+http://stream.bestvideostreaming.is/7002/index.m3u8
 #EXTINF:-1,Art SPORT 3
-http://95.214.235.96:8880/29ca10183n04/asdfe332/30621
-#EXTINF:-1,Art Sport 4
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75468.ts
-#EXTINF:-1,Art Sport 5
-http://supertv.xyz:8080/BekaPD/e7U4HvwrXG/75469.ts
-#EXTINF:-1,Kujtesa SPORT 1
-http://95.214.235.96:8880/29ca10183n04/asdfe332/30569
-#EXTINF:-1,Kujtesa SPORT 2
-http://95.214.235.96:8880/29ca10183n04/asdfe332/30566
-#EXTINF:-1,Kujtesa SPORT 3
-http://95.214.235.96:8880/29ca10183n04/asdfe332/30565
-#EXTINF:-1,Kujtesa SPORT 4
-http://95.214.235.96:8880/29ca10183n04/asdfe332/30450
+http://stream.bestvideostreaming.is/7003/index.m3u8
+#EXTINF:-1,Art SPORT 4
+http://stream.bestvideostreaming.is/7004/index.m3u8
+#EXTINF:-1,ART Sport 1
+http://iptvtree.net:8080/nuqi2/f9f02d45/23143
+#EXTINF:-1,ART Sport 2
+http://iptvtree.net:8080/nuqi2/f9f02d45/23146
+#EXTINF:-1,ART Sport 3
+http://iptvtree.net:8080/nuqi2/f9f02d45/40061
+#EXTINF:-1,ART Sport 4
+http://iptvtree.net:8080/nuqi2/f9f02d45/295216
+#EXTINF:-1,ART Sport 5
+http://iptvtree.net:8080/nuqi2/f9f02d45/295215
+#EXTINF:-1,Eurosport 1
+http://iptvtree.net:8080/nuqi2/f9f02d45/45047
+#EXTINF:-1,Eurosport 2
+http://iptvtree.net:8080/nuqi2/f9f02d45/16454
+#EXTINF:-1,Kujtesa Sport 1
+http://iptvtree.net:8080/nuqi2/f9f02d45/1863
+#EXTINF:-1,Kujtesa Sport 2
+http://iptvtree.net:8080/nuqi2/f9f02d45/1864
+#EXTINF:-1,Kujtesa Sport 3
+http://iptvtree.net:8080/nuqi2/f9f02d45/1865
+#EXTINF:-1,Kujtesa Sport 4
+http://iptvtree.net:8080/nuqi2/f9f02d45/1866
 #EXTINF:-1,Arena Sport 1 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
 #EXTINF:-1,Arena Sport 5 HR
