@@ -15,10 +15,6 @@ http://stream.bestvideostreaming.is/8748/index.m3u8
 http://stream.bestvideostreaming.is/8705/index.m3u8
 #EXTINF:-1,TEVE 1
 http://stream.bestvideostreaming.is/6010/index.m3u8
-#EXTINF:-1, BIG BROTHER AL 1
-http://stream.bestvideostreaming.is/8840/index.m3u8
-#EXTINF:-1, BIG BROTHER AL 2
-http://stream.bestvideostreaming.is/8841/index.m3u8
 #EXTINF:-1,Film Aksion
 http://stream.bestvideostreaming.is/8742/index.m3u8
 #EXTINF:-1,Digi Gold
@@ -77,28 +73,6 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,Art SPORT 4
 http://stream.bestvideostreaming.is/7004/index.m3u8
-#EXTINF:-1,ART Sport 1
-http://iptvtree.net:8080/nuqi2/f9f02d45/23143
-#EXTINF:-1,ART Sport 2
-http://iptvtree.net:8080/nuqi2/f9f02d45/23146
-#EXTINF:-1,ART Sport 3
-http://iptvtree.net:8080/nuqi2/f9f02d45/40061
-#EXTINF:-1,ART Sport 4
-http://iptvtree.net:8080/nuqi2/f9f02d45/295216
-#EXTINF:-1,ART Sport 5
-http://iptvtree.net:8080/nuqi2/f9f02d45/295215
-#EXTINF:-1,Eurosport 1
-http://iptvtree.net:8080/nuqi2/f9f02d45/45047
-#EXTINF:-1,Eurosport 2
-http://iptvtree.net:8080/nuqi2/f9f02d45/16454
-#EXTINF:-1,Kujtesa Sport 1
-http://iptvtree.net:8080/nuqi2/f9f02d45/1863
-#EXTINF:-1,Kujtesa Sport 2
-http://iptvtree.net:8080/nuqi2/f9f02d45/1864
-#EXTINF:-1,Kujtesa Sport 3
-http://iptvtree.net:8080/nuqi2/f9f02d45/1865
-#EXTINF:-1,Kujtesa Sport 4
-http://iptvtree.net:8080/nuqi2/f9f02d45/1866
 #EXTINF:-1,Arena Sport 1 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
 #EXTINF:-1,Arena Sport 5 HR
@@ -219,5 +193,3 @@ http://teutastream.com/tvteuta/index.m3u8
 http://stream.bestvideostreaming.is/4133/index.m3u8
 #EXTINF:-1,Ryply TV-eng
 http://69.64.57.208:8080/russiatoday/playlist.m3u8
-#EXTINF:-1,koncert white snake
-http://92.247.236.71:9800/Music%20Video/Whitesnake%20-%20Live%20In%20The%20Still%20Of%20The%20Night/Whitesnake%20live%202004%20MTVHD.ts
