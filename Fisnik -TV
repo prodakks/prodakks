@@ -73,6 +73,14 @@ http://stream.bestvideostreaming.is/7002/index.m3u8
 http://stream.bestvideostreaming.is/7003/index.m3u8
 #EXTINF:-1,Art SPORT 4
 http://stream.bestvideostreaming.is/7004/index.m3u8
+#EXTINF:-1,Kujtesa Sport 1
+http://185.222.138.254:8080/ksport1/index.m3u8
+#EXTINF:-1,Kujtesa Sport 2
+http://185.222.138.254:8080/ksport2/index.m3u8
+#EXTINF:-1,Kujtesa Sport 3
+http://185.222.138.254:8080/ksport3/index.m3u8
+#EXTINF:-1,Kujtesa Sport 4
+http://185.222.138.254:8080/ksport4/index.m3u8
 #EXTINF:-1,Arena Sport 1 RS
 http://ssl.aabbyyzz.eu:80/EkremRamic/6E9fZo80/3182
 #EXTINF:-1,Arena Sport 5 HR
