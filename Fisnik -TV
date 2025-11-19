@@ -13,10 +13,10 @@ http://stream.bestvideostreaming.is/8704/index.m3u8
 http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-1,KTV
 http://stream.bestvideostreaming.is/8705/index.m3u8
-#EXTINF:-1,Big Brother 1
-http://iptvtree.net:8080/nuqi2/f9f02d45/297206
-#EXTINF:-1,Big Brother 2
-http://iptvtree.net:8080/nuqi2/f9f02d45/297207
+#EXTINF:-1,BB KS 1
+http://stream.bestvideostreaming.is/8001/index.m3u8
+#EXTINF:-1,BB KS 2
+http://stream.bestvideostreaming.is/8002/index.m3u8
 #EXTINF:-1,TEVE 1
 http://stream.bestvideostreaming.is/6010/index.m3u8
 #EXTINF:-1,Film Aksion
