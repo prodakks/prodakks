@@ -193,7 +193,12 @@ http://stream.bestvideostreaming.is/8721/index.m3u8
 http://stream.bestvideostreaming.is/8762/index.m3u8
 #EXTINF:-1,VIZION +
 http://stream.bestvideostreaming.is/8703/index.m3u8
-#EXTINF:-1,Filma24 Western
-http://194.42.205.99:8070/nuqi2/f9f02d45/169855
 #EXTINF:-1,beinsport
 http://tv.zapping.life:8080/HDPinguino123dkdkkDDFFDFa/al3q83JYkd/9551
+#EXTINF:-1,AVIA
+http://iptv.prosto.tv:7000/ch306/video.m3u8
+#EXTINF:-1,Stream city
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+
+
+
