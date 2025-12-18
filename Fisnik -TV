@@ -79,12 +79,6 @@ http://stream.bestvideostreaming.is/7001/index.m3u8
 http://stream.bestvideostreaming.is/7004/index.m3u8
 #EXTINF:-1,Kujtesa Sport 1
 http://185.222.138.254:8080/ksport1/index.m3u8
-#EXTINF:-1,Kujtesa Sport 2
-http://185.222.138.254:8080/ksport2/index.m3u8
-#EXTINF:-1,Kujtesa Sport 3
-http://185.222.138.254:8080/ksport3/index.m3u8
-#EXTINF:-1,Kujtesa Sport 4
-http://185.222.138.254:8080/ksport4/index.m3u8
 #EXTINF:-1,K SPORT 1-ELEVEN 1
 http://stream.bestvideostreaming.is/10035/index.m3u8
 #EXTINF:-1,K SPORT 2-Z SELECT
