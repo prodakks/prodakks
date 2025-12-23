@@ -13,6 +13,10 @@ http://stream.bestvideostreaming.is/8704/index.m3u8
 http://stream.bestvideostreaming.is/8748/index.m3u8
 #EXTINF:-1,KTV
 http://stream.bestvideostreaming.is/8705/index.m3u8
+#EXTINF:-1,BIG BROTHER AL 1
+http://stream.bestvideostreaming.is/8840/index.m3u8
+#EXTINF:-1,BIG BROTHER AL 2
+http://stream.bestvideostreaming.is/8841/index.m3u8
 #EXTINF:-1,BB KS 1
 http://stream.bestvideostreaming.is/8001/index.m3u8
 #EXTINF:-1,BB KS 2
@@ -185,10 +189,6 @@ http://stream.bestvideostreaming.is/8762/index.m3u8
 http://stream.bestvideostreaming.is/8703/index.m3u8
 #EXTINF:-1,beinsport
 https://bulkalways.com:443/j6aT5f6r96/G4TwKKX2sv/438113
-#EXTINF:-1,BIG BROTHER AL 1
-http://stream.bestvideostreaming.is/8840/index.m3u8
-#EXTINF:-1,BIG BROTHER AL 2
-http://stream.bestvideostreaming.is/8841/index.m3u8
 #EXTINF:-1,AVIA
 http://iptv.prosto.tv:7000/ch306/video.m3u8
 #EXTINF:-1,classic movies
