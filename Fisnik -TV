@@ -17,10 +17,6 @@ http://stream.bestvideostreaming.is/8705/index.m3u8
 http://stream.bestvideostreaming.is/8840/index.m3u8
 #EXTINF:-1,BIG BROTHER AL 2
 http://stream.bestvideostreaming.is/8841/index.m3u8
-#EXTINF:-1,BB KS 1
-http://stream.bestvideostreaming.is/8001/index.m3u8
-#EXTINF:-1,BB KS 2
-http://stream.bestvideostreaming.is/8002/index.m3u8
 #EXTINF:-1,TEVE 1
 http://stream.bestvideostreaming.is/6010/index.m3u8
 #EXTINF:-1,Film Aksion
@@ -179,8 +175,6 @@ http://stream.bestvideostreaming.is/8766/index.m3u8
 http://stream.bestvideostreaming.is/8775/index.m3u8
 #EXTINF:-1,TRING FAMILY
 http://stream.bestvideostreaming.is/8754/index.m3u8
-#EXTINF:-1,Turkish Stories
-https://albtv.advanott.com/turkishstories/index.m3u8
 #EXTINF:-1,RTSH SHQIP
 http://stream.bestvideostreaming.is/8721/index.m3u8
 #EXTINF:-1,TRING SHQIP
